@@ -5,7 +5,7 @@ layout: col-generic
 
 ---
 
-The following people are the candidates for this year's OWASP Global Board of Directors.  Click each candidate's name to learn more about them.
+The following people are the candidates for the OWASP Global Board of Directors.  Click each candidate's name to learn more about them.
 
 {% assign candidates = site.pages | where: 'candidate', 'true' %}
 {% for candidate in candidates %}
