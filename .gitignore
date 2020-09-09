@@ -1,0 +1,15 @@
+joubin_jabbari.md
+bil_corry.md
+martin_knobloch.md
+haral_tsitsivas.md
+mike_thompson.md
+richard_greenberg.md
+/Gemfile
+/Gemfile.lock
+/favicon.ico
+_site/
+
+# Eclipse
+# -------
+*.project
+*.settings
