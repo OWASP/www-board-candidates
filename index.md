@@ -9,5 +9,5 @@ The following people are the candidates for the OWASP Global Board of Directors.
 
 {% assign candidates = site.pages | where: 'candidate', 'true' %}
 {% for candidate in candidates %}
-### [{{ candidate.title }}]( {{ candidate.url }} )
+### [{{ candidate.title }}]( /www-board-candidates/{{ candidate.url }} )
 {% endfor %}
