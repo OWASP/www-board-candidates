@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![https://github.com/OWASP/www-board-candidates/blob/master/assets/images/Headshot.jpg](#)
+![Richard Greenberg Image](https://github.com/OWASP/www-board-candidates/blob/master/assets/images/Headshot.jpg)
 
 My experiences as a CISO involve many of the things that are crucial for OWASP right now: vision, budget, strategic planning, communication, marketing, project management, and policies. The current pandemic that has turned our world upside down is having a dramatic effect on OWASP, as our main source of revenue, in-person conferences, has taken a heavy blow. OWASP needs a leader who has the wealth of years addressing challenges not unlike what we are facing today. I have long said that we need to increase our marketing efforts to spread the word more about all the terrific work project leaders are doing, and secure more corporate funding to make us more self-sustaining.
 
