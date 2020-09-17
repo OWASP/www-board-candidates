@@ -21,7 +21,9 @@ I was a Co-Chair of the highly successful AppSec USA in 2010 in Irvine, Californ
 
 I also speak at conferences and moderate panels on InfoSec and Secure Development, most recently at the ISACA conference and for EC-Council. I have worked with ISSA International to bring secure development talks into the general InfoSec community, including presentations to CISOs and at the ISSA International Conference.
 
-If we are going to affect change and help to get companies to take seriously the release of secure software, we cannot continue to just "preach to the choir", but must reach all those who can have a say in company policies. Collaboration is the key, and I have always been a strong proponent of this.
+If we are going to affect change and help to get companies to take seriously the release of secure software, we cannot continue to just "preach to the choir", but must reach all those who can have a say in company policies. Collaboration is the key, and I have always been a strong proponent of this. 
+
+I must also take a moment to strongly endorse my fellow Co-Chair from AppSec California, Haral Tsitsivas, who is also running for the Board. He has shown great vision, leadership, integrity, and the ability to get things done. He will represent you well, and ensure OWASP moves forward in the right direction.
 
 
 #### Link to Video
