@@ -6,3 +6,4 @@
     ![Name](/www-board-candidates/assets/images/image.png)
     ```
 * Videos should exist on a different platform (Twitch, YouTube, etc) and linked to from there.
+* Another excellent resource on [Github Markdown](https://guides.github.com/features/mastering-markdown/)
