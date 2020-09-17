@@ -6,7 +6,7 @@ layout: col-generic
 
 ---
 
-#### About Me
+#### Hello Fellow OWASP Members!
 ![Richard Greenberg Image](/www-board-candidates/assets/images/Headshot.jpg)
 
 My experiences as a CISO involve many of the things that are crucial for OWASP right now: vision, budget, strategic planning, communication, marketing, project management, and policies. The current pandemic that has turned our world upside down is having a dramatic effect on OWASP, as our main source of revenue, in-person conferences, has taken a heavy blow. OWASP needs a leader who has the wealth of years addressing challenges not unlike what we are facing today. I have long said that we need to increase our marketing efforts to spread the word more about all the terrific work project leaders are doing, and secure more corporate funding to make us more self-sustaining.
@@ -17,7 +17,7 @@ I was adamant about OWASP making a public statement when violence rocked our wor
 
 I have been a selfless and tireless volunteer for OWASP, helping to grow both the OWASP Los Angeles and Orange County chapters. I have been an instrumental force in uniting the information security community in the Southern California region. I have been involved in a multitude of projects and events, increasing awareness of OWASP and secure development and helping to grow membership. When I joined the OWASP LA Chapter, meetings were attracting 12-15 attendees. My marketing efforts and work with the vendor community to help sponsor meetings has driven attendance to 80-100 each month. There are currently 2,100 OWASP LA Meetup members. When the Orange County Chapter stopped meeting, Richard worked with the International Board and local volunteers in OC to reinvigorate the OC Chapter. It now meets monthly and has 1,200 Meetup members.
 
-I was a Co-Chair of the highly successful AppSec USA in 2010 in Irvine, California, and has been Co-Chair of the highly acclaimed AppSec California from its inception in 2014 to the present, conferences that have provided possibly the best speaker line-ups anywhere.
+I was a Co-Chair of the highly successful AppSec USA in 2010 in Irvine, California, and have been Co-Chair of the highly acclaimed AppSec California from its inception in 2014 to the present, conferences that have provided possibly the best speaker line-ups anywhere.
 
 I also speak at conferences and moderate panels on InfoSec and Secure Development, most recently at the ISACA conference and for EC-Council. I have worked with ISSA International to bring secure development talks into the general InfoSec community, including presentations to CISOs and at the ISSA International Conference.
 
