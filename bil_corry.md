@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Bil Corry](/www-board-candidates/assets/images/bil_corry.jpg =600x902)
+![Bil Corry](/www-board-candidates/assets/images/bil_corry.jpg | 600x902)
 
 I am a lifetime member of OWASP and I've been involved with OWASP since 2008. I am currently serving on the OWASP Compliance Committee, the Global AppSec San Francisco Organizing Committee, the Policy Review Committee, and am the Chapter Leader of the Nashua Chapter.  I've volunteered at AppSec USA, rounded up speakers for chapter meetings in Chicago and the Bay Area, hosted a Bay Area chapter meeting, helped WIA become a 2.0 Committee and have been a trainer using the OWASP Secure Coding deck.
 
