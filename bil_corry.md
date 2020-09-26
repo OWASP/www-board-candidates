@@ -40,6 +40,10 @@ Depending on [who you ask]( https://learning.candid.org/resources/blog/how-do-yo
 
 Regardless, the OWASP Board is supposed to be made up of OWASP members, we’re not looking for professional non-profit Board members, we’re looking for motivated and spirited individuals to join the Board to help shape the mission and direction.  I would encourage you to look at the passion, skills, and talents of the candidates and decide based on that. 
 
+For myself, I’ve volunteered with OWASP for over a decade and have attended a variety of Board meetings – I know how they operate.  Additionally, I am on the Compliance Committee, so I am well aware of the various Bylaws, rules, guidelines, and codes by which OWASP is governed.  Finally, I’ve operated my own $2M business with employees, so I am comfortable with budgets, finances, cash flow, forecasting, and everything else that goes with maintaining my fiduciary responsibility.
+
+As far as the international aspect to OWASP, I lived and worked in Europe (Luxembourg) for four years and attended OWASP events while I was there.  I know first-hand how important the international community is to the success of OWASP.
+
 
 #### What, if any, aspects do you think would need improving regarding OWASP membership?
 
