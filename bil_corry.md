@@ -18,7 +18,7 @@ Beyond my contributions to the web, I’ve also served on the W3C Tracking Prote
 In my professional capacity, I spent over a decade working as a web developer before switching to information security. As a security professional, I’ve worked for the largest fintech company in the world, PayPal, in both North America and Europe, and I’ve worked at the largest mobile chip design company in the world, Arm. At PayPal, I was responsible for application security across all product lines and subsidiaries worldwide, and for a time, I was the Information Technology Officer of the Bank, a statutory position within PayPal’s licensed banking unit based in Luxembourg (Europe). At Arm, I was responsible for the end-to-end security strategy for their connected devices products (aka IoT, internet of things) and reported two levels down from the CEO. Many people are unfamiliar with the Arm brand, however anyone using a mobile device has used an Arm product as nearly every mobile device on the planet has an Arm processor, including every Apple and Android phone and tablet.  Currently I am working at a fintech startup, Recurly, in the role of Security Assurance which includes information security and compliance activities.
 
 #### Link to Video
-[Bil Corry](#)
+[Bil Corry](https://youtu.be/Gu2XOnLPPeo)
 
 #### How will you help active projects thrive and become more recognized and used by the software industry?
 
