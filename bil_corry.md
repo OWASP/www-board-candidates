@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Bil Corry](/www-board-candidates/assets/images/bil_corry.jpg | 600x902)
+![Bil Corry](/www-board-candidates/assets/images/bil_corry.jpg)
 
 I am a lifetime member of OWASP and I've been involved with OWASP since 2008. I am currently serving on the OWASP Compliance Committee, the Global AppSec San Francisco Organizing Committee, the Policy Review Committee, and am the Chapter Leader of the Nashua Chapter.  I've volunteered at AppSec USA, rounded up speakers for chapter meetings in Chicago and the Bay Area, hosted a Bay Area chapter meeting, helped WIA become a 2.0 Committee and have been a trainer using the OWASP Secure Coding deck.
 
@@ -22,9 +22,17 @@ In my professional capacity, I spent over a decade working as a web developer be
 
 #### How will you help active projects thrive and become more recognized and used by the software industry?
 
-
+Projects thrive when they have enough volunteers to continue to improve the project, and a community of users that adopt the project and provide feedback.
+Projects become used and recognized when they meet a need in a substantial way.
+The Board can help Projects in three ways:
+# Provide budget support
+# Provide promotional opportunities (website, conferences, etc)
+# Provide an operating framework
+You’ll notice that none of the above guarantees a project will thrive or be adopted more widely.  That’s because the Project, not the Board, is the primary driver of its success.  The Board could become more involved, but I suspect Projects would prefer their autonomy.
+All of that said, Projects are an important part of delivering the mission of OWASP and as a Board member, I would be open to exploring new ways to support them.
 
 #### Please describe any previous experience you have had running or on the board of a large international non-profit.
+
 
 
 
@@ -37,6 +45,7 @@ In my professional capacity, I spent over a decade working as a web developer be
 
 
 #### How will you help OWASP to provide an even better user experience to our target audience via our websites and GitHub organization?
+
 
 
 #### What kind of specific partnerships would be beneficial for improving OWASP recognition and collaboration with the broader security community?
