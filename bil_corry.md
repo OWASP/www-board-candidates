@@ -59,6 +59,7 @@ Specifically, with regard to increasing participation by women and minorities: t
 
 #### How will you help OWASP to provide an even better user experience to our target audience via our websites and GitHub organization?
 
+Modifying the website to provide a better user experience is an operational issue handled by the Foundation Executive Director and Staff.  The Board can call this out as a priority and can provide resources, but ultimately the Foundation Executive Director and Staff are responsible for this. 
 
 
 #### What kind of specific partnerships would be beneficial for improving OWASP recognition and collaboration with the broader security community?
