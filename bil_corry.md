@@ -64,4 +64,4 @@ Modifying the website to provide a better user experience is an operational issu
 
 #### What kind of specific partnerships would be beneficial for improving OWASP recognition and collaboration with the broader security community?
 
-
+OWASP already enjoys broad recognition and already has collaboration with different organizations.  One area I think OWASP would find great value for partnering is with universities on secure coding curriculum.  Students do not emerge from the university with enough knowledge of application security issues to be prepared for the working environment.  OWASP could help develop curriculum while also elevating its recognition as a leader in application security.
