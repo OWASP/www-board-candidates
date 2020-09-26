@@ -25,9 +25,9 @@ In my professional capacity, I spent over a decade working as a web developer be
 Projects thrive when they have enough volunteers to continue to improve the project, and a community of users that adopt the project and provide feedback.
 Projects become used and recognized when they meet a need in a substantial way.
 The Board can help Projects in three ways:
-# Provide budget support
-# Provide promotional opportunities (website, conferences, etc)
-# Provide an operating framework
+1. Provide budget support
+2. Provide promotional opportunities (website, conferences, etc)
+3. Provide an operating framework
 You’ll notice that none of the above guarantees a project will thrive or be adopted more widely.  That’s because the Project, not the Board, is the primary driver of its success.  The Board could become more involved, but I suspect Projects would prefer their autonomy.
 All of that said, Projects are an important part of delivering the mission of OWASP and as a Board member, I would be open to exploring new ways to support them.
 
