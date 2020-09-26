@@ -47,10 +47,14 @@ As far as the international aspect to OWASP, I lived and worked in Europe (Luxem
 
 #### What, if any, aspects do you think would need improving regarding OWASP membership?
 
+I agree with the new [Membership policy](https://owasp.org/www-policy/operational/membership.html).
 
 
 #### What is your plan for increasing women and minority participation in OWASP?
 
+Increasing diversity in OWASP is something I have always been a champion of.  I joined OWASP’s [Women in AppSec Committee]( https://owasp.org/www-committee-wia/) several years ago, before it was a committee, and was instrumental in shepherding it into a committee using the OWASP Committee 2.0 rules.  That’s why I am so ecstatic that Andrew van der Stock, OWASP Executive Director, is actively focusing on diversity and inclusion for OWASP.
+
+Specifically, with regard to increasing participation by women and minorities: the biggest lift OWASP can do is ensure that we offer a welcoming environment for women and minorities.  As a Board member, I would require every OWASP event to meet its obligation to have a safe, welcoming environment by enforcing the Anti-Harassment Policy and ensuring it has teeth and is used in real-time at events.  One bad experience at our event means that person will likely never return, and further, they will tell others about their experience, causing yet more people to never give us a try.  There is no way to increase participation without having this in place.
 
 
 #### How will you help OWASP to provide an even better user experience to our target audience via our websites and GitHub organization?
