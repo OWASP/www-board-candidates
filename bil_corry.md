@@ -28,13 +28,18 @@ The Board can help Projects in three ways:
 1. Provide budget support
 2. Provide promotional opportunities (website, conferences, etc)
 3. Provide an operating framework
+
 You’ll notice that none of the above guarantees a project will thrive or be adopted more widely.  That’s because the Project, not the Board, is the primary driver of its success.  The Board could become more involved, but I suspect Projects would prefer their autonomy.
+
 All of that said, Projects are an important part of delivering the mission of OWASP and as a Board member, I would be open to exploring new ways to support them.
+
 
 #### Please describe any previous experience you have had running or on the board of a large international non-profit.
 
 Depending on [who you ask]( https://learning.candid.org/resources/blog/how-do-you-define-a-nonprofits-size/), a “large” non-profit has revenues of over $50M to $100M.  OWASP is under $5M, putting it in the “medium” category at most.  I am unaware of any Board member, past or present, that has experience sitting on a non-profit Board with revenues of over $50M.
+
 Regardless, the OWASP Board is supposed to be made up of OWASP members, we’re not looking for professional non-profit Board members, we’re looking for motivated and spirited individuals to join the Board to help shape the mission and direction.  I would encourage you to look at the passion, skills, and talents of the candidates and decide based on that. 
+
 
 #### What, if any, aspects do you think would need improving regarding OWASP membership?
 
