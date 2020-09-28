@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Mike Thompson
 layout: col-generic
 
