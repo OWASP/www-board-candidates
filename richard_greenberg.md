@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Richard Greenberg
 layout: col-generic
 
