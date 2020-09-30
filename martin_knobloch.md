@@ -31,7 +31,7 @@ Next to my responsibilities as member of the BoD, I focus on developer outreach,
 
 
 #### Link to Video
-[Martin Knobloch](#)
+[Martin Knobloch](https://youtu.be/HlD00gI9BA0)
 
 #### How will you help active projects thrive and become more recognized and used by the software industry?
 There are two parts to the answer to this question.  
