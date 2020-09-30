@@ -2,7 +2,7 @@
 
 candidate: true
 title: Joubin Jabbari
-layout: col-generic
+layout: col-sidebar
 
 ---
 
