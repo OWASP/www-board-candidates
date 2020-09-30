@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Haral Tsitsivas Image](/www-board-candidates/assets/images/Haral-profile-photo.png){:width=200px}
+![Haral Tsitsivas Image](/www-board-candidates/assets/images/Haral-profile-photo.png){:width="200px"}
 
 Hello Fellow OWASP members!
 
