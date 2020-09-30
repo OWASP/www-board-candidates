@@ -2,7 +2,10 @@
 
 candidate: true
 title: Joubin Jabbari
-layout: col-sidebar
+layout: col-document
+document: 2020 Global Board Candidates
+tags: 2020 Global Board Candidates
+
 
 ---
 
