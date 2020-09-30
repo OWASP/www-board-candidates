@@ -2,7 +2,7 @@
 
 candidate: true
 title: Martin Knobloch
-layout: col-generic
+layout: col-sidebar
 
 ---
 
