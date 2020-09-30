@@ -2,7 +2,7 @@
 
 candidate: true
 title: Bil Corry
-layout: col-generic
+layout: col-sidebar
 
 ---
 
