@@ -2,7 +2,7 @@
 
 candidate: true
 title: Haral Tsitsivas
-layout: col-generic
+layout: col-sidebar
 
 ---
 
