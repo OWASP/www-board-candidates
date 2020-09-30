@@ -1,4 +1,4 @@
-### Board Candidates
+### [Board Candidates](/www-board-candidates/)
 
 {% assign candidates = site.pages | where: 'candidate', 'true' %}
 {% for candidate in candidates %}
