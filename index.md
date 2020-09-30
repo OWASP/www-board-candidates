@@ -1,9 +1,7 @@
 ---
 
 title: 2020 Global Board Candidates
-layout: col-document
-document: 2020 Global Board Candidates
-tags: 2020 Global Board Candidates
+layout: col-sidebar
 
 ---
 
