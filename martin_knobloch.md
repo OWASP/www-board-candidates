@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 #### About Me
-!![Martin Knobloch](/www-board-candidates/assets/images/martin_knobloch_small.png)
+![Martin Knobloch](/www-board-candidates/assets/images/martin_knobloch_small.png)
 
 Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time information security leader with more than 15 years of experience in the field.  With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. 
 During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
