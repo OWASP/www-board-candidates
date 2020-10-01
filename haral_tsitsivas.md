@@ -21,7 +21,7 @@ I intend to use my energy to ensure that OWASP remains a well-regarded organizat
 
 
 #### Link to Video
-[Haral Tsitsivas](#)
+[Haral Tsitsivas](https://youtu.be/uahB3c8eb9Y)
 
 #### How will you help active projects thrive and become more recognized and used by the software industry?
 
