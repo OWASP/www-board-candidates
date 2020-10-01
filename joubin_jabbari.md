@@ -18,7 +18,8 @@ I always knew OWASP for their famous *OWASP Top 10 project*. But I fell in love 
 
 
 #### Link to Video
-[Joubin Jabbari - Video](https://youtu.be/dluNDStPpRo)
+[Joubin Jabbari - Video](https://youtu.be/nmFFd_DdS90)
+
 
 #### How will you help active projects thrive and become more recognized and used by the software industry?
 
@@ -63,5 +64,3 @@ OWASP is actually ahead of the game here. Let me explain. We focused on Applicat
 As organizations move to the cloud or embrace a software defined world, where everything from your network topology, to DNS, to IAM is defined by code, stratifies of decades past of meeting compliance requirements will have dimensioned return. Often to the determent of security. I'm not saying we shouldn't have compliance. But I think its OWASP first then compliance. In that light, we should partner with compliance communities that describe what needs to happen, but stop at prescribing the how. We are fortunate to have a community of techies by techies that can solve the technical challenges. 
 
 
-
-#### What is your plan for increasing women and minority participation in OWASP?
