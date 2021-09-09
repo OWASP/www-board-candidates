@@ -24,11 +24,6 @@ Answer
 Answer
 ```
 
-#### If you previously served on the board, please provide an overview of what you wanted to do in last tenure and how much of it you achieved and any reasons for those things you did not accomplish. If you did not previously serve, what do you hope to achieve during your tenure?
-```
-Answer
-```
-
 #### What experience do you bring serving in a board or executive committee of a large international organization or project?
 ```
 Answer
