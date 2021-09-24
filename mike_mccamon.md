@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Mike McCamon
 layout: col-sidebar
 
