@@ -26,7 +26,7 @@ https://www.linkedin.com/in/vandana-verma/
 
 ---
 
-#### OWASP has great resources for different people and different roles: CISOs, AppSec Managers, Pentesters, Analysts, Developers, DevOps, QA, and even users. Currently, most of them are either not aware of OWASP, or consider OWASP as a short for the "OWASP Top 10". What practical steps should OWASP take to change that?
+#### Q1 OWASP has great resources for different people and different roles: CISOs, AppSec Managers, Pentesters, Analysts, Developers, DevOps, QA, and even users. Currently, most of them are either not aware of OWASP, or consider OWASP as a short for the "OWASP Top 10". What practical steps should OWASP take to change that?
 
 Very valid and topical question: This is a known problem and there are multiple efforts already underway and I have a few ideas which I am trying to work on. We need to understand that human behaviour has changed over the past many years and organizations need to adapt to it. 
 
@@ -52,7 +52,7 @@ We can look at tapping the existing active chapters network and/or use other mea
 
 ---
 
-#### Sometimes local chapters disband before anyone knows they exist and there does not seem to be a strong mechanism to regrow them. How will you enable members to grow OWASP in their localities?
+#### Q2 Sometimes local chapters disband before anyone knows they exist and there does not seem to be a strong mechanism to regrow them. How will you enable members to grow OWASP in their localities?
 
 Chapter and OWASP Foundation communication has been a challenge for a very long time and it is a known fact in the OWASP community. Last 2 years we have worked to smooth out the process as well as involve more community volunteers to manage the chapter committee to drive the initiative. This has improved the situation and will help going forward. What is missing in my opinion at this point is more focus on awareness that such a vehicle exists and can be used to help the chapters. This would be one of the focus areas of mine as I am already a sponsor of the chapter's committee within the OWASP Board.
 
@@ -65,7 +65,7 @@ https://owasporg.atlassian.net/servicedesk/customer/portal/7/user/login?destinat
 
 ---
 
-#### What experience do you bring serving in a board or executive committee of a large international organization or project?
+#### Q3 What experience do you bring serving in a board or executive committee of a large international organization or project?
 I have been part of the OWASP Board for the last two years, first year serving as a Treasurer and currently serving as Vice- Chair.
 
 I have been working on many initiatives as part of the Board and would like to keep contributing to these initiatives. I would also love to start and drive new initiatives.
@@ -87,7 +87,7 @@ I am also currently part of the CFP review board of Black Hat Asia and BSides co
 
 ---
 
-#### COVID-19 has had a major impact on OWASP's major earning sources which were conference tickets / training tickets. What will you do to ensure more balanced funding sources in the future?
+#### Q4 COVID-19 has had a major impact on OWASP's major earning sources which were conference tickets / training tickets. What will you do to ensure more balanced funding sources in the future?
 
 When we speak about OWASP majority funding at the moment, it comes from conferences and training. It is the main source of Income for OWASP. However, due to the pandemic, we have seen almost every conference going virtual and due to which we have seen the revenue going down. 
 
@@ -105,7 +105,7 @@ Through more initiatives, we should bring projects to the forefront. If we are a
 
 ---
 
-#### What are the three main things you'd focus on changing/improving for OWASP as an organization, and why?
+#### Q5 What are the three main things you'd focus on changing/improving for OWASP as an organization, and why?
 
 There are few things that I would for sure concentrate on the upcoming tenure:-
 
@@ -119,7 +119,7 @@ There are few things that I would for sure concentrate on the upcoming tenure:-
 
 ---
 
-#### Automation and now AI have been good for AppSec in that it has increased the speed of releases, improved detection of coding flaws and reduced overall operating costs. At the same time, jobs in AppSec are moving from analyst positions to lower paid engineering positions. What do you see as being OWASP's role in the industry in ten years and how would you begin to position OWASP to get there?
+#### Q6 Automation and now AI have been good for AppSec in that it has increased the speed of releases, improved detection of coding flaws and reduced overall operating costs. At the same time, jobs in AppSec are moving from analyst positions to lower paid engineering positions. What do you see as being OWASP's role in the industry in ten years and how would you begin to position OWASP to get there?
 
 Currently, AI is used to ‘guess' which vulnerabilities are real and which are false-positive, drastically lowering the time required to manually determine which vulnerabilities are real.
  
