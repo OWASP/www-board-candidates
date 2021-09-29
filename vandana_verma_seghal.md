@@ -15,9 +15,16 @@ Professionally I have been a speaker / trainer at almost all the major security 
 
 I am also one of the organizers of BSides Delhi and a review board member for BlackHat Asia, Grave Hopper India and more.
 
+**Social Media Handles**:
+https://twitter.com/InfosecVandana
+https://www.linkedin.com/in/vandana-verma/
+
+---
 
 #### Link to My Video
 [Vandana Verma Seghal](#)
+
+---
 
 #### OWASP has great resources for different people and different roles: CISOs, AppSec Managers, Pentesters, Analysts, Developers, DevOps, QA, and even users. Currently, most of them are either not aware of OWASP, or consider OWASP as a short for the "OWASP Top 10". What practical steps should OWASP take to change that?
 
@@ -43,6 +50,7 @@ We can look at tapping the existing active chapters network and/or use other mea
 
 **Diversity and Inclusion**:-  We have a Women In AppSec (WIA) community working for over 5 years. They are taking some good initiatives as part of it. However, We can make a change in the direction of making it more inclusive while it's moving forward to become Diversity in AppSec (DIA) by involving diverse people taking part in the sessions hosted as well as representing DIA at global events.
 
+---
 
 #### Sometimes local chapters disband before anyone knows they exist and there does not seem to be a strong mechanism to regrow them. How will you enable members to grow OWASP in their localities?
 
@@ -55,6 +63,7 @@ All the chapters are listed under the chapter (https://owasp.org/chapters/) page
 If you wish to contribute, you can request to be a chapter leader by clicking on start a chapter.
 https://owasporg.atlassian.net/servicedesk/customer/portal/7/user/login?destination=portal%2F7%2Fcreate%2F73
 
+---
 
 #### What experience do you bring serving in a board or executive committee of a large international organization or project?
 I have been part of the OWASP Board for the last two years, first year serving as a Treasurer and currently serving as Vice- Chair.
@@ -76,6 +85,7 @@ Some of the initiatives I have contributed in the last few years
  
 I am also currently part of the CFP review board of Black Hat Asia and BSides conferences In India. 
 
+---
 
 #### COVID-19 has had a major impact on OWASP's major earning sources which were conference tickets / training tickets. What will you do to ensure more balanced funding sources in the future?
 
@@ -93,6 +103,7 @@ Corporate Sponsorship is another big thing that we are targeting and can help OW
  
 Through more initiatives, we should bring projects to the forefront. If we are able to evangelize projects in a way that organizations use them and find value, we would find more organizations supporting OWASP as corporate members.
 
+---
 
 #### What are the three main things you'd focus on changing/improving for OWASP as an organization, and why?
 
@@ -106,6 +117,7 @@ There are few things that I would for sure concentrate on the upcoming tenure:-
 
  **Diversity Initiatives**: I will be helping DIA grow globally with many new initiatives including bringing new speakers, hosting CTF’s, and participating in Round tables at global conferences and events. Another perspective to it would be to have Diverse participation in different chapters around the world.
 
+---
 
 #### Automation and now AI have been good for AppSec in that it has increased the speed of releases, improved detection of coding flaws and reduced overall operating costs. At the same time, jobs in AppSec are moving from analyst positions to lower paid engineering positions. What do you see as being OWASP's role in the industry in ten years and how would you begin to position OWASP to get there?
 
