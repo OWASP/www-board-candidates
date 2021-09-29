@@ -7,9 +7,13 @@ layout: col-sidebar
 ---
 
 #### About Me
-![Image](#)
+![Image](/www-board-candidates/assets/images/glenn-ten-cate.png)
 
-I am me.  Welcome to my page.
+Glenn ten Cate, has over 15 years of experience in the field and is currently employed at ING Belgium as a Security Chapter Leader. With a background in software development, hacking and security engineering. Together with his brother he created one of the OWASP Flagship projects SKF that is dedicated to help developers and organisations in approaching security by design. Next to this Glenn is also a well known person in terms of secure development training in multiple universities and companies around the world.
+
+When Glenn first came in contact with OWASP around 7 years ago he learned that there was a non-profit organisation that shared the same values and mission. This brought him so much joy and energy that he decided to join OWASP and their mission and is still happily doing this till today.
+
+In many ways Glenn is involved with OWASP, speaking at AppSec conferences and be at the OWASP Boot to share and preach the awesome work the OWASP Project and Leaders are making for the community.
 
 #### Link to My Video
 [Glenn ten Cate](#)
