@@ -7,9 +7,19 @@ layout: col-sidebar
 ---
 
 #### About Me
-![Image](#)
+![Louis Griffith](assets/images/louis_griffith.jpeg)
 
-I am me.  Welcome to my page.
+Technology reinvents how we live and work at an enormously fast pace. I’ve spent my career cultivating my passion for programming through continual learning, demanding the best from both myself and my teams to bring about enormous success. My analytical skills and critical thinking have afforded me the ability to streamline operations, putting in place best practices and developing state-of-the-art solutions.
+
+What I bring to the OWASP board is over two decades of cultivated knowledge and experience, which has granted me continued success in this industry. I am employed full-time as a Senior IT Architect role with a local insurance provider. I am also a co-founder of a software start-up developing applications and online services for consumers.  Hopefully, one day, our products and services will be available around the world!
+
+My workflows and processes ensure that technology operates at its greatest potential. My innovative thought processes create a clear path forward, bypassing complexity and adversity, to both meet and exceed goals.
+
+As a leader, I rely on a proactive approach to resolve complex technology problems, working collaboratively to improve user experiences, capability, and productivity. Through my mentorship, countless team members have produced exceptional work and advanced their careers.
+
+My track record of leading by example and integrity while injecting efficiency and innovation at every step in my career makes me uniquely suited to make further change in the technology industry and I expect to carry this same passion as a future board member of OWASP. 
+I’m eager to roll up my sleeves and get to work as your next Global Board Member!
+
 
 #### Link to My Video
 [Louis Griffith](#)
