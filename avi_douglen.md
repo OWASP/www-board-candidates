@@ -19,12 +19,6 @@ Since passing on that title, I continue to support the current chapter leadershi
 
 Professionally, I've worked in QA, as a professional developer, as team lead, research director, startup CTO, and most often as a software security consultant. I am an advisor to several startups, and I am on the **Board of Advisors** for a VC incubator. I also co-authored the **Threat Modeling Manifesto**, volunteered as a **high school mentor**, and I am also a **community moderator** on Security.StackExchange.com. 
 
---- 
-
-#### Link to My Video
-[Avi Douglen's introduction](https://www.youtube.com/watch?v=gE2V_YIPjxw)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gE2V_YIPjxw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 For years, I've been volunteering and contributing for OWASP - for other organizations as well, but the OWASP community has always had a special place in my heart. We've had some rough patches in the past, but I feel that now we are on a very healthy path. I might not agree with every decision made - heck, I'm often the first to argue about it! But even when I don't love the conclusion, we reach it together, in a very healthy manner, with consideration for most viewpoints and overall transparency. 
@@ -32,6 +26,11 @@ For years, I've been volunteering and contributing for OWASP - for other organiz
 I would like to support this trend, and push to consider even more viewpoints, to be even more transparent, to ensure a healthy, non-toxic environment at all levels. I feel that the leaders of the community, and the Board of Directors in particular, should be there with the sole intention of serving the community, and our mission. It should not be for the purpose of enhancing one's resume, corporate marketing, or for personal gain, fame, or game (except for rhyming, that should be allowed). 
 
 **I would like to be on the Board of Directors of OWASP** to push back - hard - against any misuse for personal interests, against narrow-sighted or narrow-minded decisions, and for healthy dialogue in a vibrant community, and for no less than emphatically ethical efforts (alliteration should also be approved). 
+
+--- 
+
+#### Link to My Video
+[Avi Douglen's introduction](https://www.youtube.com/watch?v=gE2V_YIPjxw)
 
 --- 
 
