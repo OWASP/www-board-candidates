@@ -14,7 +14,7 @@ Grant's experience spans Dev - building platforms for regulated industries for m
 Grant’s community involvement is global: Staff at BSides (London, Las Vegas, and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder, staff at BlackHat (USA and EU), and current OWASP Global Board member (hoping to complete the work he's begun there).
 
 #### Link to My Video
-[![Grant Ongers](https://img.youtube.com/vi/VGTwiIRQE1o/0.jpg)](https://www.youtube.com/watch?v=VGTwiIRQE1o)
+[Grant Ongers](https://www.youtube.com/watch?v=VGTwiIRQE1o)
 
 #### OWASP has great resources for different people and different roles: CISOs, AppSec Managers, Pentesters, Analysts, Developers, DevOps, QA, and even users. Currently, most of them are either not aware of OWASP, or consider OWASP as a short for the "OWASP Top 10". What practical steps should OWASP take to change that?
 ```
