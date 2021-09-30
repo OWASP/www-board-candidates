@@ -9,7 +9,7 @@ layout: col-sidebar
 #### About Me
 ![Vandana](assets/images/Vandana-small.jpg)
 
-I am Vandana Verma, an Indian OWASP member.  I am a seasoned information security professional with 16+ years of experience covering 360 degree view of information security from technical work to management. I am reapplying for an OWASP board position after working on board for the last 2 years. I have held Treasurer as well as **Vice-chair** position at **OWASP Board** in the last 2 years. I am also a chapter lead for OWASP Bangalore and supporting Board member for our Diversity initiative Women in AppSec/ Diversity in AppSec.
+Hi, I am Vandana Verma, an Indian OWASP member.  I am a seasoned information security professional with 16+ years of experience covering 360 degree view of information security from technical work to management. I am reapplying for an OWASP board position after working on board for the last 2 years. I have held Treasurer as well as **Vice-chair** position at **OWASP Board** in the last 2 years. I am also a chapter lead for OWASP Bangalore and supporting Board member for our Diversity initiative Women in AppSec/ Diversity in AppSec.
 
 Professionally I have been a speaker / trainer at almost all the major security events across the globe from BlackHat to OWASP AppSec to Bsides to RSA. I am passionate about diversity and spreading awareness and working towards bringing diversity in the information security industry and to that effect I run various diversity initiatives of my own : InfosecGirls, InfosecKids and also collaborate with other similar initiatives like WoSec and more. 
 
