@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Walter Martin Villalba
 layout: col-sidebar
 
