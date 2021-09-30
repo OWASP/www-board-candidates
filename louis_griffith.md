@@ -22,7 +22,7 @@ I’m eager to roll up my sleeves and get to work as your next Global Board Memb
 
 
 #### Link to My Video
-[Louis Griffith](#)
+[Louis Griffith](https://youtu.be/mzrJiTR5Nug)
 
 #### OWASP has great resources for different people and different roles: CISOs, AppSec Managers, Pentesters, Analysts, Developers, DevOps, QA, and even users. Currently, most of them are either not aware of OWASP, or consider OWASP as a short for the "OWASP Top 10". What practical steps should OWASP take to change that?
 
