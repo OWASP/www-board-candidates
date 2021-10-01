@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Diop Baka
 layout: col-sidebar
 
