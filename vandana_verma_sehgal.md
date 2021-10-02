@@ -22,7 +22,7 @@ https://www.linkedin.com/in/vandana-verma/
 ---
 
 #### Link to My Video
-[Vandana Verma Seghal](https://youtu.be/kwrJ5Zyqk18)
+[Vandana Verma Sehgal](https://youtu.be/kwrJ5Zyqk18)
 
 ---
 
