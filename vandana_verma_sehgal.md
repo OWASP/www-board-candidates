@@ -1,7 +1,7 @@
 ---
 
 candidate: true
-title: Vandana Verma Seghal
+title: Vandana Verma Sehgal
 layout: col-sidebar
 
 ---
