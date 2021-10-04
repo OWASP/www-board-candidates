@@ -3,7 +3,7 @@
 candidate: true
 title: Vandana Verma Sehgal
 layout: col-sidebar
-redirect_from: /www-board-candidates/vandana_verma_seghal
+redirect_from: https://owasp.org/www-board-candidates/vandana_verma_sehgal
 
 ---
 
