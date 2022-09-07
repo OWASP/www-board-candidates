@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Glenn ten Cate
 layout: col-sidebar
 
