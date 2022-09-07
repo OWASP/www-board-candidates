@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Louis Griffith
 layout: col-sidebar
 
