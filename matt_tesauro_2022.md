@@ -10,6 +10,7 @@ layout: col-sidebar
 ![Matt Tesauro](/assets/images/matt_tesauro_photo.png)
 
 
+
 #### Link to My Video
 
 
