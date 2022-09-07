@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Vandana Verma Sehgal
 layout: col-sidebar
 redirect_from: https://owasp.org/www-board-candidates/vandana_verma_sehgal
