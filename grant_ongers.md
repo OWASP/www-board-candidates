@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Grant Ongers
 layout: col-sidebar
 
