@@ -1,6 +1,6 @@
 ---
 
-title: 2021 Global Board Candidates
+title: 2022 Global Board Candidates
 layout: col-sidebar
 
 ---
