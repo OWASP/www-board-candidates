@@ -39,7 +39,8 @@ I am already serving on the OWASP Foundation Board of Directors.  Beyond the exp
 
 #### How do you plan to become less dependent on the primary revenue stream of “Offline Conferences”?
 
-
+OWASP is already less dependent on conference revenue.  We had to cut expenses and find other sources of income to ensure the organization stayed afloat.  The budgeted income for conferences in 2022 is $1,375,000 (see https://owasp.org/www-staff/budget/2022).  The actual income from conferences in 2018 was $3,400,843 (see: https://owasp.org/assets/financial/2019_OWASP_Budget.pdf). The difference is $2,025,843, which is a sizable number to have to manage a shortfall.
+I encourage you to review the 2022 budget to see how the Board has approached readjusting the organization’s finances to ensure we’re able to continue meeting the needs of our community and will be around for a long time to come.  One big difference from 2018 you might notice is the Foundation Staff have really gone all out to increase both personal and corporate memberships over previous years.  Thank you for being a part of that growth.
 
 
 #### Where do you see the biggest challenges for OWASP as a volunteer-driven organization in 2023+ and how do you intend to address them?
