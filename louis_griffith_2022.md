@@ -16,7 +16,8 @@ Over the course of my career, I have been and continue to be a solutions develop
 Holding multiple professional certifications & certificates, bachelor’s, and a master’s degrees, I put a strong emphasis on the value of education. Continuing education is key, not only personal development, workplace effectiveness and the contributions I will make to this organization and its volunteers and membership.  Therefore, I am so thrilled at the prospect of serving an organization with the same mission of openly sharing knowledge and providing educational benefits to its membership to aid in this pursuit. It is an exciting opportunity to bring together my passion for philanthropy, community outreach, and technical expertise and strategy. I am deeply humbled by the opportunity to serve you if elected to Global OWASP Board and looking forward to working together toward a brighter future.  
 
 
-[Link to My Video](https://youtu.be/mzrJiTR5Nug)
+#### Link to My Video
+<a href="https://youtu.be/mzrJiTR5Nug" target="_blank">Click here</a>
 
 --- 
 
