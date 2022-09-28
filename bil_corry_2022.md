@@ -9,6 +9,8 @@ layout: col-sidebar
 ### About Me
 ![Bil Corry](/assets/images/bil_corry_photo.jpg)
 
+Hello Members,
+
 I am a lifetime member of OWASP and I've been involved with OWASP since 2008. I am currently serving on the OWASP Foundation Board of Directors, and in the past I have served on the Compliance Committee, the Global AppSec San Francisco Organizing Committee, the Policy Review Committee, and I was the Chapter Leader of the Nashua Chapter.  I've volunteered at AppSec USA, rounded up speakers for chapter meetings in Chicago and the Bay Area, hosted a Bay Area chapter meeting, helped WIA become a 2.0 Committee and have been a trainer using the OWASP Secure Coding deck.
 
 I have contributed to the technology that underpins the “World Wide Web”, namely HTTP (RFC 7230), HTTP Cookies (RFC 6265), TLS (RFC 6125), and the HTML specification. If you have ever used a web browser to visit a website, then you have personally benefited from my efforts. Additionally, I’ve contributed to securing the web, including my participation in OWASP and WASC, and contributed to the design of various browser security and privacy controls (Content Security Policy, secure cookies, secure logoff, clickjacking protection, and more).
@@ -25,27 +27,20 @@ In my professional capacity, I spent over a decade working as a web developer be
 
 #### How do you intend to extend outreach to developers and developer communities outside of the security ecosystem?
 
-```
+OWASP is a volunteer-driven organization.  Extending outreach to developers and developer communities is within the scope of the Outreach Committee.  If this is an important issue to you, I encourage you to join the Outreach Committee and start an effort to do so.  You can learn more about the Outreach Committee here: 
 
+https://owasp.org/www-committee-outreach/
 
-
-```
 
 #### What practical experience can you bring to the specific challenges a nonprofit organization like OWASP faces such as fundraising, staff support, operating model/by-laws, etc?
 
-```
+I am already serving on the OWASP Foundation Board of Directors.  Beyond the experience of already serving on the Board, I am a Chief Information Security Officer at a startup and I am nearly done with my Master in Legal Studies focused on Corporate Compliance.  I also have extensive experience volutneering for OWASP (you can read about it in my bio above).
 
-
-
-```
 
 #### How do you plan to become less dependent on the primary revenue stream of “Offline Conferences”?
 
-```
 
 
-
-```
 
 #### Where do you see the biggest challenges for OWASP as a volunteer-driven organization in 2023+ and how do you intend to address them?
 
