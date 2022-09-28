@@ -45,16 +45,19 @@ I encourage you to review the 2022 budget to see how the Board has approached re
 
 #### Where do you see the biggest challenges for OWASP as a volunteer-driven organization in 2023+ and how do you intend to address them?
 
-```
 
-
-
-```
 
 #### What do you think will help to increase the adoption of the OWASP Projects?
 
-```
+If you take a look at the OWASP Projects page, you'll see we have 262 projects:
 
+https://owasp.org/projects/
 
-```
+Truly a testament to the volunteers that contribute to OWASP.  However, with so many projects, it's unlikely we can educate everyone on what all 262 projects do, and if you don't know they do, how can you adopt them?
+
+Instead, the best approach is to focus on making it easy to find the projects that solve your problem.  If you look at the Projects page, you'll notice the handy visual guide put together by the Integration Standards Project which helps categorize the projects based on what you might be trying to solve for.  I think we need more of that to help members discover the projects that area available for them to adopt and use.
+
+I personally use so many resources provided by OWASP that are invaluable, such as SAMM for assessing the maturity level of my application security program.  But if you had not heard of SAMM and did not know when or why to use it, it would be hard to get you to adopt it.  How do we overcome that barrier?  I'd love to see free training at our conferences (both in-person and online) that help our members know when and how to use these projects, but rather than advertise "SAMM training" instead advertise the problem it solves, i.e. "Learn how to assess the maturity of your AppSec program."
+
+Of course, if you have other ideas, this is a volunteer-driven organziation.  Jump in and contribute!
 
