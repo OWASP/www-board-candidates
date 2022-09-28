@@ -45,6 +45,10 @@ I encourage you to review the 2022 budget to see how the Board has approached re
 
 #### Where do you see the biggest challenges for OWASP as a volunteer-driven organization in 2023+ and how do you intend to address them?
 
+If you had asked me a few years ago, I would have answered that OWASP needed to mature its processes.  However, the Foundation Staff along with volunteers have done a fantastic job of improving the structure and function of OWASP, including our policies.  We’re currently updating our Bylaws.  We’re enforcing the activity rule for chapters to ensure we don’t have orphaned/abandoned chapters.  There’s a lot of great work happening that greatly improves the organization that is largely hidden from the membership.
+
+The biggest challenge I see now is also something that is largely hidden from our membership, which is ensuring we are properly staffed and that our staff is well taken care of.  OWASP has always had a small staff to support our large mission and our large base of international volunteers.  It is a lot of work to keep OWASP running and our staff work tirelessly every day on our behalf.  This particular problem is one that can only be solved by the Board, and it’s one I’d love to see us tackle.    
+
 
 
 #### What do you think will help to increase the adoption of the OWASP Projects?
