@@ -21,7 +21,7 @@ In my professional capacity, I spent over a decade working as a web developer be
 
 #### Link to My Video
 
-https://youtu.be/Dc6S7t0Z5E8
+[https://youtu.be/Dc6S7t0Z5E8](https://youtu.be/Dc6S7t0Z5E8)
 
 --- 
 
