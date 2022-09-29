@@ -17,7 +17,7 @@ Holding multiple professional certifications & certificates, bachelor’s, and a
 
 
 #### Link to My Video
-<a href="https://youtu.be/mzrJiTR5Nug" target="_blank">Click here</a>
+[Louis Griffith's Video](https://youtu.be/mRpFX5UFBiE)
 
 --- 
 
