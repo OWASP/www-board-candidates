@@ -22,6 +22,8 @@ Matt is a Distinguished Engineer at Noname Security and has returned to producin
 
 [OWASP's Google drive link to my video](https://drive.google.com/drive/folders/1AFHAlKLXajAkNZN_nO7eYCURoTJl5YO5?usp=sharing)
 
+[Also on Youtube](https://youtu.be/jf9Agn_-3P4)
+
 --- 
 
 #### How do you intend to extend outreach to developers and developer communities outside of the security ecosystem?
