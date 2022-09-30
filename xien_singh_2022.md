@@ -11,7 +11,7 @@ layout: col-sidebar
 
 
 #### Link to My Video
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rrGz6m5lAaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/embed/rrGz6m5lAaM))
 
 Hello, I am Xien Singh - I am acting Chief Information Officer for a large organisation in South Africa, I oversee all technology and cyber security at the organisation, I have been working in the tech industry for as long as I can remember, and my interest in cyber security started at a young age of 7 when I was first locked out of my computer after being grounded for month and my parents could not remember the password, I still remember all the trips to the library to get books on the Operating system and trying to figure out a way to get into the system to remove the password or reset it. back then there was no reset media and I did not have the installation media to reinstall the OS. I have been writing software, primarily within the .Net ecosystem for the last 11 years and I have contributed to numerous open source projects and commercial projects.
 --- 
