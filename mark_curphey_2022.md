@@ -25,7 +25,6 @@ If you share my vision for OWASP, want to see the change I have laid out here an
 
 #### How do you intend to extend outreach to developers and developer communities outside of the security ecosystem?
 
-```
 
 I think the question is larger than just developers, its about both attracting deeply technical people and appealing to develpoers, cloud security architects and more. 
 
@@ -45,11 +44,9 @@ We also need ro redesign OWASP.org to appeal to the new breed of people that nee
 
 The most important asset that OWASP has, the homepage, is focused internally on members' needs and not externally on those that need help. Deciphering the tools roadmap requires inside baseball. 
 
-```
 
 #### What practical experience can you bring to the specific challenges a nonprofit organization like OWASP faces such as fundraising, staff support, operating model/by-laws, etc?
 
-```
 [From my manifesto]
 Sure, I founded OWASP but that is definitely not a reason to vote for me. The idea for OWASP was one thing, but it was execution and hard work of a team that has made it what it is today. I did have the vision, set the direction and did a lot of hard work in the first few years to lay the foundations. I am hopefully doing the same now. 
 
@@ -59,11 +56,7 @@ I have important relationships across the global tech and security community to 
 
 I have the history, the experience, the connections and the track record to make this happen.
 
-```
-
 #### How do you plan to become less dependent on the primary revenue stream of “Offline Conferences”?
-
-```
 
 Money helps make things happen. Today OWASP scrapes along with personal membership fees, conference and training revenue and relatively small corporate donations. A few million dollars a year may sound like a lot but it's peanuts for a global community with a mission that is literally critical to the future of the world. I appreciate it's more complex than this but for the most part OWASP is a community funding model.
 
@@ -75,11 +68,8 @@ Organizations with funding models like this can pay commercial rates and competi
 
 As I said above, money helps make things happen. OWASP needs to move from being community funded to commercially funded. The leadership at the Linux Foundation has even offered to help me do it. 
 
-```
-
 #### Where do you see the biggest challenges for OWASP as a volunteer-driven organization in 2023+ and how do you intend to address them?
 
-```
 OWASP has a strong brand but it is no longer just about the web and we should change the meaning of the acronym to the Open Worldwide Application Security Project. 
 
 OWASP has a mission statement today which from the about us page is
@@ -111,19 +101,14 @@ No sales pitches anywhere.
 
 On the last point we need to be open and honest about the motivations of companies and individual participation and the community values need to reflect that. People and companies participate for many reasons, but one of the most common (again if we are all being honest) is for the sake of developing personal and company brands. There is nothing wrong with that, but where it breaks down is when people leverage OWASP in a way that is not beneficial for the broader community. Open source communities are about paying it forward. It’s not about instant gratification and you have to trust you will be paid back based on the merits of your actions. 
 
-
-```
-
 #### What do you think will help to increase the adoption of the OWASP Projects?
 
-```
 I dont think blindly iuncreasing adoption of OWASP projects in the right approach. Today there are often many projects that do the same thing and sadly many projects that offer little value. Many projects have been effectively abandoned.
 
 We have to be smart and deliberate about where we direct our effort. We have to have tools that are clearly recommended as best in class, work together, are actively developed, funded and supported. We also have to accept that not everyone is capable of creating a project that is of the standard the community deserves and that there needs to be a clean out. 
 
 The right way to approach this is to hire a Chief Product Officer who is used to managing a portfolio of projects and that can put in a process to manage the entire community project landscape. 
 
-```
 
 ### Why Should You Vote for Me?
 Sure, I founded OWASP but that is definitely not a reason to vote for me. The idea for OWASP was one thing, but it was execution and hard work of a team that has made it what it is today. I did have the vision, set the direction and did a lot of hard work in the first few years to lay the foundations. I am hopefully doing the same now. 
