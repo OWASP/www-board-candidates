@@ -20,7 +20,7 @@ If you share my vision for OWASP, want to see the change I have laid out here an
 
 #### Link to My Video
 
-https://www.youtube.com/watch?v=pmQ8ugjYIkI
+[https://www.youtube.com/watch?v=pmQ8ugjYIkI](https://www.youtube.com/watch?v=pmQ8ugjYIkI)
 --- 
 
 #### How do you intend to extend outreach to developers and developer communities outside of the security ecosystem?
