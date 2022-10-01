@@ -103,7 +103,7 @@ On the last point we need to be open and honest about the motivations of compani
 
 #### What do you think will help to increase the adoption of the OWASP Projects?
 
-I dont think blindly iuncreasing adoption of OWASP projects in the right approach. Today there are often many projects that do the same thing and sadly many projects that offer little value. Many projects have been effectively abandoned.
+I actually dont think blindly increasing adoption of OWASP projects is the right approach. Today there are often many projects that do the same thing and sadly many projects that if we are being honest with ourselves offer little value. Many other projects have been effectively abandoned.
 
 We have to be smart and deliberate about where we direct our effort. We have to have tools that are clearly recommended as best in class, work together, are actively developed, funded and supported. We also have to accept that not everyone is capable of creating a project that is of the standard the community deserves and that there needs to be a clean out. 
 
