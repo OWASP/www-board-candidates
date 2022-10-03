@@ -36,7 +36,7 @@ Since I have been serving OWASP for 2 years, To my knowledge, it's time to sprea
 
 ```
 
-In order to be less dependent on offline conference revenue, we need to find another way to generate revenue. It would be beneficial if we focused more on corporate memberships and had our own merchandise. As a way to welcome low-level startups to OWASP, we should give them some kind of acknowledgment or small goodies.
+In order to be less dependent on offline conference revenue, we need to find another way to generate revenue. It would be beneficial if we focused more on corporate memberships and had our own merchandise improved/marketed. As a way to welcome low-level startups to OWASP, we should give them some kind of acknowledgment or small goodies.
 
 ```
 
