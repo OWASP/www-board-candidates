@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Bil Corry 
 layout: col-sidebar
 

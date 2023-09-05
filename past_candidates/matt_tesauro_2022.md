@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Matt Tesauro
 layout: col-sidebar
 

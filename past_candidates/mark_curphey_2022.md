@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Mark Curphey
 layout: col-sidebar
 

@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Xien Singh
 layout: col-sidebar
 

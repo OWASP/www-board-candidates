@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Sudhakar Muthumani
 layout: col-sidebar
 
