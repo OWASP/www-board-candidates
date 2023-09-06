@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Paulino Calderon
 layout: col-sidebar
 
