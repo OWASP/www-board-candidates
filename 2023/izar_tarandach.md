@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Izar Tarandach
 layout: col-sidebar
 
