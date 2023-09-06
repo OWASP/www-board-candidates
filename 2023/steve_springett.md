@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Steve Springett
 layout: col-sidebar
 
