@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Jeremy Long
 layout: col-sidebar
 
