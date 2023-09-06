@@ -1,6 +1,6 @@
 ---
 
-title: 2022 Global Board Candidates
+title: OWASP Global Board Candidates
 layout: col-sidebar
 
 ---
