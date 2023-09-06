@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Fred Donovan
 layout: col-sidebar
 
