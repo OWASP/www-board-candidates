@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Avi Douglen
 layout: col-sidebar
 
