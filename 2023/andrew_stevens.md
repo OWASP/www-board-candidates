@@ -7,6 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
+![Image](#)
 
 ### Link to My Video
 
