@@ -7,7 +7,6 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](#)
 
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="/www-board-candidates/assets/images/steve-springett-headshot.jpg" width="300" height="300" alt="Steve Springett">
 
