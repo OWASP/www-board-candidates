@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](#)
+![Kevin Johnson](/www-board-candidates/assets/images/kevin-johnson-photo.png)
 
 ---
 
