@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Kevin Johnson](/www-board-candidates/assets/images/mark_babocck.jpg)
+![Mark Babcock](/www-board-candidates/assets/images/mark_babocck.jpg)
 
 ### Link to My Video
 
