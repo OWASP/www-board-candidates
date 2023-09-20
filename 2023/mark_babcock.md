@@ -7,13 +7,13 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Mark Babcock](/www-board-candidates/assets/images/mark_babocck.jpg)
+![Mark Babcock](/www-board-candidates/assets/images/mark_babcock.jpg)
 
 ### Link to My Video
 
 ### Questions
 
-#### How do you envision OWASP to become more reachable to individual developers and institutions?
+#### How do you envision OWASP to become more reachable to individual developers and institutions?  
 
 
 #### What do you plan to do to increase funding for OWASP projects?
