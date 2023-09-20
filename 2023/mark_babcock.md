@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![alt text]([http://url/to/img.png](https://github.com/OWASP/www-board-candidates/blob/master/www-board-candidates/assets/images/mark_babocck.jpg))
+![Kevin Johnson](/www-board-candidates/assets/images/mark_babocck.jpg)
 
 ### Link to My Video
 
