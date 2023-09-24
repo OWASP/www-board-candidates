@@ -9,7 +9,13 @@ layout: col-sidebar
 ### About Me
 ![Mark Babcock](/www-board-candidates/assets/images/mark_babcock.jpg)
 
+$WHOIS Mark Babcock
 
+This year's candidacy for the OWASP Global Board of Directors represents some of our industry's top juggernauts with names such as Kevin Johnson, Steve Springett, and even Jeremy Long. These candidates are all well-known and highly respected within the OWASP community and beyond. You may ask yourself who Mark Babcock is and why I should cast my vote for him. On the surface, these are excellent questions, but I believe they are the wrong questions. Why do I believe these are the wrong questions?  OWASP is twenty-two years old as of this past September 9th. Like my peers, I have witnessed the growth and adoption of all things OWASP over the last several decades. Two years ago, for the OWASP 20th anniversary, the founder of OWASP, Mark Curphey, addressed the community and stated that our community is at a crossroads. Mr. Curphey warned that if we continue to do business as usual, we will risk dissipating into irrelevancy. Personally, I can't imagine a world without OWASP. But he is right; if we continue doing what we have done, OWASP will face a bleak future.
+
+Rather than ask who Mark Babcock is and why I should vote for him over the other candidates, we should ask, do I really want more of the same? The founder of OWASP highlighted the need for a revolution to reinvigorate and reenergize our community. Embrace change and ensure that OWASP remains a name and brand we can trust within our security community. 
+
+Vote for Mark Babcock!!
 
 ### Questions
 
