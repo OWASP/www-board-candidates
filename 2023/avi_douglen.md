@@ -33,7 +33,9 @@ I want to continue to lead efforts - as I've always done - to increase our **div
 
 ## Link to My Video
 
-TBA 
+<iframe width="320" height="560" src="https://www.youtube.com/embed/_Ar98Zqod7I" title="Avi Douglen for OWASP Board of Directors 2024!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+[Click here to watch my full video](https://youtu.be/LcGWXcngy2c). 
 
 ---
 
