@@ -21,6 +21,8 @@ I humbly seek your support and promise to be a voice for progress, collaboration
 
 ### Link to My Video
 
+[Paulino Calderon - OWASP Global Board of Directors candidate](https://www.youtube.com/watch?v=61MJd0wseOM)
+
 ### Questions
 
 #### How do you envision OWASP to become more reachable to individual developers and institutions?
