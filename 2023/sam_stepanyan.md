@@ -8,10 +8,11 @@ layout: col-sidebar
 
 ### About Me
 
-<img style="float: left; margin-right: 1em; margin-bottom: 1em;" src="../assets/images/Sam_Stepanyan.jpg" width="300" height="300" alt="Sam Stepanyan">
+<img style="float: left; margin-right: 3em; margin-bottom: 3em;" src="../assets/images/Sam_Stepanyan.jpg" width="300" height="300" alt="Sam Stepanyan">
 Hello everyone, 
 
-My name is Sam Stepanyan, and it's my honor to be running for the OWASP Global Board this year. For those who I haven't yet had the pleasure of meeting, allow me to introduce myself.
+My name is Sam Stepanyan, and it's my honor to be running for the OWASP Global Board this year. Allow me to introduce myself:
+
 * I am a long-time active member of the OWASP community and a Chapter Leader of the [OWASP London](https://www.owasp.org/london) Chapter (since 2015). I became a member of OWASP in 2010 and have been attending OWASP London Chapter meetings as an attendee since 2008.
 
 * My very first OWASP Global AppSec conference was OWASP AppSec Research in Hamburg in 2013. I also helped to organise and run the OWASP Global AppSec Europe conference in [London in 2018](https://2018.appsec.eu/).
@@ -66,13 +67,14 @@ There are several ways how I propose to increase the funding for OWASP projects:
     * Enhance expertise - Working closely on an OWASP project will allow the staff member to develop their skills and knowledge in application security. This expertise can then be brought back into the company.
     * Build industry connections - Through engaging with the OWASP project community, the company can develop relationships with other OWASP contributors - smart people working to advance application security. This provides opportunities for future collaboration.
     * Contribute back to open source - By supporting OWASP's open source security projects, the company will be helping the broader goal of transparent and community-driven security efforts and publicly showcase their commitment to improving software security, which can enhance the company's reputation.
-I had meetings with quite a few large companies in the Gartner Magic Quadrant for Application Security Testing and as a result of my meeting every single company I spoke with said that will be happy to provide at least one full-time member of staff and $xx,000 donation to work on an OWASP project of their choice in exchange for a placing that company logo on that project's OWASP page on an non-exclusive basis, so OWASP stays vendor neutral. And these companies are OK if their logo will be displayed right next to their competitor's logo as it will be under an OWASP project showcasing the good work they are doing for the benefit of the global community.
+
+I had meetings with several large companies in the Gartner Magic Quadrant for Application Security Testing. As a result, every company I spoke with said they would be happy to provide at least one full-time staff member and a $xx,000 donation to work on an OWASP project of their choice. Their company logo would be displayed on that OWASP project's page on a non-exclusive basis, so that OWASP remains vendor neutral. These companies are okay having their logo displayed next to their competitors' logos, as it showcases the good work they are doing to benefit the global community.
 
 I will be working on figuring out more mutually beneficial yet vendor-neutral ways for companies to give back to OWASP and support our open source projects development and maintenance, whether financially or through other contributions. 
 
 **MORE MEMBER BENEFITS**: Dramatically increase OWASP membership by increasing the amount and quality of the benefits available to members as well as by requiring people with OWASP Certifications to be an OWASP member in order to maintain their certification.
 
-**OFFICIAL OWASP TRAINING**: Another new(ish) revenue source will be the Official OWASP Training. OWASP has traditionally offered official training sessions only at the annual Global AppSec conferences held in the USA, Europe, and Asia. While valuable, this limited training availability of just 9 days per year poses challenges. Many organizations are unable to send employees to conferences abroad for multiple days. At the same time, the restricted training schedule limits OWASP's potential to generate revenue through training. The training model should be changed, to be more frequent, more structured and accessible.
+**OFFICIAL OWASP TRAINING**: Another new(ish) revenue source will be the Official OWASP Training. OWASP has traditionally offered official training sessions only at the annual Global AppSec conferences held in the USA, Europe, and Asia. While valuable, this limited training availability of just 9 days per year poses challenges. Many organizations are unable to send employees to conferences abroad for multiple days. At the same time, this restricted training schedule limits OWASP's potential to generate revenue through training. The training model should be changed, to be more frequent, more structured and accessible.
 
 **PAID JOB BOARD**: Yet another source of funding I propose will be to have a paid AppSec/DevSecOps Job Board. At the moment, OWASP has a **#jobs** channel on OWASP Slack where companies and recruiters post their vacancies for free. This is while the same recruitment companies will charge their customers quite a substantial fee if they source a candidate from OWASP. OWASP currently gets nothing. I propose that:
 
