@@ -34,7 +34,7 @@ This is the year the OWASP Board needs to wake up from hibernation and address m
 Now let me provide my answers to the community questions to the Board candidates (you can also watch me answering the questions in the video below):
 
 ### Link to My Video
-[YouTube video - coming soon]
+[Sam Stepanyan - OWASP Board Candidate Video](https://www.youtube.com/watch?v=2xS7YqjfycY)
 
 ### Questions
 
