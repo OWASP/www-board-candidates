@@ -1,6 +1,6 @@
 ---
 
-candidate: false
+candidate: true
 title: Andrew Stevens
 layout: col-sidebar
 
