@@ -9,7 +9,6 @@ layout: col-sidebar
 ### About Me
 ![Image](#)
 
-### Link to My Video
 [FD Video](https://tinyurl.com/5is3oWp0)
 
 Hi I am Fred Donovan. I am an Application Security Architect for a
