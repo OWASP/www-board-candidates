@@ -7,26 +7,43 @@ layout: col-sidebar
 ---
 
 ### About Me
+![Mark Babcock](/www-board-candidates/assets/images/mark_babcock.jpg)
 
-### Link to My Video
+$WHOIS Mark Babcock
+
+This year's candidacy for the OWASP Global Board of Directors represents some of our industry's top juggernauts with names such as Kevin Johnson, Steve Springett, and even Jeremy Long. These candidates are all well-known and highly respected within the OWASP community and beyond. You may ask yourself who Mark Babcock is and why I should cast my vote for him. On the surface, these are excellent questions, but I believe they are the wrong questions. Why do I believe these are the wrong questions?  OWASP is twenty-two years old as of this past September 9th. Like my peers, I have witnessed the growth and adoption of all things OWASP over the last several decades. Two years ago, for the OWASP 20th anniversary, the founder of OWASP, Mark Curphey, addressed the community and stated that our community is at a crossroads. Mr. Curphey warned that if we continue to do business as usual, we will risk dissipating into irrelevancy. Personally, I can't imagine a world without OWASP. But he is right; if we continue doing what we have done, OWASP will face a bleak future.
+
+Rather than ask who Mark Babcock is and why I should vote for him over the other candidates, we should ask, do I really want more of the same? The founder of OWASP highlighted the need for a revolution to reinvigorate and reenergize our community. Embrace change and ensure that OWASP remains a name and brand we can trust within our security community. 
+
+Vote for Mark Babcock!!
 
 ### Questions
 
 #### How do you envision OWASP to become more reachable to individual developers and institutions?
 
+Over the last 20 years, the OWASP Foundation has become the industry standard for web application security, which has grown from a grassroots effort into a globally recognized standard. Recently, I had the opportunity to connect with software engineers, including recent college graduates, aspiring graduates (otherwise known as interns), and seasoned professionals about OWASP. There is a game I like to play with software engineers, which I like to call "Top Ten Awareness."  I ask a simple and innocuous question, "Are you familiar with the OWASP Top 10?" Most software engineers and cybersecurity professionals will quickly make the claim they know about the OWASP Top 10. I like to follow up with the question, "How many OWASP Top 10s are there?" This is a great question, and I recommend you try this in your own organization.
+
+Most of the people that I spoke with were familiar with the Web Application Top 10, our Flagship product. Some Software Engineers were even able to identify one or two other Top 10 products, such as the OWASP Top 10 API Security Risks or even the OWASP Top 10 for Large Language Model Applications (Thanks ChatGPT). I rarely meet someone who can quickly determine the number of OWASP Top 10 projects. 
+
+Another fun exercise is to go to our homepage, https://owasp.org, search for "Top 10" and marvel at how easy it is to discover all the Top 10 lists (insert sarcasm). I'm not saying this to be mean or point out our flaws, but rather, we need to return to the basics and ensure our information is discoverable and usable. Making our information usable and discoverable will help us position ourselves as a first stop, allowing us to create a stronger partnership with universities and public and private industries.
+
 
 #### What do you plan to do to increase funding for OWASP projects?
 
+Our largest sources of income are from membership dues and the annual Global Appsec Conferences. Yet many of our OWASP Chapters in the United States only hold the minimum required number of meetings. Streaming media giants understand that content is king and that content leads to larger profit margins. We must capitalize on our existing content and produce new content. Becoming the source of Application Security will allow us to build and improve membership across the organization and create a renewed interest. 
 
 #### What are your plans for Foundation outreach in both government/policy and industry?
 
+OWASP already has excellent name recognition in the OWASP Top 10 list for the top 10 Web Application Security Risks. We need a marketing plan to communicate the value proposition of our other products and tools to help our communities understand what products we have and where to EASILY find information about the products and how to use them.
 
 #### Do you believe all OWASP Board discussions should happen in the open (excluding HR, Compliance, etc.)?
 
+Embracing transparency will ensure we build stronger relationships giving our organization more confidence in the leadership and the decisions that are being made because everyone will know exactly what is happening and why it is happening.
 
-#### What are you plans to have the board and staff be more involved in project marketing/cheerleading?
+#### What are your plans for the board and staff to be more involved in project marketing/cheerleading?
 
+Getting the word out about projects starts at the local chapter level. We need a comprehensive plan to help local chapters with content and improve membership. We can create roadshows, for example, of the projects. We need to connect directly to the local chapters' projects. I have spoken with many members who want to get involved but don't understand the path or what is available. We need to have a way for each chapter to help members find projects and get involved with projects.
 
-#### Are you able to devote the time to your OWASP Board duties (can feel like a second full time job)?
+#### Are you able to devote the time to your OWASP Board duties (can feel like a second full-time job)? YES
 ---
 
