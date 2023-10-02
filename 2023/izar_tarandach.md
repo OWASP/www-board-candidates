@@ -7,6 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
+![Image](#)
 
 ![Izar](/assets/images/izar_headshot.png)
 
