@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Mark Babcock
 layout: col-sidebar
 
