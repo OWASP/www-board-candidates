@@ -8,6 +8,8 @@ layout: col-sidebar
 
 ### About Me
 
+![Izar](/assets/images/izar_headshot.png)
+
 I've been doing Security since the 90's. Seen a lot of stuff, worked from start-ups up to global companies.
 I am an active member of OWASP:
 
@@ -20,7 +22,8 @@ Apart from OWASP, I am a co-author of the Threat Modeling Manifesto, and I co-au
 One thing I can say: I am not a politician. I am not "into it for the power and the lulz". So I will not be making promises, well, actually I will be making only one promise: I promise maximum effort to make things better. OWASP is at the center of application security, and I want to work hard with the existing Board, incoming members, and the membership at large to make it even better.
 
 ### Link to My Video
-[![Video](https://img.youtube.com/vi/uyxwYrwrPKQ/hqdefault.jpg)](https://www.youtube.com/watch?v=uyxwYrwrPKQ)
+
+![Video](https://www.youtube.com/watch?v=uyxwYrwrPKQ)
 
 ### Questions
 
