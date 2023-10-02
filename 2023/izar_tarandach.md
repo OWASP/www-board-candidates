@@ -7,7 +7,8 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](#)
+
+![Izar](/assets/images/izar_headshot.png)
 
 I've been doing Security since the 90's. Seen a lot of stuff, worked from start-ups up to global companies.
 I am an active member of OWASP:
@@ -15,13 +16,15 @@ I am an active member of OWASP:
     - I have been a repeat speaker in OWASP events, from chapter meets to Global events
     - I am the lead of the OWASP pytm project, the first threat-modeling-as-code tool
     - I have for the past 2 years or so been an active participant in the OWASP Events committee, which works to select submissions to OWASP events from the hundreds that are submitted to every event
+    - Recipient of the 2022 OWASP Waspy award for Event Person Of The Year
 
 Apart from OWASP, I am a co-author of the Threat Modeling Manifesto, and I co-authored a book on Threat Modeling, aside from numerous webinars, presentations, training and workshops around the world in many leading events.
 
 One thing I can say: I am not a politician. I am not "into it for the power and the lulz". So I will not be making promises, well, actually I will be making only one promise: I promise maximum effort to make things better. OWASP is at the center of application security, and I want to work hard with the existing Board, incoming members, and the membership at large to make it even better.
 
 ### Link to My Video
-[![Image](https://img.youtube.com/vi/uyxwYrwrPKQ/hqdefault.jpg)](https://www.youtube.com/watch?v=uyxwYrwrPKQ)
+
+![Video](https://www.youtube.com/watch?v=uyxwYrwrPKQ)
 
 ### Questions
 
