@@ -7,7 +7,6 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](#)
 
 ![Izar](/assets/images/izar_headshot.png)
 
@@ -17,7 +16,7 @@ I am an active member of OWASP:
     - I have been a repeat speaker in OWASP events, from chapter meets to Global events
     - I am the lead of the OWASP pytm project, the first threat-modeling-as-code tool
     - I have for the past 2 years or so been an active participant in the OWASP Events committee, which works to select submissions to OWASP events from the hundreds that are submitted to every event
-    - Winner of the 2022 OWASP Waspy award for Event Person Of The Year
+    - Recipient of the 2022 OWASP Waspy award for Event Person Of The Year
 
 Apart from OWASP, I am a co-author of the Threat Modeling Manifesto, and I co-authored a book on Threat Modeling, aside from numerous webinars, presentations, training and workshops around the world in many leading events.
 
