@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](/assets/images/fred_donovan.png)
+![Image](/www-board-candidates/assets/images/fred_donovan.png)
 
 [FD Video](https://tinyurl.com/5is3oWp0)
 
