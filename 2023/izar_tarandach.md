@@ -8,7 +8,7 @@ layout: col-sidebar
 
 ### About Me
 
-![Izar](/assets/images/izar_headshot.png)
+![Izar](/www-board-candidates/assets/images/izar_headshot.png)
 
 I've been doing Security since the 90's. Seen a lot of stuff, worked from start-ups up to global companies.
 I am an active member of OWASP:
