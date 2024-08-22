@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Sam Stepanyan
 layout: col-sidebar
 

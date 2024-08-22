@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Kevin Johnson
 layout: col-sidebar
 
