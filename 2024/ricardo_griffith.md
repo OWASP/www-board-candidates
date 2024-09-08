@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Image](#)
+![image](https://github.com/user-attachments/assets/7cf90c42-e512-43a6-a77a-3839c0255de2)
 
 ### Link to My Video
 
