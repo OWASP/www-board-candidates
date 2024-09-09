@@ -7,7 +7,9 @@ layout: col-sidebar
 ---
 
 ### About Me
-![image](https://github.com/user-attachments/assets/7cf90c42-e512-43a6-a77a-3839c0255de2)
+![Ricardo Griffith - Copy](https://github.com/user-attachments/assets/6cfd54a8-7909-45ff-b214-8bed92d0e20d)
+
+
 
 ### Link to My Video
 
