@@ -7,7 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![Bhaskara Ram Allam](https://raw.githubusercontent.com/bhaskarvilles/my-photos/bhaskarvilles/owasp.png)
+![Bhaskara Ram Allam](https://raw.githubusercontent.com/bhaskarvilles/my-photos/bhaskarvilles/image.jpg)
 
 ### About Me  
 I am an experienced professional deeply engaged in the fields of security engineering, artificial intelligence, blockchain technology, and full-stack development. I lead **Kerdos Infrasoft Pvt Ltd**, a company specializing in technology and innovation with a focus on cutting-edge developments like zero-knowledge protocols, multisig wallets, and security in digital assets. My work has fostered collaborations with industry leaders such as the Linux Foundation, Hyperledger, OWASP, and OpenAI. Through my contributions, including the development of NumPy 2.0.0 and launching online learning platforms like **SecretCoder.org**, I have demonstrated a commitment to advancing technology while ensuring security and accessibility for the global community.
