@@ -29,24 +29,17 @@ I have actively contributed to OWASP as an expert reviewer for the various AppSe
 
 
 ### What strategies would you implement to increase community engagement and participation in OWASP? ###
-To increase community engagement, if elected, I would implement strategies such as:
-•	Increasing the hosting of regular virtual meetups to foster a sense of community within the members.
-•	Launching tailored mentorship programs to connect experienced software security professionals with those still new in the industry.
-•	Creating more gamified learning experiences to enhance the appeal of software security education and make learning more engaging.
+To increase community engagement, if elected, I would implement strategies such as expanding the hosting of regular virtual meetups to foster a sense of community among the members and launching tailored mentorship programs to connect experienced software security professionals with those still new in the industry. I will also work on creating more gamified learning experiences to enhance the appeal of software security education and make learning more engaging.
 
 
 
 ### What will be your efforts to ensure OWASP continues to be a centerpiece in software security? ###
-: I will focus on maintaining OWASP’s relevance by:
-•	Continuously making sure our resources reflect the latest security threats and best practices and are in line with security trends. 
-•	Strengthening partnerships with academic institutions, industry leaders, government, and other professional bodies to promote widespread adoption and usage of OWASP standards.
-•	I would also work to ensure that OWASP develops professional certifications in software security that will enhance the credibility of the members. 
+I will focus on maintaining OWASP’s relevance by continuously making sure our resources reflect the latest security threats and best practices and are in line with security trends and strengthening partnerships with academic institutions, industry leaders, government, and other professional bodies to promote widespread adoption and usage of OWASP standards. I will also work to ensure that OWASP develops professional certifications in software security that will enhance the credibility of the members. 
 
 
 
 ### What should OWASP stop doing and why? ###
-OWASP should consider stopping the practice of holding conferences on regional bases that target geographical regions that are well-represented. Such an approach only led to membership concentrated in certain geographical regions when OWASP is global.
-Instead, we should focus our efforts on promoting and holding conferences in regions with fewer members to increase access. 
+OWASP should consider stopping the practice of holding conferences on regional bases that target geographical regions that are well-represented. Such an approach only led to membership concentrated in certain geographical regions when OWASP is global. Instead, we should focus our efforts on promoting and holding conferences in regions with fewer members to increase access. 
 
 
 
