@@ -10,6 +10,7 @@ layout: col-sidebar
 ![Image](#)
 
 ### Link to My Video
+https://youtu.be/9Ae7s5ckDfY
 
 ### Questions
 
