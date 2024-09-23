@@ -13,7 +13,9 @@ I am a highly accomplished cybersecurity and cloud security expert known for my 
 
 
 
+
 ### Link to My Video
+https://www.youtube.com/watch?v=3UoQn8TjQhA 
 
 ### Questions
 
