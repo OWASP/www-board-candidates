@@ -13,6 +13,7 @@ layout: col-sidebar
 https://youtu.be/9Ae7s5ckDfY
 
 ### Questions
+reference in video context
 
 ### What unique strategic goal do you intend to bring on board, if you are elected? ###
 
