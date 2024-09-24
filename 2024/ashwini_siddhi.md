@@ -10,6 +10,12 @@ layout: col-sidebar
 
 ![phototos](https://github.com/user-attachments/assets/b1e528a7-a042-40f0-9211-39f498bca903)
 
+1. Product Security Leader with extensive industry experience and areas of specializations like Security Architecture & Design, Supply Chain Security Strategy, Privacy By-Design, Zero Trust Architecture (ZTA), Ransomware Recovery, Threat Modeling, and Security Development Lifecycle (SDL) for both Cloud and Applications.
+2. Instrumental in providing various organizations with essential guidance to build secure solutions to address current cyber security problems and has been innovating the way organizations design their products and applications securely.
+3. Started off as a pen-tester and hence has the complete spectrum of expereince in SDL.
+4. Currently, as the Director of Product Security Engineering at GoDaddy, innovating with SDL using AI capabilities. 
+5. A respected public speaker and active member of various security forums. A staunch advocate for diversity and inclusion (D&I), serve as a mentor for many women at WiCyS, EWF, promoting a culture of equality and empowerment
+
 ### Link to My Video
 
 ### Questions
