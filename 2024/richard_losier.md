@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Richard Losier
 layout: col-sidebar
 
