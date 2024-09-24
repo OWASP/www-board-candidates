@@ -9,7 +9,7 @@ layout: col-sidebar
 ### About Me
 I am a highly accomplished cybersecurity and cloud security expert known for my extensive expertise as an advisor, thought leader, and published author. I have a strong foundation in audit, cybersecurity, and cloud security and am a passionate advocate for software security. I am also the founder of Cyber Defence Consultancy and serve as an advisor to various organizations, providing expert strategic guidance and insight on software security strategies. My advisory roles involve assessing the security posture of cybersecurity and cloud environments, recommending improvements, and helping organizations navigate the complexities of cybersecurity and software security.
 [![Image](#)]
-
+[![Elastos](https://media.licdn.com/dms/image/v2/C5603AQFSEkHHxwQ6HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1583075034180?e=1732752000&v=beta&t=gpLaRVHBAAIpdF7iSEXmjMzyVJeYiOu-iq3tMOrvE4A)]
 
 ### Link to My Video
 https://www.youtube.com/watch?v=3UoQn8TjQhA 
