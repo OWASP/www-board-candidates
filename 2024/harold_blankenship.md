@@ -10,7 +10,7 @@ layout: col-sidebar
 
 ![Headshot of Harold Blankenship](/www-board-candidates/assets/images/harold_blankenship.jpg){:width="200px"}
 
-As an avid believer in the OWASP mission, I encourage the proliferation of free and open-source solutions to the on-going security issues affecting us all. As the previous Director of Projects and Technology at OWASP, I have a firm understanding of one of the organization's most important and pivotal pillars - projects. I want to see the projects thrive at OWASP and thriving projects require funding. My background has been in software development, software management, and I.T. I have a B.S. in Computer Science and a M.S. in Cybersecurity.
+As an avid believer in the OWASP mission, I encourage the proliferation of free and open-source solutions to the on-going security issues affecting us all. As the previous Director of Projects and Technology at OWASP, I have a firm understanding of one of the organization's most important and pivotal pillars - projects. I want to see the projects thrive at OWASP and thriving projects require funding. My background has been in software development, software management, and I.T. I have a B.S. in Computer Science and a M.S. in Cybersecurity. I am currently the Director of Community and Customer Success at DefectDojo Inc.
 
 ### Link to My Video
 
@@ -28,7 +28,7 @@ I envision OWASP as continuing to lead the space in open source security, growin
 
 ### What contributions have you personally made to OWASP or other open source projects? ###
 
-I was on the staff as the Director of Projects and Technology and, as part of that, I was responsible for moving the organization from the old wiki to the new github-based website. I have, along with Fabio Cerullo, been an administrator for OWASP's yearly efforts in the Google Summer of Code. Further I am the vice-chair of the events committee, I have participated in CfT/CfP reviews, and I have volunteered at this most recent OWASP Global AppSec in San Francisco.
+I was on the staff as the Director of Projects and Technology and, as part of that, I was responsible for moving the organization from the old wiki to the new github-based website. I have, along with Fabio Cerullo, been an administrator for OWASP's yearly efforts in the Google Summer of Code. I am the also a leader of the OWASP Developer Guide, the vice-chair of the events committee, I have participated in CfT/CfP reviews, and I have volunteered at this most recent OWASP Global AppSec in San Francisco.
 
 ### What strategies would you implement to increase community engagement and participation in OWASP? ###
 
