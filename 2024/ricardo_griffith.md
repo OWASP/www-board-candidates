@@ -9,18 +9,20 @@ layout: col-sidebar
 ### About Me
 ![Ricardo Griffith - Copy](https://github.com/user-attachments/assets/6cfd54a8-7909-45ff-b214-8bed92d0e20d)
 
-With 25 years of experience in application development, I have honed my skills across a variety of roles, specializing in creating innovative solutions for the finance and insurance sectors. I currently serve as a Technical Solution Architect for a leading insurance company in Bermuda and am the co-founder of a software company, where I drive the development of cutting-edge technology products.
+With 25 years of stockpiling industry knowledge and experience in application development, I have honed my skills across a variety of roles, specializing in creating innovative solutions for the finance and insurance sectors. I currently am in a Technical Solution Architect role for a leading insurance company in Bermuda and a co-founder of a software company, where I drive the development of a consumer technology-based experience.
 
-I hold a B.S. in Computer Science/Engineering from Johnson C. Smith University and an MBA from South University. In addition to several industry technical certifications, I am working towards a graduate certificate in Information Systems from Boston University, which I will complete by the end of the year.
+I am a life-long learner, continually enrichingmy mind with all things in technology.  My post-high school education includes a Certificate in Electronics from Bermuda College, B.S. in Computer Science/Engineering from Johnson C. Smith University and an MBA from South University. In addition to several industry certifications, my educational journey continues with  a Graduate Certificate in Information Systems from Boston University, which I expect to complete by the end of the year.
 
-Passionate about continuous learning and advancing the field of technology, I actively engage in both professional development and community initiatives. In my personal time, I enjoy spending time with my family—my spouse, two kids, and our King Charles dog—gaming, and relaxing at the beach.
+Passionate about advancing the field of technology and aligning with OWASP's mission to improve software security, I actively engage in professional development and community initiatives. I believe in the power of open collaboration and knowledge sharing to foster innovation and enhance security practices globally. My commitment to ethical development and integrity reflects OWASP's core values, as I strive to make a positive impact on the developer community.
+
+Outside of my professional endeavors, I enjoy spending quality time with my family—my spouse, two kids, and our King Charles dog. I find balance through gaming and relaxing at the beach, activities that recharge me and reinforce my dedication to creating a safer digital world for future generations.
 
 [Link to My Video](#)
 
 ## Questions
 
 ### What unique strategic goal do you intend to bring on board, if you are elected?
-My strategic goal for the next term is to bring OWASP back to its core roots—Application Security (AppSec). While OWASP has grown significantly, our primary mission has always been to secure the software development lifecycle. I aim to strengthen our influence by focusing on building comprehensive standards and educational tools specifically targeted at AppSec. By emphasizing best practices in secure development, OWASP can continue to be a leader in addressing the most pressing security challenges faced by developers today.
+My strategic goal for the next term is to bring OWASP back to its core roots—Application Security (AppSec). While OWASP has matured over the years, our primary mission has always been to secure software. I aim to strengthen our influence by focusing our stategy on building comprehensive standards and educational tools specifically targeted at AppSec. By emphasizing best practices in secure development, OWASP can continue to be a leader in addressing the most pressing security challenges faced by developers today.
 
 ### What is your vision for OWASP over the next three to five years?
 In the next three to five years, I envision OWASP doubling down on education and certification, with a heavy focus on application security. Two compelling reasons for this are (click to expand each section):
