@@ -46,6 +46,8 @@ My unique strategic goal is to embrace developers where they are by extending OW
 
 In the next three to five years, I envision OWASP becoming the global cornerstone for application security by doubling down on education and certification. My vision focuses on embracing developers where they are and providing them with the resources they need to build secure software. Here are a few compelling reasons for this strategic focus:
 
+> _(Click on each heading to expand or collapse)_
+
 <details>
 <summary><strong>ELEVATING SECURE DEVELOPMENT SKILLS</strong></summary>
 
