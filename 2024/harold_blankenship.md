@@ -9,6 +9,7 @@ layout: col-sidebar
 ### About Me
 
 ![Headshot of Harold Blankenship](/www-board-candidates/assets/images/harold_blankenship.jpg){:width="200px"}
+
 As an avid believer in the OWASP mission, I encourage the proliferation of free and open-source solutions to the on-going security issues affecting us all. As the previous Director of Projects and Technology at OWASP, I have a firm understanding of one of the organization's most important and pivotal pillars - projects. I want to see the projects thrive at OWASP and thriving projects require funding. My background has been in software development, software management, and I.T. I have a B.S. in Computer Science and a M.S. in Cybersecurity.
 
 ### Link to My Video
