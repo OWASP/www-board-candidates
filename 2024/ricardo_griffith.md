@@ -63,21 +63,21 @@ The application layer is where most security vulnerabilities arise, often due to
 
 By developing thorough, accessible training materials, OWASP can directly enhance developers' ability to write secure code and prevent vulnerabilities before they happen:
 
-- **Creating Up-to-Date Course Materials:** We encourage the community to contribute to projects that build high-quality educational content, thus creating up-to-date course materials covering best practices and strategies to mitigate emerging threats.
+- We encourage the community to contribute to projects that build high-quality educational content, thus creating up-to-date course materials covering best practices and strategies to mitigate emerging threats.
 
-- **Facilitating Workshops:** By supporting local chapters and members, we facilitate workshops using these materials to spread knowledge and practical skills.
+- By supporting local chapters and members, we facilitate workshops using these materials to spread knowledge and practical skills.
 
 **Accessible Learning Platforms**
 
-- **Leveraging Technology:** We utilize online platforms to make learning resources available globally, accommodating different learning styles and schedules.
+- We utilize online platforms to make learning resources available globally, accommodating different learning styles and schedules.
 
-- **Providing Open Access Resources:** We ensure that all training materials are freely accessible, allowing developers worldwide to benefit from OWASP's collective expertise.
+- We ensure that all training materials are freely accessible, allowing developers worldwide to benefit from OWASP's collective expertise.
 
 **Community Mentorship Programs**
 
-- **Establishing Mentorship Initiatives:** We connect experienced security professionals with developers seeking to improve their skills through mentorship programs.
+- We connect experienced security professionals with developers seeking to improve their skills through mentorship programs.
 
-- **Fostering Collaboration:** By promoting a culture of knowledge sharing within the community, we foster collaboration to enhance collective understanding and proficiency.
+- By promoting a culture of knowledge sharing within the community, we foster collaboration to enhance collective understanding and proficiency.
 
 **Potential Impact**
 
