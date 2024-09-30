@@ -8,7 +8,7 @@ layout: col-sidebar
 
 ### About Me
 
-[Ricardo Griffith - Copy](https://github.com/user-attachments/assets/6cfd54a8-7909-45ff-b214-8bed92d0e20d)
+![image](https://github.com/OWASP/www-board-candidates/blob/master/assets/images/board_ricardo.png)
 
 With over 25 years of industry experience in application development, I have honed my skills across a variety of roles, specializing in creating innovative solutions for the finance and insurance sectors. Currently, I serve as a Technical Solution Architect for a leading insurance company in Bermuda. As a co-founder of a software company, I also drive the development of cutting-edge consumer technology experiences.
 
