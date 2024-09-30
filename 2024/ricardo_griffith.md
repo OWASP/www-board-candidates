@@ -6,7 +6,7 @@ layout: col-sidebar
 
 ---
 
-![Ricardo Griffith](/www-board-candidates/assets/images/ricardo_griffith){:width="200px"}
+![Ricardo Griffith](/www-board-candidates/assets/images/board_ricardo.png){:width="200px"}
 
 
 ### About Me
