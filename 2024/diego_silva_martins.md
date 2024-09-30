@@ -7,9 +7,7 @@ layout: col-sidebar
 ---
 
 ### About Me
-![image](https://raw.githubusercontent.com/OWASP/www-board-candidates/refs/heads/master/assets/images/DiegoMartins.png)
-
-This October, when you’re deciding between several worthy candidates, please vote for Diego Silva Martins for the Board of Directors, to start a new chapter of changes that I would like to make the OWASP community even better!
+![image](https://raw.githubusercontent.com/OWASP/www-board-candidates/refs/heads/master/assets/images/DiegoMartins.png) This October, when you’re deciding between several worthy candidates, please vote for Diego Silva Martins for the Board of Directors, to start a new chapter of changes that I would like to make the OWASP community even better!
 I will aim to lead efforts to increase and grow our community, support our projects and get them more of the resources they need to thrive and increase our funding efforts so that we can meet more of our mission.
 I am an experienced professional with over 20 years in information technology working as a specialist consulting for solutions focused on security like API Management, SSO, Identity Management, Privilege Access Management, and SIEM. 
 
