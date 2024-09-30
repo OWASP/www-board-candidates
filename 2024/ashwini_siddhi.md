@@ -16,7 +16,7 @@ layout: col-sidebar
 4. Currently, as the Director of Product Security Engineering at GoDaddy, innovating with SDL using AI capabilities. 
 5. A respected public speaker and active member of various security forums. A staunch advocate for diversity and inclusion (D&I), serve as a mentor for many women at WiCyS, EWF, promoting a culture of equality and empowerment
 
-### Link to My Video
+### [Link to My Video](https://drive.google.com/file/d/1R8seJJ_xAAsy4uiQeM5uxOI9STLn3AwD/view?usp=drivesdk)
 
 ### Questions
 
