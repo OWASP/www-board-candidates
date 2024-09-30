@@ -6,6 +6,8 @@ layout: col-sidebar
 
 ---
 
+![Ashwini Siddhi](/www-board-candidates/assets/images/ashwini_siddhi.jpg){:width="200px"}
+
 ### About Me
 
 ![phototos](https://github.com/user-attachments/assets/b1e528a7-a042-40f0-9211-39f498bca903)
