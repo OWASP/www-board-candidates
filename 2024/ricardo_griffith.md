@@ -6,9 +6,10 @@ layout: col-sidebar
 
 ---
 
-### About Me
+![Ricardo Griffith](/www-board-candidates/assets/images/ricardo_griffith){:width="200px"}
 
-![image](https://github.com/user-attachments/assets/80b798e4-ba03-4f3e-992f-12341da6a5f4)
+
+### About Me
 
 With over 25 years of industry experience in application development, I have honed my skills across a variety of roles, specializing in creating innovative solutions for the finance and insurance sectors. Currently, I serve as a Technical Solution Architect for a leading insurance company in Bermuda. As a co-founder of a software company, I also drive the development of cutting-edge consumer technology experiences.
 
