@@ -11,6 +11,8 @@ layout: col-sidebar
 I will aim to lead efforts to increase and grow our community, support our projects and get them more of the resources they need to thrive and increase our funding efforts so that we can meet more of our mission.
 I am an experienced professional with over 20 years in information technology working as a specialist consulting for solutions focused on security like API Management, SSO, Identity Management, Privilege Access Management, and SIEM. 
 
+![My Linkedin, let's connect!!](https://www.linkedin.com/in/dsmartins/)
+
 ### Link to My Video
 --- Creating video ---
 ### Questions
