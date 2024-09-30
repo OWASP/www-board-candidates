@@ -9,8 +9,9 @@ layout: col-sidebar
 ### About Me
 I am a seasoned security professional with extensive experience in handling complex projects. My expertise lies in API Management, SIEM, Single-Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Also, I started to learn more about API Security and Management during my time with CA Technologies, where I learned deeply about the potential flaws in the API lifecycle.
 
-This October, when you’re deciding between several worthy candidates, please vote for Diego Silva Martins for the Board of Directors, to start a new chapter of changes that I would like to make the OWASP community even better!
-I will aim to lead efforts to increase and grow our community, support our projects and get them more of the resources they need to thrive and increase our funding efforts so that we can meet more of our mission.
+I'm counting on your support this October. When you're faced with a choice among outstanding candidates, I urge you to cast your vote for Diego Silva Martins for the Board of Directors. Together, let's embark on a journey to bring about positive changes and take the OWASP community to greater heights!
+
+I am committed to spearheading initiatives that will expand and enrich our community, bolster our projects, secure the necessary resources for their success, and elevate our fundraising endeavors to further our mission. Your vote for me is an investment in a better and stronger OWASP community.
 
 My Linkedin is https://www.linkedin.com/in/dsmartins/, let's connect!! 
 
