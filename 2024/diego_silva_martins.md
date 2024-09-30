@@ -5,9 +5,8 @@ title: Diego Silva Martins
 layout: col-sidebar
 
 ---
-![image](https://raw.githubusercontent.com/OWASP/www-board-candidates/refs/heads/master/assets/images/DiegoMartins.png)
 ### About Me
-I am a seasoned security professional with extensive experience in handling complex projects. My expertise lies in API Management, SIEM, Single-Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Also, I started to learn more about API Security and Management during my time with CA Technologies, where I learned deeply about the potential flaws in the API lifecycle.
+![image](https://raw.githubusercontent.com/OWASP/www-board-candidates/refs/heads/master/assets/images/DiegoMartins.png) I am a seasoned security professional with extensive experience in handling complex projects. My expertise lies in API Management, SIEM, Single-Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Also, I started to learn more about API Security and Management during my time with CA Technologies, where I learned deeply about the potential flaws in the API lifecycle.
 
 I'm counting on your support this October. When you're faced with a choice among outstanding candidates, I urge you to cast your vote for Diego Silva Martins for the Board of Directors. Together, let's embark on a journey to bring about positive changes and take the OWASP community to greater heights!
 
@@ -16,8 +15,8 @@ I am committed to spearheading initiatives that will expand and enrich our commu
 My Linkedin is https://www.linkedin.com/in/dsmartins/, let's connect!! 
 
 
-### Link to My Video
---- Creating video ---
+### [Link to My Video](https://drive.google.com/file/d/1Et9ru1sI2rb-ceeCZJltCFgebFRZy0tI/view?usp=sharing)
+
 ### Questions
 
 ### What unique strategic goal do you intend to bring on board, if you are elected? ###
