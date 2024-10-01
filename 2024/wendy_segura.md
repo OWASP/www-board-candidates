@@ -10,7 +10,7 @@ layout: col-sidebar
 
 ### About Me
 If I had to sum up what I dedicate myself to outside of work, it's volunteering my time. With organizations such as OWASP, DayofShecurity, BSides S.F., Merrit College, BangNullClub, GirlGeek X and most recently ThreatModCon. I enjoy helping others in the same way in which I was supported when I first got into tech. I might not have as many years or experience in tech as others but my way of giving back is by being involved in the same organizations that dedicated their time and effort towards my own career. 
-I am passionate about helping and supporting others as that was huge in my career and still is. The path foward is to build others and to elevate each other to accomplish our goals career wise or otherwise. 
+I am passionate about helping and supporting others as that was huge in my career and still is. The path foward is to build others and to elevate each other to accomplish our goals career or otherwise. 
 Currently I am a Security Engineer at Sage, I work accross multiple teams within security from compliance, to business information security, and application security. I recognize the importance of communication and building relationships within one’s own organization to effectively implement changes which is what I would do as an OWASP board member. 
 
 
