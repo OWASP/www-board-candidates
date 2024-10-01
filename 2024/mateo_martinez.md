@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Mateo Martinez
 layout: col-sidebar
 
