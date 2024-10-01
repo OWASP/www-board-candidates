@@ -28,7 +28,8 @@ I plan to bring in more cross collaborations with other organizations involving 
 
 ---
 ### What is your vision for OWASP over the next three to five years? ###
-My vision for OWASP is to expand OWASP's presence by increasing partnerships and collaborations with other organizations that are like minded in order to Grow and further diversify the OWASP community. 
+My vision for OWASP is to expand presence and growth through partnerships with groups/conferences such as DeveloperWeek and collaborations with other organizations that are like minded in order to grow and further diversify the OWASP community. 
+
 
 
 ---
