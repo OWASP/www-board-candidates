@@ -15,6 +15,7 @@ Currently I am a Security Engineer at Sage, I work accross multiple teams within
 
 
 ### Link to My Video
+![Watch the video](https://youtu.be/L1dvkDF_Rh4)
 
 ---
 ### Questions
