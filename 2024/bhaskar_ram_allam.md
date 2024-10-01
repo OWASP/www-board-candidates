@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Bhaskar Ram Allam 
 layout: col-sidebar
 
