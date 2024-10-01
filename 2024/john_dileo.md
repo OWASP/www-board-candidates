@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: John DiLeo
 layout: col-sidebar
 
