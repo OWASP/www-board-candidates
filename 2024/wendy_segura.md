@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Wendy Segura 
 layout: col-sidebar
 
