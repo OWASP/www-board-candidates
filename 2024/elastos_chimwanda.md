@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Elastos Chimwanda 
 layout: col-sidebar
 
