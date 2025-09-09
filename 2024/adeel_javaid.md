@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Adeel Javaid
 layout: col-sidebar
 
