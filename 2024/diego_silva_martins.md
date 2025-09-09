@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Diego Silva Martins
 layout: col-sidebar
 
