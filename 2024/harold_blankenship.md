@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Harold Blankenship 
 layout: col-sidebar
 
