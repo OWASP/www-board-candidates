@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Ashwini Siddhi
 layout: col-sidebar
 
