@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Ricardo Griffith 
 layout: col-sidebar
 
