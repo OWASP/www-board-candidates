@@ -1,14 +1,14 @@
 ---
 
 candidate: true
-title: Steve Springett 
+title: Steve Springett
 layout: col-generic
 
 ---
 
 #### About Me
 
-<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="/www-board-candidates/assets/images/steve-springett-headshot.jpg" width="300" height="300" alt="Steve Springett">
+<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/steve-springett-headshot.jpg" width="300" height="300" alt="Steve Springett">
 
 Hi there, I'm Steve Springett, and I've been deeply immersed in the OWASP community for quite some time. My journey with
 OWASP began back in 2012, and it's been a thrilling ride ever since. I'm a proud lifetime OWASP member and currently 
@@ -16,7 +16,7 @@ serve as Vice Chair on the OWASP Global Board of Directors where I help drive th
 the pursuit of its mission to make secure software a reality through open collaboration, education, and innovation.
 
 I'm passionate about helping organizations identify and reduce risk from the software supply chain. I'm an open source 
-advocate help lead [OWASP Dependency-Track](https://dependencytrack.org/) and Chair the [OWASP CycloneDX](https://cyclonedx.org/) Core 
+advocate and help lead [OWASP Dependency-Track](https://dependencytrack.org/) and Chair the [OWASP CycloneDX](https://cyclonedx.org/) Core 
 Working Group and [Ecma International Technical Committee 54](https://tc54.org/) (TC54).
 
 Additionally, I co-authored and lead the [OWASP Software Component Verification Standard](https://scvs.owasp.org/) (SCVS),
@@ -27,7 +27,9 @@ build and deliver is not just secure, but resilient in the face of emerging thre
 Outside of my professional achievements, I find joy and balance in my personal life. I reside in the Northshore of
 Chicago with my beloved wife, Vera, daughter Aryana, and a Chihuahua rescue named Ani.
 
-##### Why I'm running for re-election
+<p><br></p>
+
+### Why I'm running for re-election
 
 As a current member of the OWASP Global Board of Directors, I am running for re-election to continue advancing our 
 mission of improving the security of software for all. Over the past term, I have worked alongside fellow board members, 
@@ -60,7 +62,7 @@ with dedication, strategic vision, and a steadfast commitment to OWASP’s missi
 
 #### Link to My Video
 
-COMING SOON
+[https://www.youtube.com/watch?v=VlFSCnv56CM](https://www.youtube.com/watch?v=VlFSCnv56CM)
 
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 Over the past several years, I have made substantial contributions to open source, research, and visible leadership:
