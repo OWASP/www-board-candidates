@@ -7,7 +7,9 @@ layout: col-generic
 ---
 
 #### About Me
-![Image](#)
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/VascoArreaza/www-board-candidates/master/assets/images/Gustavo_Arreaza.jpeg" alt="Gustavo Arreaza" width="250"/>
+</div>
 <br>
 <br>
 I’m a **Cybersecurity Engineer** with over 10 years of international experience across the U.S. and LATAM, specializing in securing hybrid, cloud-native, and blockchain infrastructures.  
