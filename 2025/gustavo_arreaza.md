@@ -42,7 +42,7 @@ Founder of the .AI Cybersecurity Channel at **@AppSecCLINC**, exploring:
 <br>
 
 #### Link to My Video
-[Watch my Candidate Video](https://www.youtube.com/xxxxxxx)
+[Watch my Candidate Video](https://youtu.be/3dL2s7sFtsI)
 <br>
 <br>
 
