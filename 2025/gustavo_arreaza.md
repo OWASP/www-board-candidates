@@ -37,7 +37,7 @@ As a **contributor to the Cloud Security Alliance**, a frequent speaker across f
 - Cybersecurity speaker in **4 out of 6 continents** since 2018 (Americas, Europe, Africa, Asia).  
 
 **Current Focus: AI & Cybersecurity**  
-Founder of the .AI Cybersecurity Channel at **@AppSecCLINC**, exploring:  
+Founder of the .AI Cybersecurity Channel at [Youtube](https://www.youtube.com/@AppSecClINC) **@AppSecCLINC**, exploring:  
 - Secure deployment of AI systems.  
 - Model integrity and privacy.  
 - Adversarial defense strategies.  
