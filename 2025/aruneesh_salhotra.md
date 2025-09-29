@@ -8,6 +8,8 @@ layout: col-generic
 
 #### About Me
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/Aruneesh Salhotra.jpg" width="300" height="300" alt="Aruneesh Salhotra">
+
+
 <br>
 <br>
 I am me.  Welcome to my page.
