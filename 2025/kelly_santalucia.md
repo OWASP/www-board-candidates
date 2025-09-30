@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-<img width="180" height="320" alt="image" src="../assets/images/kelly_santalucia_photo.png" />
+![Headshot of Kelly Santalucia](/www-board-candidates/assets/images/kelly_santalucia_photo.png){:width="200px"}
 <br>
 <br>
 Hi! I’m Kelly Santalucia.
