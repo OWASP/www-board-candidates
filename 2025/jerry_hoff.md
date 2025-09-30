@@ -17,8 +17,6 @@ As a candidate for the OWASP Global Board, my focus is clear: empower our staff 
 |
 
 #### Video
-[![Why I'm running for the OWASP Board | 2025 Jerry Hoff Video](https://img.youtube.com/vi/sxeZkvYRXG4/hqdefault.jpg)](https://www.youtube.com/watch?v=sxeZkvYRXG4)
-<br/>
 [Why I'm running for the OWASP Board | 2025 Jerry Hoff Video](https://www.youtube.com/watch?v=sxeZkvYRXG4)
 <br>
 <br>
