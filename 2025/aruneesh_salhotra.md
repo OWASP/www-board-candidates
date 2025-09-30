@@ -98,7 +98,7 @@ layout: col-generic
     Education & Credentials
   </h2>
   
-  <table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+  <table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
     <thead>
       <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
         <th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Certification</th>
@@ -107,20 +107,20 @@ layout: col-generic
     </thead>
     <tbody>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">C-CISO</td>
-        <td style="padding: 18px; color: #34495e;">Certified Chief Information Security Officer</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">C-CISO</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Certified Chief Information Security Officer</td>
       </tr>
       <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">GCISO</td>
-        <td style="padding: 18px; color: #34495e;">GCLF Certified Information Security Officer</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">GCISO</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">GCLF Certified Information Security Officer</td>
       </tr>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">CISSP</td>
-        <td style="padding: 18px; color: #34495e;">Certified Information Systems Security Professional</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">CISSP</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Certified Information Systems Security Professional</td>
       </tr>
       <tr style="background-color: #f8f9fa;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">AWS & Kubernetes</td>
-        <td style="padding: 18px; color: #34495e;">Specialized cloud infrastructure certifications</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">AWS & Kubernetes</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Specialized cloud infrastructure certifications</td>
       </tr>
     </tbody>
   </table>
@@ -143,7 +143,7 @@ layout: col-generic
     Global Leadership Positions
   </h3>
 
-  <table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+  <table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
     <thead>
       <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
         <th style="width:38%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Organization</th>
@@ -152,28 +152,28 @@ layout: col-generic
     </thead>
     <tbody>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">Global CISO Leadership Foundation (GCLF)</td>
-        <td style="padding: 18px; color: #34495e;"><strong style="color: #667eea;">Co-Chair</strong> – Connecting and empowering security leaders worldwide</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">Global CISO Leadership Foundation (GCLF)</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;"><strong style="color: #667eea;">Co-Chair</strong> – Connecting and empowering security leaders worldwide</td>
       </tr>
       <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">Purple Book Community (PBC)</td>
-        <td style="padding: 18px; color: #34495e;">Global community of AppSec leaders driving industry best practices</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">Purple Book Community (PBC)</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Global community of AppSec leaders driving industry best practices</td>
       </tr>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">IEEE Next Gen Cyber Security</td>
-        <td style="padding: 18px; color: #34495e;">Shaping the future of security standards</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">IEEE Next Gen Cyber Security</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Shaping the future of security standards</td>
       </tr>
       <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">Cyber Future Foundation (CFF)</td>
-        <td style="padding: 18px; color: #34495e;">Advancing cybersecurity innovation</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">Cyber Future Foundation (CFF)</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Advancing cybersecurity innovation</td>
       </tr>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">InfraGard NY Metro Chapter</td>
-        <td style="padding: 18px; color: #34495e;">Collaborating with the FBI on critical infrastructure protection</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">InfraGard NY Metro Chapter</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Collaborating with the FBI on critical infrastructure protection</td>
       </tr>
       <tr style="background-color: #f8f9fa;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50;">CISO Communities Globally</td>
-        <td style="padding: 18px; color: #34495e;">Building bridges between security leaders across continents</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">CISO Communities Globally</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top;">Building bridges between security leaders across continents</td>
       </tr>
     </tbody>
   </table>
@@ -229,7 +229,7 @@ layout: col-generic
     As an ex-entrepreneur, I understand the journey from zero to one. I've invested in a few ventures and advised many startups through their most critical growth phases.
   </p>
 
-  <table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+  <table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
     <thead>
       <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
         <th style="width:32%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Investment Role</th>
@@ -238,12 +238,12 @@ layout: col-generic
     </thead>
     <tbody>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50; vertical-align: top;">Limited Partner (LP)</td>
-        <td style="padding: 18px; color: #34495e; line-height: 1.8;">Multiple venture capital firms specializing in cybersecurity – deploying capital strategically into funds shaping the next generation of security innovation. This gives me visibility into emerging trends and technologies that will define our industry's future.</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top; vertical-align: top;">Limited Partner (LP)</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top; line-height: 1.8;">Multiple venture capital firms specializing in cybersecurity – deploying capital strategically into funds shaping the next generation of security innovation. This gives me visibility into emerging trends and technologies that will define our industry's future.</td>
       </tr>
       <tr style="background-color: #f8f9fa;">
-        <td style="padding: 18px; font-weight: 600; color: #2c3e50; vertical-align: top;">Angel Investor</td>
-        <td style="padding: 18px; color: #34495e; line-height: 1.8;">Writing personal checks into early-stage startups where I can add operational value, backing founders solving problems others don't yet see. Portfolio spans security automation, AI governance, DevSecOps tooling, and open source commercialization.</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top; vertical-align: top;">Angel Investor</td>
+        <td style="padding: 12px; color: #34495e; vertical-align: top; line-height: 1.8;">Writing personal checks into early-stage startups where I can add operational value, backing founders solving problems others don't yet see. Portfolio spans security automation, AI governance, DevSecOps tooling, and open source commercialization.</td>
       </tr>
     </tbody>
   </table>
@@ -465,83 +465,68 @@ Three focused blocks. Measurable outcomes. Public accountability.
 
 Days 1-30 - Foundation & Launch
 Theme: Establish Infrastructure, Activate Governance, Launch OWASP's Modern Era
-<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
 <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
-<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
+<th style="width:28%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Initiative</th>
+<th style="width:42%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Working Group Framework Activation</strong></td>
-<td style="padding: 18px; color: #34495e;">
-- Publish foundational Working Group charter & governance model<br>
-- Establish templates for WG formation, reporting, success metrics<br>
-- Socialize framework with Foundation and Board members
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top; vertical-align: top;"><strong>Working Group Framework</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top; vertical-align: top;">
+• WG charter & governance model<br>
+• Formation templates & metrics<br>
+• Foundation/Board socialization
 </td>
-<td style="padding: 18px; color: #34495e;">
-<strong>Metrics:</strong><br>
-- Framework approved and published<br>
-- Templates available for 3+ Working Group types<br><br>
-<strong>Verification:</strong><br>
-- Charter published at owasp.org/working-groups<br>
-- Template repository live
+<td style="padding: 12px; color: #34495e; vertical-align: top; vertical-align: top;">
+<strong>Metrics:</strong> Framework approved, 3+ templates<br>
+<strong>Verification:</strong> Charter at owasp.org/working-groups
 </td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence Series Launch</strong></td>
-<td style="padding: 18px; color: #34495e;">
-- Convene first monthly sync with 8+ flagship project leaders (ASVS, SAMM, Top 10, ZAP, Dependency-Track, AI Exchange, CycloneDX, ModSecurity, GenAI, AIBOM)<br>
-- Create integrated security pathway roadmap<br>
-- Publish meeting notes and collaboration commitments
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top; vertical-align: top;"><strong>Flagship Project Convergence</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top; vertical-align: top;">
+• Monthly sync with 8+ flagship leaders<br>
+• Integrated security pathway roadmap<br>
+• Collaboration commitments & tracking
 </td>
-<td style="padding: 18px; color: #34495e;">
-<strong>Metrics:</strong><br>
-- First meeting held with 8+ leaders<br>
-- 3+ cross-project initiatives identified<br>
-- Collaboration roadmap published<br><br>
-<strong>Verification:</strong><br>
-- Meeting notes: owasp.org/flagship-convergence<br>
-- Public collaboration tracker
+<td style="padding: 12px; color: #34495e; vertical-align: top; vertical-align: top;">
+<strong>Metrics:</strong> 8+ leaders, 3+ initiatives, roadmap<br>
+<strong>Verification:</strong> owasp.org/flagship-convergence
 </td>
 </tr>
 </table>
 
 Days 31-60 - Revenue Generation & Operational Excellence
 Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
-<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
 <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
-<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
+<th style="width:28%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Initiative</th>
+<th style="width:42%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>$200K Sponsorship Revenue Campaign</strong></td>
-<td style="padding: 18px; color: #34495e;">
-- Close sponsorships with 5+ enterprise brands<br>
-- Formalize ROI business case template (with Starr Brown)<br>
-- Launch monthly "Sponsor Showcase" series demonstrating value<br>
-- Create tiered sponsorship packages with clear deliverables
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>$200K Sponsorship Campaign</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
+• Close 5+ enterprise sponsorships<br>
+• ROI business case template<br>
+• Monthly "Sponsor Showcase" series<br>
+• Tiered sponsorship packages
 </td>
-<td style="padding: 18px; color: #34495e;">
-<strong>Metrics:</strong><br>
-- $200K confirmed revenue<br>
-- 5+ Fortune 1000 companies in pipeline<br>
-- Playbook adopted by 5+ projects<br><br>
-<strong>Verification:</strong><br>
-- Monthly revenue reports published<br>
-- Sponsor testimonials on owasp.org<br>
-- Signed contracts (summary data)
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
+<strong>Metrics:</strong> $200K revenue, 5+ Fortune 1000 pipeline<br>
+<strong>Verification:</strong> Monthly reports, testimonials on owasp.org
 </td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Funding Working Group Activation</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Funding Working Group Activation</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Recruit 5-7 members with proven fundraising expertise<br>
 - Publish Funding WG charter and monthly meeting schedule<br>
 - Release standardized sponsorship proposal templates<br>
 - Create chapter/project fundraising playbook
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - WG formed with 5-7 active members<br>
 - Charter published<br>
@@ -553,14 +538,14 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 </td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Integrated Project Sponsorship Model</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Integrated Project Sponsorship Model</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Package flagship projects as unified solutions for sponsors<br>
 - Create "Complete AppSec Stack" sponsorship tier (ASVS + SAMM + ZAP + Dependency-Track)<br>
 - Develop co-marketing materials for integrated offerings<br>
 - Pilot with 1+ major sponsor
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - 1+ integrated package sold<br>
 - 3+ package options created<br>
@@ -571,14 +556,14 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 </td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence (Continued)</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Flagship Project Convergence (Continued)</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Second monthly sync focused on technical integrations<br>
 - Document first cross-project integration (e.g., SAMM → ASVS mapping)<br>
 - Create unified project marketing messaging<br>
 - Establish shared metrics framework
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - 1+ technical integration documented<br>
 - Unified messaging framework created<br>
@@ -593,21 +578,21 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 
 Days 61-90 - Global Positioning & Ecosystem Leadership
 Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project Health
-<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
 <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
-<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
-<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
+<th style="width:28%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Initiative</th>
+<th style="width:42%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 15px 12px; text-align: left; font-size: 1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Open Source Security Alliance (OSSA) Launch</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Open Source Security Alliance (OSSA) Launch</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Establish quarterly executive forum with Linux Foundation, Apache, CNCF, OpenSSF, Eclipse<br>
 - Define complementary positioning map across foundations<br>
 - Create joint sponsorship program pilot<br>
 - Publish OSSA charter and collaboration framework
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - 1+ formal MOUs signed<br>
 - Quarterly meeting schedule set<br><br>
@@ -618,14 +603,14 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>EU CRA & Eclipse Foundation Partnership</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>EU CRA & Eclipse Foundation Partnership</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Formalize OWASP-Eclipse collaboration (with Steve Springett)<br>
 - Position OWASP projects as CRA implementation standards<br>
 - Co-host webinar on CRA compliance (target: 200+ attendees)<br>
 - Publish 2 policy briefs mapping OWASP projects to regulations
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - Formal MOU with Eclipse signed<br>
 - Webinar: 200+ attendees<br>
@@ -637,12 +622,12 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Middle East Regulatory Expansion</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Middle East Regulatory Expansion</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Leverage "Machines Can See" conference relationships<br>
 - Schedule 3+ meetings with MENA regulators (SDAIA, UAE TDRA, Bahrain eGA)<br>
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - 3+ regulatory meetings scheduled<br>
 - Advisory framework established<br>
@@ -654,15 +639,15 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Marketing Working Group Activation</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Marketing Working Group Activation</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Recruit 5-7 marketing professionals from member companies<br>
 - Publish Marketing WG charter<br>
 - Release Marketing Playbook v1.0 with 10+ templates<br>
 - Establish brand metrics framework<br>
 - Deploy coordinated campaigns for major initiatives
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - WG formed: 5-7 members<br>
 - Playbook with 10+ templates released<br>
@@ -674,15 +659,15 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Data-Driven Project Health System</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Data-Driven Project Health System</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Implement automated project scoring (GitHub, downloads, engagement)<br>
 - Launch "Project Rescue Squad" with mentor matching<br>
 - Host quarterly "OWASP Innovation Spotlight" webinar (3-5 projects)<br>
 - Create conference speaking pipeline for project leaders<br>
 - Triage 15+ stagnant projects (revive or archive)
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - 15+ projects triaged<br>
 - 5+ projects in webinars (300+ attendees/session)<br>
@@ -696,14 +681,14 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence (Final Phase)</strong></td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Flagship Project Convergence (Final Phase)</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 - Third monthly sync: finalize technical integrations<br>
 - Launch unified flagship project documentation<br>
 - Create cross-promotion strategy and shared roadmap<br>
 - Publish Q4 integration milestones
 </td>
-<td style="padding: 18px; color: #34495e;">
+<td style="padding: 12px; color: #34495e; vertical-align: top;">
 <strong>Metrics:</strong><br>
 - Unified docs published<br>
 - Shared roadmap for Q4 released<br><br>
@@ -716,31 +701,31 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </table>
 
 Summary: 90-Day Impact Dashboard
-<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<table border="0" cellpadding="12" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden; font-size: 0.95em;">
 <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
 <th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Category</th>
 <th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Total Commitments</th>
 <th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Key Outcomes</th>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Revenue Generated</strong></td>
-<td style="padding: 18px; color: #34495e;">$200K+ in 90 days</td>
-<td style="padding: 18px; color: #34495e;">Sustainable sponsorship model, integrated packages, Funding WG operational</td>
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Revenue Generated</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">$200K+ in 90 days</td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">Sustainable sponsorship model, integrated packages, Funding WG operational</td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Working Groups Activated</strong></td>
-<td style="padding: 18px; color: #34495e;">2 WGs operational</td>
-<td style="padding: 18px; color: #34495e;">Funding WG + Marketing WG with charters, templates, active membership</td>
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Working Groups Activated</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">2 WGs operational</td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">Funding WG + Marketing WG with charters, templates, active membership</td>
 </tr>
 <tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Project Health</strong></td>
-<td style="padding: 18px; color: #34495e;">10+ projects triaged</td>
-<td style="padding: 18px; color: #34495e;">Health dashboard live, 25+ speaking slots secured, rescue squad active</td>
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Project Health</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">10+ projects triaged</td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">Health dashboard live, 25+ speaking slots secured, rescue squad active</td>
 </tr>
 <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
-<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Convergence</strong></td>
-<td style="padding: 18px; color: #34495e;">1-2 monthly syncs</td>
-<td style="padding: 18px; color: #34495e;">3+ technical integrations, unified docs, shared roadmap, collaboration culture</td>
+<td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;"><strong>Flagship Convergence</strong></td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">1-2 monthly syncs</td>
+<td style="padding: 12px; color: #34495e; vertical-align: top;">3+ technical integrations, unified docs, shared roadmap, collaboration culture</td>
 </tr>
 </table>
 <br>
@@ -1436,8 +1421,8 @@ Summary: 90-Day Impact Dashboard
   <table border="0" cellpadding="15" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 20px 0; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-radius: 8px; overflow: hidden;">
     <thead>
       <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-        <th style="padding: 18px; text-align: left; font-size: 1.1em; font-weight: 600; width: 50%;">Metric Category</th>
-        <th style="padding: 18px; text-align: left; font-size: 1.1em; font-weight: 600; width: 50%;">Specific Targets</th>
+        <th style="padding: 12px; text-align: left; font-size: 1.1em; font-weight: 600; width: 50%;">Metric Category</th>
+        <th style="padding: 12px; text-align: left; font-size: 1.1em; font-weight: 600; width: 50%;">Specific Targets</th>
       </tr>
     </thead>
     <tbody>
