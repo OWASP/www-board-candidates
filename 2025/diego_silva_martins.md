@@ -14,7 +14,7 @@ I'm counting on your support this October. When you're faced with a choice among
 
 I am committed to spearheading initiatives that will expand and enrich our community, bolster our projects, secure the necessary resources for their success, and elevate our fundraising endeavors to further our mission. Your vote for me is an investment in a better and stronger OWASP community.
 
-My LinkedIn is https://www.linkedin.com/in/dsmartins/, let's connect!! 
+My LinkedIn is [https://www.linkedin.com/in/dsmartins/](https://www.linkedin.com/in/dsmartins/), let's connect!! 
 <br>
 
 #### Link to My Video
