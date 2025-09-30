@@ -39,6 +39,7 @@ And in the first 90 days, this is what I will do:
 These are outcomes I can commit to, and will deliver because I have been working for a long time on them behind the scenes.  But as a board member, my focus will be on empowering the OWASP staff and community to succeed. 
 <br>
 
+
 ## *Question 2:* What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 
 1. **Visibility**: although we have great conferences, and the usage and downloads of OWASP materials and tools are staggering, we are not yet visible enough on the world stage.  Our mission is “to be the global open community that powers secure software through education, tools, and collaboration”.   To be global means we need to reach the globe, on a continuous basis.  when anything in application security or related fields is happening, OWASP must be the go-to global voice for AppSec. As a board member, I’ll help establish media relationships and ensure OWASP experts are accessible worldwide.   
