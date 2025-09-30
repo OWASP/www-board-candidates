@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Image](#)
+![Fred](https://drive.google.com/file/d/1Iyu991Xhi7HEKYjK0XH8QER6QP0HQF9P/view?usp=drive_link)
 <br>
 <br>
 .
