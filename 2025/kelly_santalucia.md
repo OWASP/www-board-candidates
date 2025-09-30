@@ -112,15 +112,17 @@ OWASP can provide vendor neutral and community-driven resources that help govern
 <br>
 
 For the Arab region, this support could include:
-    - **Educational Resources**: Continue publishing and improving open-source projects, guidelines, and references on software, operational technology, and cloud security. These can help organizations interpret and align with emerging data protection frameworks without OWASP taking a policy position.
-    - **Knowledge-Sharing**: Encouraging local chapters to host more meetups, hands-on workshops, and webinars.
-    - Translation & Localization: Supporting community-driven efforts to translate OWASP’s flagship projects and documentation into Arabic, making them more accessible to all in the Arabic region.
+
+- Educational Resources: Continue publishing and improving open-source projects, guidelines, and references on software, operational technology, and cloud security. These can help organizations interpret and align with emerging data protection frameworks without OWASP taking a policy position.
+- Knowledge-Sharing: Encouraging local chapters to host more meetups, hands-on workshops, and webinars.
+- Translation & Localization: Supporting community-driven efforts to translate OWASP’s flagship projects and documentation into Arabic, making them more accessible to all in the Arabic region.
 <br>
+
 **Building Skills and Talent in Secure Coding**
 While OWASP does not provide certification or commercial training, we can support talent development in the Arab region through:
-    - Regional Events: Encouraging and supporting the OWASP staff to work with the local Arab chapters to host AppSec Days or training tracks within Arab countries.
-    - University Engagement: Support the OWASP staff in fostering partnerships between local chapters and academic institutions across the region.
-    - Mentorship and Community: Support OWASP staff in empowering local practitioners to contribute to existing projects or launch new ones and engage with experts through local chapter meetings or encourage them to start a chapter themselves.
+- Regional Events: Encouraging and supporting the OWASP staff to work with the local Arab chapters to host AppSec Days or training tracks within Arab countries.
+- University Engagement: Support the OWASP staff in fostering partnerships between local chapters and academic institutions across the region.
+- Mentorship and Community: Support OWASP staff in empowering local practitioners to contribute to existing projects or launch new ones and engage with experts through local chapter meetings or encourage them to start a chapter themselves.
 <br>
 <br>
 Thank you for taking the time to learn more about me and my vision for taking OWASP to the next level. I would be honored to have your vote and the opportunity to represent our community. Even if you choose not to vote for me, I hope you will support another candidate who shares the same passion and commitment to OWASP’s mission.
