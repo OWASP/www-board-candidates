@@ -19,8 +19,9 @@ OWASP has been with me every step of the way in my career. In 2009, I learned ho
 In 2017, OWASP helped me get a job after months of searching. I attended the AppSecEU conference, and met lifelong friends there. And then again after the 2023 layoffs, the OWASP community was there for me with tangible help that made a huge difference. I cannot share deeply enough what OWASP has meant to me over the years, and I feel grateful to finally be in a good position to be of service and give back to the organization.
 <br>
 <br>
+
 #### Link to My Video
-[Candidate Name](#)
+Marisa Fagan - (<a href="https://youtu.be/CqxiJ4MYYQg">YouTube video</a>)
 <br>
 <br>
 
