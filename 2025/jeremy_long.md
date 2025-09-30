@@ -11,16 +11,12 @@ layout: col-generic
 
 <p>I am Jeremy Long, a passionate security professional and lifelong advocate for open collaboration and innovation. I currently serve as a Principal Security Engineer at ServiceNow, where I work on the DevSecOps team to secure our platform and software delivery pipelines using SAST, SCA, DAST, and creative workflow automation. My work focuses on integrating security seamlessly into the development process, empowering engineers to build safer, more resilient software.</p> 
 
-<p>My journey in security has always been driven by curiosity and a desire to solve hard problems. In 2012, I founded the OWASP Dependency-Check project, one of the very first Software Composition Analysis (SCA) tools, helping organizations around the world detect and remediate vulnerabilities in open-source software long before the term “SCA” was even coined. Today, Dependency-Check is used globally to protect the software supply chain and strengthen the open-source ecosystem.</p>
+<p>My journey in security has always been driven by curiosity and a desire to solve hard problems. In 2012, I founded the OWASP Dependency-Check project, one of the very first Software Composition Analysis (SCA) tools, helping organizations around the world detect and remediate vulnerabilities in open-source software long before the term “SCA” was even coined. Today, Dependency-Check is used globally to protect the software supply chain and strengthen the open-source ecosystem. I have also spoken at both major security conferences as well as developer focused conferences.</p>
 
-Over the years, I’ve had the opportunity to share my insights on software supply chain security at major industry events, including BlackHat USA 2023, where I spoke about defending against sophisticated build-time attacks like SolarWinds. My commitment to innovation has also been recognized through several patents, most notably for a technical solution that identifies malicious code introduced during the build process.
-
-I am deeply committed to mentoring others, fostering open collaboration, and giving back to the community. As the former leader of the OWASP Northern Virginia Chapter, I worked to create a welcoming, vendor-neutral space where security professionals and developers could come together to learn, share, and grow. Beyond OWASP, I have contributed to open standards like the Package URL specification and contributed source code to other open-source projects.
-
-Security is a shared responsibility, and I believe that through education, open-source tooling, and global collaboration, we can empower developers and organizations everywhere to build a safer digital future.
+I am deeply committed to mentoring others, fostering open collaboration, and giving back to the community. Security is a shared responsibility, and I believe that through education, open-source tooling, and global collaboration, we can empower developers and organizations everywhere to build a safer digital future.
 
 #### Link to My Video
-[Candidate Name](#)
+[Jeremy Long](https://youtu.be/91GDMEJhVa8)
 <br>
 <br>
 
@@ -30,7 +26,7 @@ Security is a shared responsibility, and I believe that through education, open-
 
 <p>Beyond Dependency-Check, I have contributed to several other OWASP projects, including the OWASP Java Encoder Project, multiple OWASP Cheat Sheets, Dependency-Track, and several CycloneDX plugins. My leadership extends to community building as well, having helped plan and run a previous OWASP AppSec DC conference and having served as a former leader of the OWASP Northern Virginia Chapter, where I focused on vendor-neutral, accessible education.</p>
 
-My commitment to the security community is also reflected in my research and public speaking. I have presented at multiple OWASP events and major industry conferences, including BlackHat USA 2023, where I spoke about defending against modern supply chain attacks like SolarWinds in my talk *Reflections on Trust in the Software Supply Chain*.
+My commitment to the security community is also reflected in my research and public speaking. I have presented at multiple OWASP events and major industry conferences, including BlackHat USA 2023, where I spoke about defending against modern supply chain attacks like SolarWinds in my talk [Reflections on Trust in the Software Supply Chain](https://www.youtube.com/watch?v=GXdHoxDgAYI).
 
 If elected, my first priority will be to address structural challenges faced by OWASP projects and to ensure our most active projects have the resources and visibility they need to thrive. My first 90 days will focus on three specific, measurable outcomes:
 
@@ -60,7 +56,7 @@ OWASP has hundreds of projects, but many are inactive or lack clear status indic
 
 **Action Plan:**
 - Implement **consistent labeling** within the OWASP GitHub organization to distinguish between active, experimental, and inactive projects.
-- Engage with project leaders of high-value tools to **address historical infrastructure concerns** and create a reliable, supported GitHub environment that they can trust.
+- Engage with project leaders of high-value tools to address historical infrastructure concerns and create a reliable, supported GitHub organization that they can trust.
 - Lead community discussions about potentially reorganizing OWASP’s GitHub presence to reduce clutter and improve discoverability.
 
 **Outcome:**  
