@@ -7,10 +7,8 @@ layout: col-generic
 ---
 
 #### About Me
-![Fred](https://drive.google.com/file/d/1Iyu991Xhi7HEKYjK0XH8QER6QP0HQF9P/view?usp=drive_link)
+<img style="float: left; margin-right: 1em; margin-bottom: 1em;" src="../assets/images/fred_donovan.png" width="300" height="300" alt="Fred Donovan">
 <br>
-<br>
-.
 <br>
 Hello, I am Fred Donovan, a divisional security lead and application security architect for a large multinational corporation. I help lead the application security program for over 350 security champions across several countries. I am a Lifetime OWASP member with 18 years of leadership activities, including project contributions, conference presentations, and serving as a chapter leader. My AppSec experience spans over 20 years in both public and private sectors as a builder, breaker, and defender, leveraging OWASP tools and resources to strengthen defense-in-depth security postures.
 <br>
