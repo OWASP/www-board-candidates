@@ -17,10 +17,10 @@ layout: col-generic
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 45px 35px; border-radius: 12px; color: white; margin: 40px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h1 style="font-size: 2.8em; margin-bottom: 18px; text-align: center; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); font-weight: 700; letter-spacing: -0.5px;">
+  <h1 style="font-size: 2.4em; margin-bottom: 18px; text-align: center; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); font-weight: 700; letter-spacing: -0.5px;">
     Aruneesh Salhotra
   </h1>
-  <p style="font-size: 1.35em; line-height: 1.6; text-align: center; font-style: italic; font-weight: 300; letter-spacing: 0.5px;">
+  <p style="font-size: 1.1em; line-height: 1.8; text-align: center; font-style: italic; font-weight: 300; letter-spacing: 0.5px;">
     Technologist • Servant Leader • Community Builder • Entrepreneur • Investor
   </p>
 </div>
@@ -29,7 +29,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Who I Am
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I'm a technologist, servant leader, community builder, entrepreneur, and investor who believes that the future of security lies at the intersection of open source innovation, artificial intelligence, and global collaboration. With deep expertise spanning <strong>software development, program management, agile methodologies, DevSecOps, AI, compliance, audit, sales, and infrastructure</strong>, I've spent my career contributing to movements that have helped shape how the industry approaches security.
 </div>
 
@@ -65,7 +65,7 @@ layout: col-generic
     </tbody>
   </table>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; font-style: italic; text-align: center;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; font-style: italic; text-align: center;">
     But credentials alone don't define leadership—<strong style="color: #667eea;">execution does</strong>.
   </p>
 </div>
@@ -75,11 +75,11 @@ layout: col-generic
     Why I Lead Through Community
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     I don't just participate in organizations—I transform them. At OWASP, I've led multiple flagship initiatives: <strong>OWASP AI Exchange (which I co-lead along with Rob van der Veer), OWASP AIBOM (which I founded), OWASP LLM Top Ten (where I co-authored on Supply Chain Security)</strong>. I've elevated these projects by creating platforms where contributors become thought leaders and where technical excellence translates into industry impact.
   </p>
 
-  <h3 style="color: #667eea; font-size: 1.6em; margin: 35px 0 20px 0; font-weight: 600;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 35px 0 20px 0; font-weight: 600;">
     Global Leadership Positions
   </h3>
 
@@ -124,12 +124,12 @@ layout: col-generic
     Global Engagement at the Highest Levels
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     My commitment to shaping international security dialogue extends to the world's most influential platforms:
   </p>
 
   <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
-    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       Davos – World Economic Forum
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -138,7 +138,7 @@ layout: col-generic
   </div>
 
   <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       "Machines Can See" – Dubai, Middle East's Largest AI Conference
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -146,7 +146,7 @@ layout: col-generic
     </p>
   </div>
 
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: justify; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: justify; font-style: italic;">
     In these forums, I don't just observe—I contribute to conversations that influence international cybersecurity policy and the frameworks that will govern AI and digital infrastructure for decades. This experience taught me that our industry's future is shaped at the intersection of <strong style="color: #667eea;">policy, technology, and capital</strong>—where I've deliberately positioned myself to ensure voices like OWASP's are heard at the tables where it matters most.
   </p>
 </div>
@@ -156,7 +156,7 @@ layout: col-generic
     Entrepreneur & Investor—Backing Innovation at Every Stage
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     As an ex-entrepreneur, I understand the journey from zero to one. I've invested in a few ventures and advised many startups through their most critical growth phases.
   </p>
 
@@ -170,16 +170,16 @@ layout: col-generic
     <tbody>
       <tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
         <td style="padding: 18px; font-weight: 600; color: #2c3e50; vertical-align: top;">Limited Partner (LP)</td>
-        <td style="padding: 18px; color: #34495e; line-height: 1.7;">Multiple venture capital firms specializing in cybersecurity – deploying capital strategically into funds shaping the next generation of security innovation. This gives me visibility into emerging trends and technologies that will define our industry's future.</td>
+        <td style="padding: 18px; color: #34495e; line-height: 1.8;">Multiple venture capital firms specializing in cybersecurity – deploying capital strategically into funds shaping the next generation of security innovation. This gives me visibility into emerging trends and technologies that will define our industry's future.</td>
       </tr>
       <tr style="background-color: #f8f9fa;">
         <td style="padding: 18px; font-weight: 600; color: #2c3e50; vertical-align: top;">Angel Investor</td>
-        <td style="padding: 18px; color: #34495e; line-height: 1.7;">Writing personal checks into early-stage startups where I can add operational value, backing founders solving problems others don't yet see. Portfolio spans security automation, AI governance, DevSecOps tooling, and open source commercialization.</td>
+        <td style="padding: 18px; color: #34495e; line-height: 1.8;">Writing personal checks into early-stage startups where I can add operational value, backing founders solving problems others don't yet see. Portfolio spans security automation, AI governance, DevSecOps tooling, and open source commercialization.</td>
       </tr>
     </tbody>
   </table>
 
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: justify;">
     This dual perspective means I understand both sides of the equation: I know what it takes to secure sponsorship because I've raised funding. I know what enterprises need because I've sold to them. I speak the language of CFOs and understand how to position OWASP not as a charity seeking donations, but as a <strong style="color: #667eea;">strategic partner delivering measurable value</strong>.
   </p>
 </div>
@@ -188,7 +188,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Go-to-Market & Sponsorship Expertise
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I bridge the gap between technical excellence and business value. For <strong>OWASP AI Exchange</strong>, I've secured substantial funding and established a pipeline positioning us to exceed <strong style="color: #667eea;">$100k in 2025</strong>—during a global economic downturn. My collaborations with <strong>SANS Institute, Cloud Security Alliance</strong>, and enterprise sponsors demonstrate that when you align security innovation with business outcomes, everyone wins.
   </p>
 </div>
@@ -197,7 +197,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Standardization & Operational Excellence
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I've proposed <strong>Working Groups for Funding, Marketing, and Governance</strong> within OWASP and to the exising OWASP Global Board —ensuring that proven strategies scale across all projects and chapters. As someone who has built companies and invested in dozens more, I bring operational discipline, financial rigor, and the ability to execute consistently at scale.
     <div style="margin: 30px 0;">
   <h3 style="color: #2c3e50; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
@@ -238,7 +238,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Author, Blogger, Podcaster—Amplifying Security Voices
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I believe knowledge hoarded is knowledge wasted. As an <strong>author, blogger, and podcaster</strong>, I've created platforms that democratize expertise and make complex topics accessible. When speaking or conduting workshops, my goal is the same: translate technical depth into actionable wisdom that moves the industry forward.
   </p>
 </div>
@@ -247,7 +247,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Academic Bridge Builder
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I partner with New York State universities to strengthen their cybersecurity and technology programs. When I helped <strong>Stony Brook University's Linguistics Program secure a Google grant</strong>, it demonstrated how emerging technologies like AI intersect with unexpected disciplines, creating entirely new research frontiers.
   </p>
 </div>
@@ -256,7 +256,7 @@ layout: col-generic
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Board Advisor & Strategic Counsel
   </h2>
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     As a board advisor to multiple organizations and startups, combined with my LP and angel investments, I maintain a unique vantage point: I see patterns others miss, connect dots across seemingly disparate domains, and architect strategies that compound over time.
   </p>
 </div>
@@ -266,16 +266,16 @@ layout: col-generic
     Why This Matters for OWASP
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Everything I've built—the partnerships, the sponsorships, the academic collaborations, the companies I've launched, the startups I've funded, the policy conversations in Davos, the regulatory relationships forged in Dubai, my leadership as Co-Chair of GCLF connecting CISOs worldwide—has prepared me for this moment.
   </p>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     OWASP stands at a crossroads: we can remain a respected collection of excellent projects, or we can become the <strong style="color: #667eea;">indispensable global foundation</strong> that defines how software security is practiced in the age of AI, open source, and converging technologies.
   </p>
   
   <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
-    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; text-align: center; font-weight: 600; font-style: italic;">
+    <p style="font-size: 1.1em; line-height: 1.8; color: #2c3e50; margin: 0; text-align: center; font-weight: 600; font-style: italic;">
       I'm running for the OWASP Global Board because I don't just see what OWASP is—I see what OWASP must become. And I have the track record, the relationships, the global reach, and the execution discipline to make it inevitable.
     </p>
   </div>
@@ -286,12 +286,12 @@ layout: col-generic
     The Pattern
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
     I take initiative when I see opportunities to create value. Rather than waiting for perfect conditions or seeking recognition, I focus on building the right teams and partnerships. When a situation calls for it, I help mobilize resources and facilitate conversations across organizational levels to turn ideas into reality.
   </p>
   
   <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
-    <ul style="font-size: 1.2em; line-height: 2; color: #2c3e50; margin: 0; padding-left: 25px; list-style-type: disc; font-weight: 600;">
+    <ul style="font-size: 1.1em; line-height: 1.8; color: #2c3e50; margin: 0; padding-left: 25px; list-style-type: disc; font-weight: 600;">
       <li style="margin-bottom: 12px;">I invest in ideas.</li>
       <li style="margin-bottom: 12px;">I build communities.</li>
       <li style="margin-bottom: 12px;">I shape conversations that matter.</li>
@@ -299,7 +299,7 @@ layout: col-generic
     </ul>
   </div>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600;">
     And I'm ready to do all four for OWASP's next chapter.
   </p>
 </div>
@@ -325,11 +325,11 @@ layout: col-generic
     Most people chase titles. I chase impact.
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
     Since joining the OWASP AI Exchange in April 2024 alongside Rob van der Beer, I've been obsessed with one question: <strong style="color: #667eea;">How do you turn a nascent open source project into a movement that shapes an entire industry?</strong>
   </p>
   
-  <h3 style="color: #667eea; font-size: 1.6em; margin: 35px 0 20px 0; font-weight: 600;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 35px 0 20px 0; font-weight: 600;">
     Here's what execution-driven leadership looks like:
   </h3>
   
@@ -370,12 +370,12 @@ layout: col-generic
   </div>
   
   <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
-    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
+    <p style="font-size: 1.1em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
       The pattern? I don't wait for permission. I don't optimize for credit. I identify what needs to exist in the world, then I make it inevitable.
     </p>
   </div>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600; font-style: italic;">
     Because at the end of the day, leadership isn't measured by the position you hold—it's measured by the movement you leave behind.
   </p>
 </div>
@@ -389,7 +389,7 @@ layout: col-generic
     🎯 90-Day Strategic Execution Plan: Transforming OWASP's Global Impact
   </h2>
 </div>
-<p style="text-align: center; font-size: 1.2em; color: #2c3e50; margin-bottom: 40px; font-style: italic;">
+<p style="text-align: center; font-size: 1.1em; color: #2c3e50; margin-bottom: 40px; font-style: italic;">
 Three focused blocks. Measurable outcomes. Public accountability.
 </p>
 
@@ -716,7 +716,7 @@ Summary: 90-Day Impact Dashboard
   </h3>
   
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       1. Update the Data Security Top 10
     </h4>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-bottom: 10px;">
@@ -732,7 +732,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       2. Create Practical Tooling and Integration
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -743,7 +743,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       3. Build Educational Resources
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -819,7 +819,7 @@ Summary: 90-Day Impact Dashboard
   </h3>
   
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       1. Create OWASP Guidance for AI-Assisted Development
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -831,7 +831,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       2. Integrate OWASP Standards into AI Development Tools
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -843,7 +843,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       3. Modernize Compliance for AI-Assisted Development
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -855,7 +855,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       4. Developer Education at Scale
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -940,7 +940,7 @@ Summary: 90-Day Impact Dashboard
   </h3>
   
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       1. Create Unified Compliance Mapping Framework
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -952,7 +952,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       2. Address Drift Detection Systematically
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -964,7 +964,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       3. Build Regional Compliance Guides
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -976,7 +976,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.1em; margin: 0 0 12px 0; font-weight: 600;">
       4. Establish Regulatory Advisory Relationships
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1032,7 +1032,7 @@ Summary: 90-Day Impact Dashboard
     Cross-Cutting Execution Strategy
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     All three challenges share common needs:
   </p>
 
@@ -1102,7 +1102,7 @@ Summary: 90-Day Impact Dashboard
     </p>
   </div>
 
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 30px; text-align: center; font-weight: 600; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 30px; text-align: center; font-weight: 600; font-style: italic;">
     I don't just see these as OWASP challenges—I see them as the defining security questions of the next decade. OWASP must lead, and I'm committed to making that happen.
   </p>
 </div>
@@ -1123,7 +1123,7 @@ Summary: 90-Day Impact Dashboard
     My Approach to Project Triage
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     It is natural that some projects which were highly relevant in earlier years may no longer reflect current priorities, and that project leaders may have moved on or have limited bandwidth due to professional or personal commitments. My practical, time-bound plan is as follows:
   </p>
 </div>
@@ -1131,7 +1131,7 @@ Summary: 90-Day Impact Dashboard
 <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 35px; border-radius: 12px; margin: 30px 0; border-left: 6px solid #667eea; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #4ade80; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       Within 30 Days
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1140,7 +1140,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #60a5fa; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       Within 60 Days
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1149,7 +1149,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #fb923c; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       Within 120 Days
     </h3>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1186,14 +1186,14 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 35px; border-radius: 12px; margin: 30px 0; color: white; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-  <h3 style="color: #667eea; font-size: 1.6em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
     "Scrum of Scrums" Model for Project Collaboration
   </h3>
   <p style="font-size: 1.1em; line-height: 1.8; margin-bottom: 20px; text-align: justify;">
     I will initiate a <strong>"Scrum of Scrums" model</strong> to bring project leads together, identify overlaps or duplications, and establish monthly cadences within domains such as:
   </p>
   <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
-    <ul style="font-size: 1.08em; line-height: 1.9; margin: 0; padding-left: 25px;">
+    <ul style="font-size: 1.05em; line-height: 1.8; margin: 0; padding-left: 25px;">
       <li style="margin-bottom: 12px;"><strong>AppSec Domain:</strong> Web Top 10, API Top 10, Serverless Top 10</li>
       <li style="margin-bottom: 12px;"><strong>Threat Modeling</strong></li>
       <li><strong>AI Domain:</strong> AI Exchange, GenAI, Verification Standards, AIMA</li>
@@ -1221,16 +1221,16 @@ Summary: 90-Day Impact Dashboard
     Understanding the Middle East Technology Landscape
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     The Arab region, particularly the Persian Gulf states, represents one of the most dynamic technology markets globally. The Kingdom of Saudi Arabia, the United Arab Emirates (UAE), and the State of Qatar are moving rapidly to establish themselves as global centers of investment and innovation in artificial intelligence (AI). These nations are making substantial outlays in technology and infrastructure as they seek to diversify their economies away from oil dependency.
   </p>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Critically, their governments are implementing comprehensive digital regulations and AI strategies in a bid to attract foreign investment and develop technology companies that can compete with American and European counterparts. While Gulf countries face significant challenges in achieving their AI and digital development goals, they are making considerable progress, due in part to early public-private initiatives and clear, decisive policy leadership.
   </p>
   
   <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
-    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
+    <p style="font-size: 1.1em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
       This creates a unique opportunity—and responsibility—for OWASP to provide world-class security guidance precisely when these nations are building the regulatory and technical foundations that will define their digital economies for decades.
     </p>
   </div>
@@ -1241,7 +1241,7 @@ Summary: 90-Day Impact Dashboard
     My Commitment to Supporting the Arab Region
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Having established relationships through my participation as a panelist at <strong>"Machines Can See"</strong>—the Middle East's largest AI conference—I've witnessed firsthand the region's appetite for authoritative security guidance and talent development. My plan includes:
   </p>
 </div>
@@ -1323,7 +1323,7 @@ Summary: 90-Day Impact Dashboard
     Why This Matters Now
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     The timing is critical. As Gulf states implement their digital regulations and AI strategies, they need trusted, vendor-neutral security guidance to ensure their infrastructure is built on solid foundations. OWASP's open-source, community-driven approach aligns perfectly with their goals of:
   </p>
   
@@ -1340,12 +1340,12 @@ Summary: 90-Day Impact Dashboard
     Scalable Model for Global Impact
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 20px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 20px; text-align: justify;">
     This approach creates a replicable framework for OWASP's expansion into other underserved markets. By focusing on:
   </p>
     
   <div style="margin: 25px 0;">
-    <ul style="font-size: 1.1em; line-height: 2; color: #34495e; padding-left: 25px; list-style-type: disc;">
+    <ul style="font-size: 1.1em; line-height: 1.8; color: #34495e; padding-left: 25px; list-style-type: disc;">
       <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Localized Content & Language Accessibility</strong></li>
       <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Regional Partnership Development</strong></li>
       <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Talent Pipeline Creation</strong></li>
@@ -1354,7 +1354,7 @@ Summary: 90-Day Impact Dashboard
     </ul>
   </div>
   
-  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: justify;">
     We demonstrate OWASP's commitment to openness, inclusivity, and global neutrality while building sustainable engagement models that can be adapted worldwide.
   </p>
 </div>
