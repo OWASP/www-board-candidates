@@ -8,8 +8,7 @@ layout: col-generic
 
 #### About Me
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/Arvind_Janardhanan.jpg" width="225" height="300" alt="Arvind Janardhanan">
-<br>
-<br>
+
 Hi there, I’m Arvind Janardhanan—a seasoned cybersecurity leader with over 15 years of experience in enterprise security, specializing in secure software development, DevSecOps, and enterprise security architecture. Throughout my career, I’ve had the privilege of architecting security solutions at scale—solutions built with a security-first mindset that empower development teams to innovate confidently and securely.
 
 While I haven’t directly contributed to OWASP or open source projects, I’ve been a long-time and ardent consumer of OWASP’s resources. From threat modeling to the OWASP Top 10 to secure coding practices, OWASP has been foundational in shaping the security posture of the organizations I’ve served. I see this candidacy as an opportunity to give back—by bringing the voice of OWASP’s largest consumers, enterprise security teams, closer to the community that builds the tools and standards we rely on every day.
@@ -34,55 +33,56 @@ If elected, I will bring a collaborative leadership style focused on building br
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 <br>
 <br>
-While my primary contributions have been within enterprise environments rather than traditional open source projects, I bring a unique perspective that OWASP critically needs: scaling security practices across large, complex organizations with real-world constraints and business pressures. Throughout my career, I've been a consistent adopter and advocate of OWASP resources, applying open source principles to create measurable enterprise impact.
+While my contributions have primarily been in enterprise environments rather than open source, I bring a perspective OWASP critically needs: scaling security practices across large, complex organizations under real-world constraints. Throughout my career, I’ve applied OWASP principles to drive measurable impact—embedding application security into workflows, toolchains, and culture.
 
 **Enterprise-Driven Contributions**
-- Operationalized OWASP Guidance: Architected security toolchains across SAST, SCA, MAST, IaC, DAST, secrets detection, and API security—using OWASP resources as foundational guidance.
-- Enterprise AppSec Platforms: Built platforms that embed OWASP recommendations into developer workflows, creating real-world implementation patterns and validation data.
+- Architected security toolchains across SAST, SCA, MAST, IaC, DAST, secrets detection, and API security—using OWASP resources as foundational guidance.
+- Built platforms that embed OWASP recommendations into developer workflows, creating real-world implementation patterns and validation data.
 - Applied Research at Scale: 15+ years of testing OWASP methodologies under enterprise constraints—tight timelines, legacy systems, and budget limitations.
-- Security Metrics Frameworks: Developed models to measure AppSec program effectiveness and maturity.
-- DevSecOps Integration: Pioneered integration patterns that demonstrate successful OWASP framework adoption in CI/CD pipelines.
-- Framework Scaling: Extensively implemented OWASP Top 10, SAMM, and ASVS across multiple organizations, adapting them for enterprise-wide adoption.
+- Developed models to measure AppSec program effectiveness and maturity.
+- Solutioned integration patterns that demonstrate successful OWASP framework adoption in CI/CD pipelines through proven DevSecOps patterns.
+- Scaled and implemented OWASP Top 10, SAMM, and ASVS across multiple organizations, adapting them for enterprise-wide adoption.
 
-This is how I’ve come to understand visible leadership — through the secure-by-default systems, scalable programs, and empowered teams that have grown from applying OWASP guidance in real-world environments. My eagerness to serve on the OWASP board represents an opportunity to give back to the community that has shaped my entire career. Rather than traditional code contributions, I bring battle-tested insights from consistently implementing OWASP resources across diverse enterprise environments—understanding what works, what needs refinement, and how to make our frameworks more adoptable for organizations worldwide.
+This is how I’ve come to understand visible leadership — through secure-by-default systems, scalable programs, and empowered teams that have grown from applying OWASP guidance in real-world enterprise environments. My eagerness to serve on the OWASP board represents an opportunity to give back to the community that has shaped my AppSec career. Instead of open source code contributions, I offer battle-tested insights into what works, what needs refinement, and how to make OWASP frameworks more adoptable across diverse environments within enterprise settings.
 
 <br>
 If elected, I will focus on transparency, engagement, and innovation. Here’s what I will plan to deliver in the First 90 Days,
 
-##### Outcome 1: Complete Project Portfolio Health Assessment & Public Transparency Dashboard
-**Deliverable:** Launch a comprehensive, automated health assessment system covering all 398 OWASP projects across 16 security domains with real-time public visibility [Additional details outlined in Question no 3].
+##### Outcome 1: Complete Project Portfolio Health Assessment & OWASP Project Health Dashboard
+**Deliverable:** Launch a comprehensive public dashboard assessing all 398 OWASP projects across 16 domains [Additional details outlined in Question no 3].
 **Specific Actions:**
 - Deploy metrics tracking based on GitHub activity, issue response times, maintainer engagement, and technical debt indicators
 - Categorize all projects using BCG matrix analysis (Stars, Cash Cows, Question Marks, Dogs) within domain-specific contexts
 - Create public dashboard at `health.owasp.org` showing real-time project health scores and maintenance status
-**Verification Method:** Community can access live dashboard showing project health scores, GitHub API integration proof, and downloadable quarterly health reports. All methodology and criteria will be published on GitHub with community feedback integration.
+**Verification Method:**  GitHub-integrated dashboard, downloadable reports, and a transparent methodology. All the criteria will be published on GitHub with community feedback integration.
 
-##### Outcome 2: Direct Leadership Engagement & Succession Framework
-**Deliverable:** Establish direct communication with 150+ project leaders across all 16 security domains with documented response rates and succession planning.
+##### Outcome 2: Direct Leadership Engagement & Succession Planning
+**Deliverable:** Connect with 150+ project leaders and document leadership gaps.
 **Specific Actions:**
-- Personal outreach to every project leader with standardized health assessment questionnaire (14-day response deadline)
-- Implement escalation protocol: Email → Slack → LinkedIn → Community nomination process
+- Outreach via via email, Slack, LinkedIn, and community.
+- Standardized health assessment questionnaire (14-day response window)
+- Implement escalation protocol
 - Document leadership gaps and create succession planning framework for unresponsive projects
-**Verification Method:** Public monthly reports showing response rates by domain, leadership engagement metrics, and anonymized communication logs. Community can track progress through published spreadsheets and domain-specific leadership directories.
+**Verification Method:** Monthly public reports, anonymized logs, and leadership directories. 
 
-##### Outcome 3: Strategic Domain Focus Groups & Innovation Pipeline Launch
-**Deliverable:** Establish active focus groups for all 16 security domains with identified community leaders and launch innovation charter process for emerging security needs.
+##### Outcome 3: Strategic Domain Focus Groups & Launch Innovation Pipeline
+**Deliverable:** Establish active focus groups for all 16 security domains with identified community leaders and launch innovation charter for emerging security needs.
 **Specific Actions:**
-- Recruit and confirm domain champions for Web App Security, AI/ML Security, Supply Chain Security, and 13 other domains
-- Launch monthly community calls for each domain with published agendas and meeting notes
+- Recruit domain champions across 16 domains (and emerging skews)
+- Monthly community calls for each domain with published agendas and meeting notes
 - Create innovation pipeline framework for emerging needs: Quantum Security, Web3, Zero-Trust Architecture projects
-**Verification Method:** Public calendar showing all 16 domain monthly meetings, published meeting minutes with attendance tracking, and community voting platform for innovation project prioritization. Domain leaders will be publicly listed with contact information and success metrics.
+- Launch voting platform for innovation project prioritization
+**Verification Method:** Public calendars, meeting minutes, and success metrics. Domain leaders will be publicly listed along with targeted success metrics.
 
 ##### Measurement & Accountability
 **Progress Tracking:**
-- **Weekly Updates:** Published every Friday on OWASP blog with specific metrics
+- **Weekly Updates:** Published every Friday on OWASP blog
 - **Community Verification:** All data sources, methodologies, and progress reports available on GitHub
 - **Success Metrics:** 
   - Project health dashboard operational with 100% project coverage
   - Transparency on % leadership response rate across all domains
   - 16 active domain focus groups with confirmed community leaders
 
-**Transparency Commitment:** Every outcome must includes public documentation, community feedback mechanisms, and measurable success criteria. Progress will be tracked through automated systems and community-verifiable data sources. In my opinion, these three outcomes help establish the foundation for OWASP's strategic transformation while ensuring complete transparency and community accountability.
 <br>
 <br>
 
@@ -92,9 +92,9 @@ If elected, I will focus on transparency, engagement, and innovation. Here’s w
 
 **Challenge 1**: Developer Engagement & Resource Constraints
 
-Developers adoption of OWASP resources due to poor integration with existing workflows (lack of treating security as a core skill/requirement), along with OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
+Developers adoption of OWASP resources due to poor integration with existing workflows (lack of treating security as a core skill/requirement), along with OWASP's ~$3.2M annual budget severely limits program expansion and project support capabilities.
 
-Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular computer science, devEx and AI sepcific university and in-platfrom trainings . This provides contextual security fitment seamlessly within existing developer workflows. Simultaneously, establish "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer security training, corporate commitment to OWASP project contributions, developer OWASP certifications and research partnership, specifically targeting Fortune 500 companies with dedicated security teams and OSPOs.
+Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular computer science, devEx and AI sepcific university and in-platfrom trainings . This provides contextual security fitment seamlessly within existing developer workflows. Simultaneously, establish "Corporate Security Partnerships" featuring premium sponsorship levels ($50K-$250K) that offer corporate commitment to OWASP project contributions and research partnership, specifically targeting Fortune 500 companies with dedicated security teams and OSPOs.
 
 **Challenge 2**: AI-Generated Code Security Crisis
 
@@ -105,7 +105,7 @@ Action Plan: Establish/Evangelize/Prioritize the "OWASP AI SecureCode Initiative
 With RSA-2048 cryptography vulnerable by 2029, organizations lack comprehensive post-quantum migration guidance. Additionally, traditional security training frameworks are inadequate for AI-augmented development and future quantum-aware application architectures.
 Action Plan: Deploy the "OWASP Quantum-Safe Transition Program" featuring comprehensive PQC migration playbooks, automated cryptographic inventory tools, and quantum-safe coding standards developed in partnership with NIST. Complement this with the "OWASP Next-Gen Security Certification" - a hybrid online and hands-on program covering AI prompt security, quantum-safe architecture design, and automated security validation methodologies, targeting 10,000 developers annually through strategic corporate partnerships.
 
-Leadership Commitment: I will personally spearhead these transformative initiatives, leveraging my enterprise security architecture expertise, with support of active OWASP community engagement, and industry network to deliver measurable impact, trageting the positioning of OWASP as the authority for application security in the AI-quantum era.
+Leadership Commitment, I will help collaboratively lead transformative initiatives, leveraging my enterprise security architecture expertise, with support of active OWASP community engagement, and industry network to deliver measurable impact, trageting the positioning of OWASP as the authority for application security in the AI-quantum era.
 
 <br>
 <br>
@@ -113,9 +113,9 @@ Leadership Commitment: I will personally spearhead these transformative initiati
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
 <br>
-If elected, I will lead this transformation with the same rigor as my focus on enterprise-specific execution, program evangelism and delivery, and the inclusiveness of open-source governance.
+If elected, I will lead OWASP’s transformation with the same rigor I’ve applied to enterprise execution, program delivery, and inclusive governance. My approach centers on strategic realism and board alignment, grounded in data-driven assessment. With nearly 200 OWASP projects showing signs of staleness—due to low maintenance, outdated relevance, or leadership gaps—this transformation demands executive-level intervention guided by community-driven solutions. I propose a three-phase, 12-month plan to build a healthier, more focused global project portfolio. While some of this is aspirational, I believe these are the right steps to move OWASP in the direction it needs to go.
 
-Every decision will be data-driven, community-informed, and transparently reported across all 16 security domains I was able to classify from the ~400 OWASP projects. These security domains span the complete security landscape, with my assessment of some top priorities that need committed focus:
+I’ve classified OWASP’s ~400 projects into 16 security domains that span the full security landscape. These domains are grouped by strategic priority:
 
 **Foundation Domains:**
 - **Web Application Security** - Foundation domain with Top Ten, ASVS, Cheat Sheets
@@ -141,9 +141,7 @@ Every decision will be data-driven, community-informed, and transparently report
 - **Application Firewall & Defense** - CRS, Coraza WAF
 - **Integration & Standards** - Cross-cutting integration approaches
 
-My approach centers on **Strategic Reality and Board Alignment** through **Data-Driven Assessment**. Critical domains like Supply Chain Security create massive enterprise value. However, close to 200 projects can be estimated as stale based on maintenance health, technical relevance, and leadership responsiveness across all domains.
-
-This requires executive-level intervention with community-driven solutions. My proposal involves a **three-phase, 12-month plan** to drive toward a healthier, stronger, and more focused global project portfolio.
+Strategic Plan: Three Phases Over 12 Months,
 
 ##### Phase 1: Immediate Triage & Accountability **Timeline: First 3 months**
 ###### Automated Health Assessment
@@ -230,9 +228,8 @@ While OWASP is open source and should always remain so, my leadership philosophy
 - **Inclusive innovation** where the best ideas win through democratic processes in each security area
 
 ##### My Vision 
-**Transform OWASP from a collection of 398 fragmented projects into 16 world-class security domains** that define industry standards, drive innovation, and serve millions of developers and enterprises worldwide.
+**Transform OWASP from 398 fragmented projects into 16 world-class security domains that define standards, drive innovation, and serve millions globally.** 
 
-My focus will be to navigate OWASP toward a healthier, more focused project portfolio spanning the complete security landscape. Within one year, we'll have a strategically relevant open-source security ecosystem with global impact. The community deserves nothing less than excellence in execution and accountability in leadership across every security domain. That's exactly what I will plan to deliver.
 <br>
 <br>
 
