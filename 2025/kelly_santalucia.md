@@ -43,7 +43,10 @@ If elected to the board, in my first 90 days I will:
 - Publish a corporate engagement plan alongside the OWASP staff, building on EAR findings to deliver valuable, sought after benefits for industry partners to help increase revenue for the Foundation.
 - Strengthen transparency by announcing board meetings in advance to the community, encouraging members to join and participate, and sharing quarterly progress reports on the Executive Director’s OKR’s with members of our community.
 - Revitalize and accelerate OWASP projects by fostering stronger community contributions, providing clearer leadership support, and driving measurable progress.
+<br>
+
 Members will be able to verify progress through visible corporate engagement wins,  published updates, and expanded contributions that drive the development of more flagship projects.
+
 <br>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
