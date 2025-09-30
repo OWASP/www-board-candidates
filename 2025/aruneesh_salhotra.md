@@ -119,7 +119,7 @@ layout: col-generic
         <td style="padding: 12px; color: #34495e; vertical-align: top;">Certified Information Systems Security Professional</td>
       </tr>
       <tr style="background-color: #f8f9fa;">
-        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">AWS & Kubernetes</td>
+        <td style="padding: 12px; font-weight: 600; color: #2c3e50; vertical-align: top;">AWS 5+ & Kubernetes 2+</td>
         <td style="padding: 12px; color: #34495e; vertical-align: top;">Specialized cloud infrastructure certifications</td>
       </tr>
     </tbody>
