@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/kelly_santalucia_photo.png" width="300" height="300" alt="Kelly Santalucia">
+[Kelly santalucia](https://github.com/OWASP/www-board-candidates/blob/master/assets/images/kelly_santalucia_photo.png)
 <br>
 <br>
 Hi! I’m Kelly Santalucia.
