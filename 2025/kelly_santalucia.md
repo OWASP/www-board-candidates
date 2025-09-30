@@ -26,7 +26,7 @@ If elected to the board, I will help secure financial sustainability, stronger c
 <br>
 
 #### Link to My Video
-[About Me and Why I am running for the Global Board of Directors](https://youtube.com/shorts/PYpC7L08Uuw?feature=share)
+[Why I am running for the Global Board of Directors](https://youtube.com/shorts/PYpC7L08Uuw?feature=share)
 <br>
 <br>
 
