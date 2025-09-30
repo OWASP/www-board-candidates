@@ -48,7 +48,7 @@ If elected, my first priority will be to address structural challenges faced by 
 By focusing on these three areas in my first 90 days, I aim to deliver meaningful improvements that make OWASP’s projects more effective, sustainable, and easier for members to engage with and trust.
 
 <br>
-----
+---
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 
