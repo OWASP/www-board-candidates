@@ -313,7 +313,7 @@ layout: col-generic
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+  <h2 style="color: #ffffff; font-size: 1.5em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
     Q1. What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
   </h2>
 </div>
@@ -680,7 +680,7 @@ Summary: 90-Day Impact Dashboard
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+  <h2 style="color: #ffffff; font-size: 1.5em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
     Q2. What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve.
   </h2>
 </div>
@@ -689,9 +689,9 @@ Summary: 90-Day Impact Dashboard
 
 <!-- Challenge 1: Data Security -->
 <div style="margin: 40px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     Challenge 1: Data Security in the Age of AI
-  </h2>
+  </h3>
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
@@ -792,9 +792,9 @@ Summary: 90-Day Impact Dashboard
 
 <!-- Challenge 2: Vibe Coding -->
 <div style="margin: 50px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #4ade80; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     Challenge 2: Scaling AppSec and Compliance in the Age of "Vibe Coding"
-  </h2>
+  </h3>
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
@@ -910,9 +910,9 @@ Summary: 90-Day Impact Dashboard
 
 <!-- Challenge 3: Regulatory Complexity -->
 <div style="margin: 50px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #fb923c; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     Challenge 3: Regulatory Complexity, Drift Detection, and Global Compliance Fragmentation
-  </h2>
+  </h3>
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
@@ -1112,16 +1112,16 @@ Summary: 90-Day Impact Dashboard
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+  <h2 style="color: #ffffff; font-size: 1.5em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
     Q3. Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
   </h2>
 </div>
 <br>
 <br>
 <div style="margin: 40px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     My Approach to Project Triage
-  </h2>
+  </h3>
   
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     It is natural that some projects which were highly relevant in earlier years may no longer reflect current priorities, and that project leaders may have moved on or have limited bandwidth due to professional or personal commitments. My practical, time-bound plan is as follows:
@@ -1162,7 +1162,7 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px; margin: 30px 0; color: white; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #ffffff; font-size: 1.5em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
     Verification
   </h3>
   <p style="font-size: 1.1em; line-height: 1.8; margin: 0; text-align: center;">
@@ -1171,9 +1171,9 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="margin: 40px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     Additional Strategic Initiatives
-  </h2>
+  </h3>
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
@@ -1209,7 +1209,7 @@ Summary: 90-Day Impact Dashboard
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+  <h2 style="color: #ffffff; font-size: 1.5em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
     Q4. What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
   </h2>
 </div>
@@ -1237,9 +1237,9 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="margin: 40px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     My Commitment to Supporting the Arab Region
-  </h2>
+  </h3>
   
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Having established relationships through my participation as a panelist at <strong>"Machines Can See"</strong>—the Middle East's largest AI conference—I've witnessed firsthand the region's appetite for authoritative security guidance and talent development. My plan includes:
@@ -1336,9 +1336,9 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="margin: 40px 0 30px 0;">
-  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+  <h3 style="color: #2c3e50; font-size: 1.3em; margin: 0 0 20px 0; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-weight: 600;">
     Scalable Model for Global Impact
-  </h2>
+  </h3>
   
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 20px; text-align: justify;">
     This approach creates a replicable framework for OWASP's expansion into other underserved markets. By focusing on:
