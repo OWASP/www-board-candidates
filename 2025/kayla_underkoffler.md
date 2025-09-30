@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Kayla Underkoffler
 layout: col-generic
 
