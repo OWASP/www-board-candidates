@@ -373,10 +373,17 @@ layout: col-generic
   </p>
 </div>
 
-#### Link to My Video
-[Aruneesh Salhotra](#)
-<br>
-<br>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 10px; margin: 30px 0; text-align: center; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
+  <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    🎥 Featured Video Content
+  </h3>
+  <p style="color: #ffffff; font-size: 1.1em; line-height: 1.6; margin: 0 0 20px 0;">
+    Watch my latest insights on cybersecurity leadership and industry transformation
+  </p>
+  <a href="https://youtu.be/38iyR3hJrH4" target="_blank" style="display: inline-block; background: #ffffff; color: #667eea; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: 600; font-size: 1.1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: all 0.3s ease;">
+    ▶️ Watch Video - Aruneesh Salhotra
+  </a>
+</div>
 
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
@@ -1508,7 +1515,7 @@ Summary: 90-Day Impact Dashboard
 
 <div style="margin: 50px 0; text-align: center;">
   <h2 style="color: #2c3e50; font-size: 2.2em; margin: 0 0 30px 0; font-weight: 700; text-align: center;">
-    📸 Professional Highlights & Conference Moments
+    🎤 Conference Speaking & Industry Engagement
   </h2>
   
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 40px; text-align: center; font-style: italic;">
@@ -1518,18 +1525,12 @@ Summary: 90-Day Impact Dashboard
   <div style="display: grid; grid-template-columns: 1fr; gap: 40px; margin: 40px 0;">
     
     <div style="background: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); border: 2px solid #f8f9fa;">
-      <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
-        🌟 Professional Journey Highlights
-      </h3>
       <img src="../assets/images/Aruneesh Salhotra Collage 2.jpg" 
            alt="Aruneesh Salhotra Professional Highlights Collage" 
            style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 0 auto; display: block;">
     </div>
 
     <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); border: 2px solid #667eea;">
-      <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
-        🎤 Conference Speaking & Industry Engagement
-      </h3>
       <img src="../assets/images/Aruneesh Salhotra Collage for Conferences.jpg" 
            alt="Aruneesh Salhotra Conference Speaking Engagements Collage" 
            style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 0 auto; display: block;">
