@@ -38,11 +38,11 @@ If elected, my first priority will be to address structural challenges faced by 
    Many projects, including my own, have faced challenges using essential services like Sonatype Central Publishing due to recent changes in their workflows.
    - **Action:** Review and document current pain points across projects and propose a set of clear recommendations for improving publishing, CI/CD workflows, and other shared infrastructure.
 
-2. **Triage and Streamline Stale or Abandoned Projects on GitHub**  
+2. **Triage Stale or Abandoned Projects on GitHub**  
    The current OWASP GitHub organization has a large number of inactive or abandoned projects, making it difficult for members and newcomers to find active, supported tools.
    - **Action:** Work with the board, project leaders, and the community to propose changes that make it easier to identify active projects:
+      - Create an automated project dashboard to track project activity.
       - Utilize GitHub Topics to improve project discoverability and indicate activity state.
-      - Create a project dashboard to track project activity.
       - Engage with inactive project leads to either revive or formally archive projects based on clear criteria.
 
 3. **Continue and Improve Upon the Foundation for Sustainable Funding of Thriving Projects**  
@@ -54,8 +54,7 @@ By focusing on these three areas in my first 90 days, I aim to deliver meaningfu
 <br>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
-<br>
-<br>
+
 **Challenge 1:**  
 OWASP has hundreds of projects, but many are inactive or lack clear status indicators. This creates confusion for new users and organizations trying to adopt OWASP tools, and it prevents active, thriving projects from getting the visibility they deserve.
 
