@@ -47,7 +47,10 @@ I have actively contributed to the open source and OWASP community through a com
 My sustained contributions are reflected in my GitHub activity over the past years. The heatmap below shows the consistency and volume of my work, demonstrating not just bursts of activity but a long-term commitment to open-source and the OWASP community. You can easily verify this yourself by visiting [my GitHub page](https://github.com/arkid15r?org=OWASP).
 
 <br>
+
 <img src="../assets/images/arkid15r/owasp-contributions.png" width="800" height="452" />
+
+<br>
 <br>
 <br>
 
