@@ -106,6 +106,7 @@ If elected, I will push for the OWASP staff to launch an up to date 90-day proje
 - By Day 30: Publish an up to date inventory of projects, categorizing them as active, stale, or unresponsive.
 - By Day 60: For projects with unresponsive leads, recruit new leads from our community.
 - By Day 90: Any projects still without active leadership will be formally marked dormant, with clear, published criteria for how new volunteers can relaunch them.
+<br>
 This plan ensures that within three months, every OWASP project will have a visible status, an engaged leader, or a clear path forward. We can’t afford to let great ideas die in limbo. Together, we’ll keep OWASP’s projects thriving.
 <br>
 
