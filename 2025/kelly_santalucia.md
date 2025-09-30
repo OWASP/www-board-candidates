@@ -26,7 +26,7 @@ If elected to the board, I will help secure financial sustainability, stronger c
 <br>
 
 #### Link to My Video
-[(https://youtube.com/shorts/PYpC7L08Uuw?feature=share)](#)
+[Link to my video](https://youtube.com/shorts/PYpC7L08Uuw?feature=share)
 <br>
 <br>
 
