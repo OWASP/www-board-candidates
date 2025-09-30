@@ -28,7 +28,7 @@ Key Expertise
 #### Link to My Video
 [Creating a Security-Minded Culture](https://youtu.be/6QiPYstyNwM)
 <br>
-
+<br>
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 
 My contributions and leadership include:  
