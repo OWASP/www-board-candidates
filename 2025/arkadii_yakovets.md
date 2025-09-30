@@ -20,13 +20,17 @@ As a mentor, I guide contributors across multiple coding events and projects, he
 
 Outside OWASP I lead Information Security (currently focusing on SOC 2 compliance) at a fast-growing company specializing in innovative open-source monitoring and observability solutions.
 
----
-
 #### Link to My Video
 
 [Arkadii Yakovets -- OWASP 2025 Global Board Elections](https://www.youtube.com/watch?v=OTNVu3sPrIc)
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 
@@ -73,7 +77,13 @@ In my first 90 days on the Board, I will focus on laying the foundation for solv
 
 These steps will ensure that from day one, there is visible movement toward addressing OWASP's internal challenges while fostering transparency and trust across the organization.
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 
@@ -101,7 +111,13 @@ A critical driver for OWASP's growth and impact is advancing the valuable initia
 - OWASP Certification and Jobs Board ideas introduced by Sam Stepanyan. These initiatives align well with the previous revenue diversification effort and are brilliant ideas to implement, offering both increased OWASP impact and potential revenue growth.
 - OWASP Board Director Qualification and Election Policy changes discussion led by Avi Douglen. It makes absolute sense to introduce minimum requirements for Board Directors to ensure the Board is governed by individuals who understand community needs, have made real contributions to OWASP's development, and have been actively involved well before the elections.
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 
@@ -178,7 +194,13 @@ The dashboard will ensure transparency, fairness, and accountability while keepi
 <br>
 <img src="../assets/images/arkid15r/phd-projects.png" width="795" height="449" />
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 
@@ -190,7 +212,13 @@ To empower Arab countries in navigating evolving security, privacy, and data pro
 
 Additionally, I want to highlight what’s already being done. As part of OWASP Nest development, I have been directly supporting a contributor from Egypt through the [OWASP Nest Sponsorship Program](https://owasp.slack.com/archives/C08EGFDD9L2/p1748630622031629), which I fund personally. While this contributor happens to be from an Arab country, the selection was based solely on merit -- the candidate was the most capable, demonstrating exceptional dedication and delivering solutions that address real-world problems. I'm personally very pleased with this sponsorship-based collaboration. This experience also highlights the value of systems like GitHub Sponsors, which allow supporting talented open source contributors from anywhere in the world.
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 #### Your Vote Matters
 
