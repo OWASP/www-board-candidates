@@ -135,6 +135,6 @@ This process will transform OWASP’s project portfolio into a clear, reliable, 
 <br>
 <p>OWASP can and should provide resources, tools, and educational programs that help individuals and organizations understand and meet their security, privacy, and data protection obligations — no matter what country or region they are in.</p>
 
-<p>For me, it is not about whether a country is Arab, Asian, European, or anywhere else in the world — the mission remains the same: **to empower developers, security practitioners, and organizations to build secure applications and systems.** OWASP’s role is to provide clear, vendor-neutral resources and foster a global community that shares knowledge freely.</p>
+<p>For me, it is not about whether a country is Arab, Asian, European, or anywhere else in the world — the mission remains the same: <b>to empower developers, security practitioners, and organizations to build secure applications and systems</b>. OWASP’s role is to provide clear, vendor-neutral resources and foster a global community that shares knowledge freely.</p>
 <br>
 <br>
