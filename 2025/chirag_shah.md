@@ -7,7 +7,8 @@ layout: col-generic
 ---
 
 #### About Me
-![Image](https://media.licdn.com/dms/image/v2/D5603AQHqyxUfIWq-DA/profile-displayphoto-shrink_800_800/B56ZSVXZk4HoAg-/0/1737672727257?e=1761177600&v=beta&t=iuE257jAUmI5qjRjZj18chOHKaoocMkOWdHfU0i9gkE)
+
+<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/chirag_shah_photo.jpg" width="300" height="300" alt="Chirag Shah">
 <br>
 <br>
 I am Chirag Shah I specialize in strengthening cybersecurity frameworks, reducing corporate liability, improving customer trust, and enabling strategic decision-making for business resilience and growth. My leadership style focuses on developing and retaining top talent while fostering collaboration between security, technology, and business operations.
