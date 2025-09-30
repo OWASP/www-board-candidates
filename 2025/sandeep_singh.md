@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Sandeep Singh
 layout: col-generic
 
