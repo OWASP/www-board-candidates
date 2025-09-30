@@ -232,8 +232,11 @@ Thank you for helping strengthen the OWASP community!
 
 Some parts of this page were refined with the help of a GPT-based tool to improve clarity and readability. I used this tool to smooth out rough edges in the text while ensuring that **all plans and positions presented here are my own**.
 
----
-Arkadii Yakovets
-OWASP Nest, OWASP Nettacker
-CCSP, CISSP, CSSLP
+<br>
+<br>
+
+--
+Arkadii Yakovets  
+OWASP Nest, OWASP Nettacker  
+CCSP, CISSP, CSSLP  
 [https://github.com/arkid15r](https://github.com/arkid15r/)
