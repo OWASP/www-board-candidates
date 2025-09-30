@@ -378,7 +378,7 @@ layout: col-generic
     🎥 Featured Video Content
   </h3>
   <p style="color: #ffffff; font-size: 1.1em; line-height: 1.6; margin: 0 0 20px 0;">
-    Watch my latest insights on cybersecurity leadership and industry transformation
+    Watch my candidature video for the OWASP Global Board of Directors
   </p>
   <a href="https://youtu.be/38iyR3hJrH4" target="_blank" style="display: inline-block; background: #ffffff; color: #667eea; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: 600; font-size: 1.1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: all 0.3s ease;">
     ▶️ Watch Video - Aruneesh Salhotra
