@@ -91,8 +91,8 @@ This misalignment can leave project leaders feeling disconnected from OWASP’s 
 ---
 
 **Challenge 3:**  
-OWASP already has a [Project Policy](https://policy.owasp.org/operational/projects) that defines how projects should be started, maintained, and sunset (including activity thresholds, governance rules, and inactive project procedures).  
-Yet in practice, many projects fall short:
+OWASP already has a [Project Policy](https://policy.owasp.org/operational/projects) that defines how projects should be started, maintained, and sunset (including activity thresholds, governance rules, and inactive project procedures). Yet in practice, many projects fall short:
+
 - Some projects don’t adhere strictly to activity requirements, governance guidelines, communication standards, or documentation expectations.
 - There is often no consistent enforcement or follow-through when projects become inactive or unresponsive.
 
@@ -112,10 +112,8 @@ Over time, OWASP’s project ecosystem will be more consistent, trustworthy, and
 ---
 
 By addressing these three challenges — clarifying project visibility, strengthening communication, and enforcing existing policies — we can ensure OWASP continues to grow as a global force for good, empowering the next generation of security leaders and open-source innovators.
-
 <br>
 <br>
-
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
 <br>
@@ -124,8 +122,8 @@ Stale or inactive projects create confusion for members, weaken OWASP’s brand,
 If elected, I will focus on **closing this implementation gap** with a clear, time-bound plan to triage projects, re-engage inactive leads, and ensure our ecosystem reflects only actively supported tools and materials.
 
 ###### **First 90 Days: Audit and Engagement**
-- Update the project policy to require clearly defined GitHub Topics on repositories to improve discoverability.
 - Create a Project Compliance Dashboard to track activity and governance adherence.
+- Update the project policy to require clearly defined GitHub Topics on repositories to improve discoverability.
 - Based on the Project Compliance Dashboard, perform an audit of all current projects and categorize them based on activity:
    - *Active and thriving*
    - *Active but at risk*
