@@ -146,6 +146,15 @@ layout: col-generic
     </p>
   </div>
 
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+      Open Source Congress – Belgium, September 2025
+    </h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
+      I attended the <strong>Open Source Congress in Belgium</strong>, now in its third year and hosted by the Eclipse Foundation in collaboration with OSS foundations. This intimate, facilitated forum brings together leadership from code-producing open source software foundations to foster global dialogue, collaboration, and strategic development of the open source ecosystem. I also participated in the <strong>Open Source Stakeholder Day</strong>—a first-time OSC-adjacent event where foundation leadership joined with industry and public policy leaders to continue dialogue on the most pressing concerns and opportunities for our ecosystem.
+    </p>
+  </div>
+
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: justify; font-style: italic;">
     In these forums, I don't just observe—I contribute to conversations that influence international cybersecurity policy and the frameworks that will govern AI and digital infrastructure for decades. This experience taught me that our industry's future is shaped at the intersection of <strong style="color: #667eea;">policy, technology, and capital</strong>—where I've deliberately positioned myself to ensure voices like OWASP's are heard at the tables where it matters most.
   </p>
@@ -1411,6 +1420,3 @@ Summary: 90-Day Impact Dashboard
 </div>
 <br>
 <br>
-
-
-
