@@ -27,7 +27,7 @@ Security is a shared responsibility, and I believe that through education, open-
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 
 <p>Over the past decade, I have been deeply involved in open-source security, both as a creator and as a collaborator. In 2012, I founded and continue to lead the OWASP Dependency-Check project, one of the first Software Composition Analysis (SCA) tools ever created. Dependency-Check has grown to become a globally adopted tool that helps organizations identify and remediate vulnerabilities in open-source components, strengthening the software supply chain worldwide.</p>
-<br/>
+
 <p>Beyond Dependency-Check, I have contributed to several other OWASP projects, including the OWASP Java Encoder Project, multiple OWASP Cheat Sheets, Dependency-Track, and several CycloneDX plugins. My leadership extends to community building as well, having helped plan and run a previous OWASP AppSec DC conference and having served as a former leader of the OWASP Northern Virginia Chapter, where I focused on vendor-neutral, accessible education.</p>
 
 My commitment to the security community is also reflected in my research and public speaking. I have presented at multiple OWASP events and major industry conferences, including BlackHat USA 2023, where I spoke about defending against modern supply chain attacks like SolarWinds in my talk *Reflections on Trust in the Software Supply Chain*.
