@@ -10,7 +10,7 @@ layout: col-generic
 
 <div style="text-align: center; margin: 40px 0 30px 0;">
   <img style="border-radius: 50%; box-shadow: 0 10px 25px rgba(0,0,0,0.2); border: 5px solid #667eea;" 
-       src="Aruneesh Salhotra - Head Shot.jpg" 
+       src="../assets/images/Aruneesh Salhotra - Head Shot.jpg" 
        width="280" 
        height="280" 
        alt="Aruneesh Salhotra">
