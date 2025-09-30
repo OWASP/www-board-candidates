@@ -238,7 +238,7 @@ Some parts of this page were refined with the help of a GPT-based tool to improv
 <br>
 <br>
 
---
+--  
 Arkadii Yakovets  
 OWASP Nest, OWASP Nettacker  
 CCSP, CISSP, CSSLP  
