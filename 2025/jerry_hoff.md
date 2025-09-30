@@ -1,7 +1,9 @@
 ---
+
 candidate: true
 title: Jerry Hoff
 layout: default
+
 ---
 
 ## About Me
