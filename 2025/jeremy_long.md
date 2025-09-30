@@ -10,7 +10,7 @@ layout: col-generic
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/jeremy-long-headshot.jpg" width="300" height="300" alt="Jeremy Long">
 
 I am Jeremy Long, a passionate security professional and lifelong advocate for open collaboration and innovation. I currently serve as a Principal Security Engineer at ServiceNow, where I work on the DevSecOps team to secure our platform and software delivery pipelines using SAST, SCA, DAST, and creative workflow automation. My work focuses on integrating security seamlessly into the development process, empowering engineers to build safer, more resilient software.
-
+<br><br>
 My journey in security has always been driven by curiosity and a desire to solve hard problems. In 2012, I founded the OWASP Dependency-Check project, one of the very first Software Composition Analysis (SCA) tools, helping organizations around the world detect and remediate vulnerabilities in open-source software long before the term “SCA” was even coined. Today, Dependency-Check is used globally to protect the software supply chain and strengthen the open-source ecosystem.
 
 Over the years, I’ve had the opportunity to share my insights on software supply chain security at major industry events, including BlackHat USA 2023, where I spoke about defending against sophisticated build-time attacks like SolarWinds. My commitment to innovation has also been recognized through several patents, most notably for a technical solution that identifies malicious code introduced during the build process.
