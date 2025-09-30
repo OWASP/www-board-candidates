@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Alt text](https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_face,z_0.7,b_white,q_auto:eco,dpr_1/v1496289812/vcjq3s4ntnqti3oyxmnp.png "Adrian Winckles")
+(https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_face,z_0.7,b_white,q_auto:eco,dpr_1/v1496289812/vcjq3s4ntnqti3oyxmnp.png "Adrian Winckles")
 <br>
 <br>
 My name is Adrian Winckles, a cyber security professional, academic, and community leader with more than three decades of experience advancing global cyber resilience. My career has spanned academia, industry, and international organisations, where I have consistently focused on bridging the gap between research, education, and practice to build stronger and more secure digital ecosystems.
