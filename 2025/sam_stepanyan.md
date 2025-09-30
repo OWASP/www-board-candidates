@@ -23,8 +23,8 @@ My Board experience has given me the insight to address OWASP’s organisational
 Outside of OWASP, I work as an independent Application Security Consultant & Architect in the financial services industry in London, where I apply my security expertise to help organisations design, build and deliver secure software.
 
 
-#### Link to My Video
-[Sam Stepanyan Video - TO BE PUBLISHED](#)
+#### Link to My Video:
+[Sam Stepanyan - OWASP Board Candiate Video 2025](https://www.youtube.com/watch?v=io4jbFVNi-g)
 <br>
 <br>
 

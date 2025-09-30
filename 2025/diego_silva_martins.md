@@ -7,18 +7,22 @@ layout: col-generic
 ---
 
 #### About Me
+
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/DiegoMartins.png" width="260" height="300" alt="Diego Silva Martins">
 I am a seasoned security professional with extensive experience in handling complex projects. My expertise lies in API Management, SIEM, Single-Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Also, I started to learn more about API Security and Management during my time with CA Technologies, where I learned deeply about the potential flaws in the API lifecycle.
+
 
 I'm counting on your support this October. When you're faced with a choice among outstanding candidates, I urge you to cast your vote for Diego Silva Martins for the Board of Directors. Together, let's embark on a journey to bring about positive changes and take the OWASP community to greater heights!
 
 I am committed to spearheading initiatives that will expand and enrich our community, bolster our projects, secure the necessary resources for their success, and elevate our fundraising endeavors to further our mission. Your vote for me is an investment in a better and stronger OWASP community.
+
 
 My LinkedIn is https://www.linkedin.com/in/dsmartins/, let's connect!! 
 <br>
 
 #### Link to My Video
 https://youtu.be/BwwV5YEvKms
+
 <br>
 <br>
 
@@ -28,19 +32,23 @@ While my direct open-source code contributions are limited, my leadership and co
 * Global Governance: Since January 2025, I have served on the OWASP Global Board, where I help shape strategic policies and advocate for transparency, inclusion, and revitalization of OWASP projects.
 * Community Advocacy: I’ve supported translation efforts of OWASP materials and promoted onboarding for contributors from underrepresented regions.
 
+
 First 90 Days on the Board – Deliverables & Verification
 To ensure immediate and measurable impact, I committed to three strategic outcomes:
 
 1. OWASP Project Transparency Dashboard
 Goal: Launch a public dashboard showing the health status of OWASP projects — active, stale, archived — with leadership and contribution metrics.
 Verification:
+
 * Dashboard published on OWASP.org or GitHub
 * Monthly updates with project activity indicators
 * Open community feedback channel
 
+
 2. Mentorship & Localization Program
 Goal: Create a structured mentorship initiative focused on onboarding contributors from Latin America, Africa, and Arab-speaking regions. Include translation of key OWASP materials.
 Verification:
+
 * Public list of mentors and mentees
 * Monthly onboarding sessions tracked
 * Translated documents (e.g., OWASP Top Ten, ASVS) published
@@ -59,11 +67,13 @@ Verification:
 1. Limited Member Engagement and Perceived Value
 Many OWASP contributors and chapter leaders feel disconnected from the broader mission or unclear about the benefits of their involvement.
 Actionable Plan:
+
 * Launch a Member Value Framework that includes:
     * Recognition programs (certificates, badges, spotlight features)
     * Priority access to training, mentorship, and speaking opportunities
     * Feedback channels for continuous improvement
 Leadership Role: I will lead the design and pilot rollout of this framework with chapters in Latin America and Europe.
+
 Verification:
 * Public dashboard tracking member engagement metrics
 * Quarterly satisfaction surveys with published results
@@ -71,11 +81,13 @@ Verification:
 2. Lack of Structured Mentorship and Knowledge Transfer
 OWASP’s vast expertise is often siloed, and new contributors struggle to find guidance or pathways to contribute meaningfully.
 Actionable Plan:
+
 * Create the OWASP Mentorship & Knowledge Transfer Program, focused on:
     * Pairing experienced professionals with newcomers
     * Hosting monthly onboarding sessions
     * Building a repository of mentorship resources
 Leadership Role: I will recruit mentors, coordinate onboarding events, and oversee content creation.
+
 Verification:
 * List of active mentors and mentees published
 * Monthly mentorship reports shared with the community
@@ -83,12 +95,15 @@ Verification:
 3. Insufficient Localization and Regional Inclusion
 OWASP’s global mission is hindered by language barriers and uneven regional representation, especially in Latin America, Africa, and the Middle East.
 Actionable Plan:
+
 * Spearhead the Localization & Inclusion Initiative:
     * Translate core OWASP materials (Top Ten, ASVS, Cheat Sheets) into Portuguese, Spanish, and Arabic
     * Activate dormant chapters through regional workshops
     * Promote leadership opportunities for underrepresented regions
 Leadership Role: I will coordinate translation efforts, partner with local leaders, and host regional onboarding events.
+
 Verification:
+
 * Translated documents published on OWASP.org
 * Chapter activation metrics tracked quarterly
 * Regional participation in global events reported
@@ -103,16 +118,19 @@ The Board's responsibility is to propose clear policies, oversee their implement
 In this sense, what can be done strategically and discussed jointly with the staff and community is the feasibility of certain guidelines and actions to revitalize stagnant projects.
 
 1. OWASP Project Evaluation Policy
+
 To establish more objective criteria for periodic project evaluation, including:
 * Frequency of technical updates
 * Leadership engagement
 * Community adoption
 * Relevance to security trends
+
 2. Public Transparency Dashboard: Request staff to create a public dashboard (e.g., GitHub or Wiki) with:
 * Updated project status (active, under review, archived)
 * Names of leaders and contact channels
 * Open opportunities for new maintainers
 3. Community Re-Engagement Program: Mobilize regional chapters and volunteers to:
+
 * Take on projects with technical potential
 * Receive mentoring and institutional support
 * Relaunch initiatives with an action plan and clear goals
@@ -141,6 +159,7 @@ I invite local leaders, security professionals, educators, and volunteers from t
 * Discuss plans and practical actions.
 * Identify opportunities for collaboration.
 * Build a strong regional network aligned with OWASP values.
+
 I am available to support, listen, and collaborate with anyone who wants to strengthen software security in their countries and communities.<br>
 <br>
 
