@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-<img width="180" height="420" alt="image" src="../assets/images/kelly_santalucia_photo.png" />
+<img width="180" height="320" alt="image" src="../assets/images/kelly_santalucia_photo.png" />
 <br>
 <br>
 Hi! I’m Kelly Santalucia.
