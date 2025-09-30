@@ -8,17 +8,17 @@ layout: col-generic
 
 #### About Me
 <img style="float: right; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/DiegoMartins.png" width="260" height="300" alt="Diego Silva Martins">
-I am a seasoned security professional with extensive experience in handling complex projects. My expertise lies in API Management, SIEM, Single-Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Also, I started to learn more about API Security and Management during my time with CA Technologies, where I learned deeply about the potential flaws in the API lifecycle.
+I am a seasoned security professional with extensive experience in handling complex projects. My expertise encompasses API Management, SIEM, Single Sign-On, Identity & Access Management, and Privileged Access Management. Currently, I hold the position of Security Technical Specialist at IBM, where I am dedicated to implementing security solutions and integrations to modernize legacy applications with enhanced security and reliability. With over 20 years in the information technology industry, I began my career as a developer and evolved into a full-stack developer before transitioning into the security domain. In this role, I developed a multitude of connectors for SIEM and continually strive to enhance cybersecurity by creating solutions that eliminate process gaps and fortify the confidentiality, integrity, and availability of systems. Additionally, I began to learn more about API Security and Management during my time at CA Technologies, where I gained a deep understanding of the potential flaws in the API lifecycle.
 
 I'm counting on your support this October. When you're faced with a choice among outstanding candidates, I urge you to cast your vote for Diego Silva Martins for the Board of Directors. Together, let's embark on a journey to bring about positive changes and take the OWASP community to greater heights!
 
 I am committed to spearheading initiatives that will expand and enrich our community, bolster our projects, secure the necessary resources for their success, and elevate our fundraising endeavors to further our mission. Your vote for me is an investment in a better and stronger OWASP community.
 
-My LinkedIn is [https://www.linkedin.com/in/dsmartins/](https://www.linkedin.com/in/dsmartins/), let's connect!! 
+My LinkedIn is [https://www.linkedin.com/in/dsmartins/](https://www.linkedin.com/in/dsmartins/), let's connect! 
 <br>
 
 #### Link to My Video
-[https://youtu.be/BwwV5YEvKms](https://youtu.be/BwwV5YEvKms)
+[2025 - OWASP Board of Directors - Candidate Video](https://youtu.be/BwwV5YEvKms)
 <br>
 <br>
 
