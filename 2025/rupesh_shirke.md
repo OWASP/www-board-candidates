@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Rupesh Shirke
 layout: col-generic
 
