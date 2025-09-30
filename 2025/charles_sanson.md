@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Charles Sanson
 layout: col-generic
 
