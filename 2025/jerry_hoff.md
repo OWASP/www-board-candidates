@@ -1,3 +1,9 @@
+---
+candidate: true
+title: Jerry Hoff
+layout: default
+---
+
 ## About Me
 
 <img src="https://raw.githubusercontent.com/OWASP/www-board-candidates/master/assets/images/jerryhoff.png" alt="Jerry Hoff" width="200">
