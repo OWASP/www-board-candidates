@@ -10,8 +10,6 @@ layout: col-generic
 
 <img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/642601bd-c135-48ae-ae07-290106a089ee" />
 
-
-(https://github.com/OWASP/www-board-candidates/blob/master/assets/images/kelly_santalucia_photo.png)
 <br>
 <br>
 Hi! I’m Kelly Santalucia.
