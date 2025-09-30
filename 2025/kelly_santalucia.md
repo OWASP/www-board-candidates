@@ -109,7 +109,7 @@ If elected, I will push for the OWASP staff to launch an up to date 90-day proje
 <br>
 This plan ensures that within three months, every OWASP project will have a visible status, an engaged leader, or a clear path forward. We can’t afford to let great ideas die in limbo. Together, we’ll keep OWASP’s projects thriving.
 <br>
-<br>
+
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
 
