@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-<img width="380" height="620" alt="image" src="https://github.com/user-attachments/assets/642601bd-c135-48ae-ae07-290106a089ee" />
+<img width="280" height="520" alt="image" src="https://github.com/user-attachments/assets/642601bd-c135-48ae-ae07-290106a089ee" />
 
 <br>
 <br>
