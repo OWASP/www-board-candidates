@@ -47,7 +47,6 @@ If elected, my first priority will be to address structural challenges faced by 
 
 By focusing on these three areas in my first 90 days, I aim to deliver meaningful improvements that make OWASP’s projects more effective, sustainable, and easier for members to engage with and trust.
 
-<br>
 <hr/>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
@@ -102,9 +101,9 @@ Over time, OWASP’s project ecosystem will be more consistent, trustworthy, and
 - A reduction in projects in limbo (neither clearly active nor formally deprecated).
 
 By addressing these three challenges — clarifying project visibility, strengthening communication, and enforcing existing policies — we can ensure OWASP continues to grow as a global force for good, empowering the next generation of security leaders and open-source innovators.
-<br>
-----
-<br>
+
+<hr/>
+
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
 <br>
@@ -130,9 +129,9 @@ By systematically triaging projects, re-engaging inactive leaders, and creating 
 - Make it easier for contributors and organizations to focus on supported, high-quality tools.
 
 This process will transform OWASP’s project portfolio into a clear, reliable, and sustainable foundation for the future of open-source application security.
-<br>
-----
-<br>
+
+<hr/>
+
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
 <br>
