@@ -395,7 +395,7 @@ layout: col-generic
   </h2>
   
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
-    Since joining the OWASP AI Exchange in April 2024 alongside Rob van der Beer, I've been obsessed with one question: <strong style="color: #667eea;">How do you turn a nascent open source project into a movement that shapes an entire industry?</strong>
+    Since joining the OWASP AI Exchange in April 2024 alongside Rob van der Veer, I've been obsessed with one question: <strong style="color: #667eea;">How do you turn a nascent open source project into a movement that shapes an entire industry?</strong>
   </p>
   
   <h3 style="color: #667eea; font-size: 1.5em; margin: 35px 0 20px 0; font-weight: 600;">
@@ -431,7 +431,7 @@ layout: col-generic
   
   <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
     <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
-      🎯 I made the OWASP brand matter again.
+      🎯  I prioritised the OWASP brand or promoted.
     </h4>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       In every conversation, every partnership, every presentation—I asked: <strong>"How does this advance OWASP's mission globally?"</strong> Not my personal brand. Not my project's metrics. The foundation's impact.
