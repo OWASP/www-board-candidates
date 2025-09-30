@@ -69,7 +69,7 @@ layout: col-generic
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px;">
     <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
       <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
-        💼 Professional Impact
+        💼 Professional Credentials
       </h3>
       <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
         <li><strong>C-CISO, GCISO, CISSP</strong> certified</li>
@@ -193,7 +193,7 @@ layout: col-generic
       Davos – World Economic Forum
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      I attended the <a href="https://www.kron4.com/business/press-releases/ein-presswire/611509916/global-cyber-security-leaders-convening-in-davos-at-the-cff-cyber-future-dialogue-2023/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>CFF Cyber Future Dialogue 2023 in Davos</strong></a> held alongside the World Economic Forum—where technology leaders converge to address humanity's most pressing challenges.
+      I participated in the <a href="https://www.kron4.com/business/press-releases/ein-presswire/611509916/global-cyber-security-leaders-convening-in-davos-at-the-cff-cyber-future-dialogue-2023/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>CFF Cyber Future Dialogue 2023 in Davos</strong></a> held alongside the World Economic Forum—where technology leaders converge to address humanity's most pressing challenges.
     </p>
   </div>
 
@@ -211,7 +211,7 @@ layout: col-generic
       Open Source Congress – Belgium, September 2025
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      I attended the <a href="https://www.opensourcecongress.org/event/fb27ccee-0093-45b2-b465-179e4d5dea1e/open-source-congress-2025" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>Open Source Congress in Belgium</strong></a>, now in its third year and hosted by the Eclipse Foundation in collaboration with OSS foundations. This intimate, facilitated forum brings together leadership from code-producing open source software foundations to foster global dialogue, collaboration, and strategic development of the open source ecosystem. I also participated in the <strong>Open Source Stakeholder Day</strong>—a first-time OSC-adjacent event where foundation leadership joined with industry and public policy leaders to continue dialogue on the most pressing concerns and opportunities for our ecosystem.
+      I participated in the <a href="https://www.opensourcecongress.org/event/fb27ccee-0093-45b2-b465-179e4d5dea1e/open-source-congress-2025" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>Open Source Congress in Belgium</strong></a>, now in its third year and hosted by the Eclipse Foundation in collaboration with OSS foundations. This intimate, facilitated forum brings together leadership from code-producing open source software foundations to foster global dialogue, collaboration, and strategic development of the open source ecosystem. I also participated in the <strong>Open Source Stakeholder Day</strong>—a first-time OSC-adjacent event where foundation leadership joined with industry and public policy leaders to continue dialogue on the most pressing concerns and opportunities for our ecosystem.
     </p>
   </div>
 
@@ -249,7 +249,7 @@ layout: col-generic
   </table>
 
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: justify;">
-    This dual perspective means I understand both sides of the equation: I know what it takes to secure sponsorship because I've raised funding. I know what enterprises need because I've sold to them. I speak the language of CFOs and understand how to position OWASP not as a charity seeking donations, but as a <strong style="color: #667eea;">strategic partner delivering measurable value</strong>.
+    This dual perspective means I understand both sides of the equation: I know what it takes to secure sponsorship because I've raised funding. I know what enterprises need because I've sold to them. I speak the language of CFOs and understand how to position OWASP not as a non-profit foundation seeking sponsorship via donations, but as a <strong style="color: #667eea;">strategic partner delivering measurable value</strong>.
   </p>
 </div>
 
@@ -345,7 +345,7 @@ layout: col-generic
   
   <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
     <p style="font-size: 1.1em; line-height: 1.8; color: #2c3e50; margin: 0; text-align: center; font-weight: 600; font-style: italic;">
-      I'm running for the OWASP Global Board because I don't just see what OWASP is—I see what OWASP must become. And I have the track record, the relationships, the global reach, and the execution discipline to make it inevitable.
+      I'm running for the OWASP Global Board because I don't just see what OWASP is—I see what OWASP must become. And I have the track record, the relationships, the global reach, and the execution discipline to make it happen.
     </p>
   </div>
 </div>
@@ -407,7 +407,7 @@ layout: col-generic
       ⚡ I turned budget constraints into strategic advantage.
     </h4>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      While others complained about the global economic downturn and shrinking budgets, I saw opportunity. I didn't ask for sponsorships—I built business cases. I identified what kept executives at target companies awake at night and showed them how investing in AI Exchange would deliver measurable ROI. The result? <strong>We're on track to exceed our $100k funding goal for 2025.</strong> In a recession. For an open source project.
+      While others complained about the global economic downturn and shrinking budgets, I saw opportunity. I didn't ask for sponsorships—I built business cases. I identified what kept executives at target companies awake at night and showed them how investing in AI Exchange would deliver measurable ROI. The result? <strong>We're on track to exceed our $100k funding goal for 2025.</strong> When money is tight everywhere.. For an open source project.
     </p>
   </div>
   
@@ -431,7 +431,7 @@ layout: col-generic
   
   <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
     <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
-      🎯  I prioritised the OWASP brand or promoted.
+      🎯  I prioritised the OWASP brand.
     </h4>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       In every conversation, every partnership, every presentation—I asked: <strong>"How does this advance OWASP's mission globally?"</strong> Not my personal brand. Not my project's metrics. The foundation's impact.
@@ -1112,7 +1112,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">4. Transparency and Community Engagement</h3>
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">4. Transparency and Community Engagement with the Security Mindset</h3>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
       <li style="margin-bottom: 10px;">Monthly progress updates on OWASP.org</li>
       <li style="margin-bottom: 10px;">Quarterly community calls for feedback</li>
@@ -1136,7 +1136,7 @@ Summary: 90-Day Impact Dashboard
   </h2>
   
   <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
-    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 12px 0; font-weight: 600;">Data Security in AI</h3>
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 12px 0; font-weight: 600;">Data Security and Governance in AI</h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Founded OWASP AI Exchange, established relationships with AI vendors and research institutions
     </p>
@@ -1220,7 +1220,7 @@ Summary: 90-Day Impact Dashboard
     Verification
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; margin: 0; text-align: center;">
-    Progress will be tracked monthly on OWASP.org and discussed during quarterly community calls.
+    Progress will be tracked monthly on OWASP.org, in focussed forums and discussed during quarterly community calls.
   </p>
 </div>
 
