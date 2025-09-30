@@ -16,7 +16,7 @@ Hello, I am Fred Donovan, a divisional security lead and application security ar
 
 #### Link to My Video
 <br>
-https://drive.google.com/file/d/1xhWC1QNXs2PKYazk-HRLPKjgdmbMMATU/view?usp=drive_link
+<a href="https://drive.google.com/file/d/1xhWC1QNXs2PKYazk-HRLPKjgdmbMMATU/view?usp=drive_link" target="_blank">FD_Video</a>
 <br>
 
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
