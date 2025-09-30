@@ -26,7 +26,7 @@ If elected, I will bring a collaborative leadership style focused on building br
 <br>
 
 #### Link to My Video
-[Candidate Name](#)
+<a href="https://youtu.be/k1rSe8z1QX4" target="_blank">Arvind Janardhanan</a>
 <br>
 <br>
 
