@@ -47,6 +47,7 @@ If elected, my first priority will be to address structural challenges faced by 
 
 By focusing on these three areas in my first 90 days, I aim to deliver meaningful improvements that make OWASP’s projects more effective, sustainable, and easier for members to engage with and trust.
 <br>
+----
 <br>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
@@ -63,7 +64,6 @@ OWASP has hundreds of projects, but many are inactive or lack clear status indic
 OWASP’s most impactful projects will gain the visibility they deserve, and project leaders will have a clear path for hosting and growth. Members can track progress by:
 - Monitoring new labels and changes in the OWASP GitHub organization.
 
----
 
 **Challenge 2:**
 
@@ -77,14 +77,10 @@ Today, communication can be fragmented:
 
 This misalignment can leave project leaders feeling disconnected from OWASP’s strategic direction and unsure how their feedback impacts board-level decisions.
 
----
-
 **Action Plan:**
 - Work with the Project Committee to **update and publish the Project Handbook**, providing clear guidance on governance, communication channels, and support resources for project leaders.
 - Collaborate with the Project Committee to improve communication with OWASP project leaders, which could include regularly scheduled meetings to strengthen relationships and streamline communication channels.
 - Increase awareness of the Project Committee’s role among project leaders so they know how to engage and seek support.
-
----
 
 **Challenge 3:**  
 OWASP already has a [Project Policy](https://policy.owasp.org/operational/projects) that defines how projects should be started, maintained, and sunset (including activity thresholds, governance rules, and inactive project procedures). Yet in practice, many projects fall short:
@@ -105,10 +101,9 @@ Over time, OWASP’s project ecosystem will be more consistent, trustworthy, and
 - Public metrics via the compliance dashboard.
 - A reduction in projects in limbo (neither clearly active nor formally deprecated).
 
----
-
 By addressing these three challenges — clarifying project visibility, strengthening communication, and enforcing existing policies — we can ensure OWASP continues to grow as a global force for good, empowering the next generation of security leaders and open-source innovators.
 <br>
+----
 <br>
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
@@ -129,8 +124,6 @@ If elected, I will focus on **closing this implementation gap** with a clear, ti
    - Offer support or resources to help them revitalize the project
    - Confirm whether they want to continue leading the project
 
----
-
 ###### **Outcome**
 By systematically triaging projects, re-engaging inactive leaders, and creating clear visibility for members, we will:
 - Build trust in OWASP’s ecosystem.
@@ -138,8 +131,8 @@ By systematically triaging projects, re-engaging inactive leaders, and creating 
 
 This process will transform OWASP’s project portfolio into a clear, reliable, and sustainable foundation for the future of open-source application security.
 <br>
+----
 <br>
-
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
 <br>
