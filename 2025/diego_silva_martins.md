@@ -31,49 +31,63 @@ While my direct open-source code contributions are limited, my leadership and co
 * Global Governance: Since January 2025, I have served on the OWASP Global Board, where I help shape strategic policies and advocate for transparency, inclusion, and revitalization of OWASP projects.
 * Community Advocacy: I’ve supported translation efforts of OWASP materials and promoted onboarding for contributors from underrepresented regions.
 
-First 90 Days on the Board – Deliverables & Verification
+**First 90 Days on the Board – Deliverables & Verification**
 To ensure immediate and measurable impact, I committed to three strategic outcomes:
 
 **1. OWASP Project Transparency Dashboard**
-Goal: Launch a public dashboard showing the health status of OWASP projects — active, stale, archived — with leadership and contribution metrics.
+**Goal:** Launch a public dashboard showing the health status of OWASP projects — active, stale, archived — with leadership and contribution metrics.
+
 **Verification:**
+
 * Dashboard published on OWASP.org or GitHub
 * Monthly updates with project activity indicators
 * Open community feedback channel
 
 **2. Mentorship & Localization Program**
-Goal: Create a structured mentorship initiative focused on onboarding contributors from Latin America, Africa, and Arab-speaking regions. Include translation of key OWASP materials.
+
+**Goal:** Create a structured mentorship initiative focused on onboarding contributors from Latin America, Africa, and Arab-speaking regions. Include translation of key OWASP materials.
+
 **Verification:**
+
 * Public list of mentors and mentees
 * Monthly onboarding sessions tracked
 * Translated documents (e.g., OWASP Top Ten, ASVS) published
 
 **3. Project Evaluation Policy Proposal**
-Goal: Draft and present to the Board a formal policy defining criteria for evaluating OWASP projects based on activity level, leadership responsiveness, and technical relevance.
-Verification:
+
+**Goal:** Draft and present to the Board a formal policy defining criteria for evaluating OWASP projects based on activity level, leadership responsiveness, and technical relevance.
+
+**Verification:**
+
 * Policy document published on OWASP GitHub
 * Board meeting minutes confirming review and approval
 * Implementation timeline shared with the community
-<br>
-<br>
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 
 **1. Limited Member Engagement and Perceived Value**
+
 Many OWASP contributors and chapter leaders feel disconnected from the broader mission or unclear about the benefits of their involvement.
+
 **Actionable Plan:**
+
 * Launch a Member Value Framework that includes:
     * Recognition programs (certificates, badges, spotlight features)
     * Priority access to training, mentorship, and speaking opportunities
     * Feedback channels for continuous improvement
 Leadership Role: I will lead the design and pilot rollout of this framework with chapters in Latin America and Europe.
+
 **Verification:**
+
 * Public dashboard tracking member engagement metrics
 * Quarterly satisfaction surveys with published results
 
 **2. Lack of Structured Mentorship and Knowledge Transfer**
+
 OWASP’s vast expertise is often siloed, and new contributors struggle to find guidance or pathways to contribute meaningfully.
+
 **Actionable Plan:**
+
 * Create the OWASP Mentorship & Knowledge Transfer Program, focused on:
     * Pairing experienced professionals with newcomers
     * Hosting monthly onboarding sessions
@@ -86,14 +100,15 @@ Leadership Role: I will recruit mentors, coordinate onboarding events, and overs
 
 **3. Insufficient Localization and Regional Inclusion**
 OWASP’s global mission is hindered by language barriers and uneven regional representation, especially in Latin America, Africa, and the Middle East.
-<br>
+
 **Actionable Plan:**
+
 * Spearhead the Localization & Inclusion Initiative:
     * Translate core OWASP materials (Top Ten, ASVS, Cheat Sheets) into Portuguese, Spanish, and Arabic
     * Activate dormant chapters through regional workshops
     * Promote leadership opportunities for underrepresented regions
 Leadership Role: I will coordinate translation efforts, partner with local leaders, and host regional onboarding events.
-<br>
+
 **Verification:**
 * Translated documents published on OWASP.org
 * Chapter activation metrics tracked quarterly
@@ -108,16 +123,24 @@ The Board's responsibility is to propose clear policies, oversee their implement
 
 In this sense, what can be done strategically and discussed jointly with the staff and community is the feasibility of certain guidelines and actions to revitalize stagnant projects.
 
-**1. OWASP Project Evaluation Policy** To establish more objective criteria for periodic project evaluation, including:
+**1. OWASP Project Evaluation Policy** 
+
+To establish more objective criteria for periodic project evaluation, including:
 * Frequency of technical updates
 * Leadership engagement
 * Community adoption
 * Relevance to security trends
-**2. Public Transparency Dashboard:** Request staff to create a public dashboard (e.g., GitHub or Wiki) with:
+
+**2. Public Transparency Dashboard:** 
+
+Request staff to create a public dashboard (e.g., GitHub or Wiki) with:
 * Updated project status (active, under review, archived)
 * Names of leaders and contact channels
 * Open opportunities for new maintainers
-**3. Community Re-Engagement Program:** Mobilize regional chapters and volunteers to:
+
+**3. Community Re-Engagement Program:** 
+
+Mobilize regional chapters and volunteers to:
 * Take on projects with technical potential
 * Receive mentoring and institutional support
 * Relaunch initiatives with an action plan and clear goals
@@ -129,23 +152,24 @@ The OWASP Foundation's mission is to promote open, accessible, and collaborative
 
 **1. Strengthening Regional Chapters**
 Supporting the creation and revitalization of OWASP chapters in Arab countries is a priority, offering:
-* Institutional support for chapter registration, promotion, and operation.
-* Materials translated into Arabic, focusing on key documents such as the OWASP Top Ten, ASVS, and Cheat Sheets.
-* Encouraging the development of local leaders, with mentoring and recognition programs.
+- Institutional support for chapter registration, promotion, and operation.
+- Materials translated into Arabic, focusing on key documents such as the OWASP Top Ten, ASVS, and Cheat Sheets.
+- Encouraging the development of local leaders, with mentoring and recognition programs.
 This action aligns with the OWASP principles of inclusion, collaboration, and regional empowerment.
 
 **2. Regional Coordination Working Group**
 I propose the creation of a regional working group, comprised of local leaders and global OWASP members, with the following objectives:
-* Share best practices among chapters and technical communities.
-* Promote joint events, such as webinars, workshops, and hackathons.
-* Facilitate understanding of local realities, including legal, cultural, and technical challenges.
-* Stimulate sustainable growth in software security, based on OWASP standards and regional needs.
+- Share best practices among chapters and technical communities.
+- Promote joint events, such as webinars, workshops, and hackathons.
+- Facilitate understanding of local realities, including legal, cultural, and technical challenges.
+- Stimulate sustainable growth in software security, based on OWASP standards and regional needs.
 
 **3. Invitation to the Arab Community**
 I invite local leaders, security professionals, educators, and volunteers from the Arab region to join this initiative. Let us work together to:
-* Discuss plans and practical actions.
-* Identify opportunities for collaboration.
-* Build a strong regional network aligned with OWASP values.
+- Discuss plans and practical actions.
+- Identify opportunities for collaboration.
+- Build a strong regional network aligned with OWASP values.
+
 I am available to support, listen, and collaborate with anyone who wants to strengthen software security in their countries and communities.<br>
 <br>
 
