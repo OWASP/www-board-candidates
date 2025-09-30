@@ -14,7 +14,7 @@ layout: col-generic
 <br>
 Hi! I’m Kelly Santalucia.
 <br>
-
+<br>
 While I don’t come from an AppSec background, I know OWASP deeply, having had the privilege of working for the Foundation for 15 years. OWASP is a special organization that holds a big part of my heart, and I’ve been fortunate to experience both sides, how the community thrives and how the Foundation operates behind the scenes. This perspective gives me a unique understanding of the challenges we face and the opportunities ahead.
 <br>
 <br>
@@ -36,6 +36,7 @@ If elected to the board, I will help secure financial sustainability, stronger c
 **Open Source Contributions and Leadership**
 I am a long time OWASP member and the co-leader of the OWASP Virtual Chapter which was established earlier this year and led the OWASP EAR Project, where high-profile companies were interviewed to understand what benefits they would value most from OWASP in exchange for financially supporting the Foundation.
 <br>
+<br>
 If elected to the board, in my first 90 days I will:
 <br>
 
@@ -51,8 +52,10 @@ Members will be able to verify progress through visible corporate engagement win
 **Challenge #1: Financial Sustainability and Funding Growth**
 OWASP’s growth and reach are limited by unpredictable revenue streams and dependence on sporadic sponsorships and event-based funding. This instability prevents investment in long-term projects and global initiatives.
 <br>
+
 Action Plan
-<br>
+
+
 - Expand Corporate Partnership Program: Create structured tiers tiers where organizations are recognized for supporting OWASP projects, chapters, and community growth, not just events or corporate support.
 - Grants and Public Funding: Proactively source government, foundation, and philanthropic grants that align with OWASP’s role in public-interest cybersecurity education alongside the OWASP staff
 - Individual Giving and Sustainers: Strengthen recurring donor programs with clear messaging around the global public good OWASP provides.
@@ -84,30 +87,31 @@ OWASP’s reputation is strong with AppSec professionals, but it lacks broader r
         - Function: Drive visibility through blogs, podcasts, social media campaigns, and integration of OWASP into local events or curricula.
         - Impact: Scales OWASP’s voice, creates consistent messaging, and engages diverse ecosystems.
 <br>
+
 Action Plan:
-<br>
-    - Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
-    - Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
-    - Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
-Industry & Policy Engagement Ambassadors represent OWASP in government and industry alliances, while Advocates amplify OWASP’s success stories and impact within the network.
+
+- Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
+- Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
+- Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
+- Industry & Policy Engagement Ambassadors represent OWASP in government and industry alliances, while Advocates amplify OWASP’s success stories and impact within the network.
 <br>
 By addressing financial stability, chapter engagement, and marketing visibility, OWASP can significantly increase its global influence.
 <br>
 
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
-<br>
+
 If elected, I will push for the OWASP staff to launch an up to date 90-day project revitalization plan to address stale OWASP projects:
-    - By Day 30: Publish an up to date inventory of projects, categorizing them as active, stale, or unresponsive.
-    - By Day 60: For projects with unresponsive leads, recruit new leads from our community.
-    - By Day 90: Any projects still without active leadership will be formally marked dormant, with clear, published criteria for how new volunteers can relaunch them.
+- By Day 30: Publish an up to date inventory of projects, categorizing them as active, stale, or unresponsive.
+- By Day 60: For projects with unresponsive leads, recruit new leads from our community.
+- By Day 90: Any projects still without active leadership will be formally marked dormant, with clear, published criteria for how new volunteers can relaunch them.
 <br>
 This plan ensures that within three months, every OWASP project will have a visible status, an engaged leader, or a clear path forward. We can’t afford to let great ideas die in limbo. Together, we’ll keep OWASP’s projects thriving.
 <br>
 <br>
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
-<br>
+
 OWASP’s role is to inform, educate, and empower. In Arab countries, our support would come through vendor neutral resources, localized community engagement, and events aimed at providing knowledge and growing the next generation of secure software professionals.
 <br>
 
@@ -130,6 +134,7 @@ While OWASP does not provide certification or commercial training, we can suppor
 <br>
 <br>
 Thank you for taking the time to learn more about me and my vision for taking OWASP to the next level. I would be honored to have your vote and the opportunity to represent our community. Even if you choose not to vote for me, I hope you will support another candidate who shares the same passion and commitment to OWASP’s mission.
+<br>
 <br>
 
 **Disclaimer:**
