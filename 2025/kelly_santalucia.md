@@ -98,6 +98,7 @@ Action Plan:
 By addressing financial stability, chapter engagement, and marketing visibility, OWASP can significantly increase its global influence.
 <br>
 
+
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
 
