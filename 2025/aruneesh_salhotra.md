@@ -314,6 +314,96 @@ layout: col-generic
 
 <div style="margin: 40px 0 30px 0;">
   <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+    Media & Thought Leadership
+  </h2>
+  
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 25px; text-align: justify;">
+    My commitment to knowledge sharing extends across multiple media platforms, where I discuss cutting-edge security topics, AI governance, and industry transformation:
+  </p>
+
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 30px 0;">
+    
+    <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; border-left: 5px solid #667eea;">
+      <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">🎙️ Podcasts & Interviews</h3>
+      <ul style="font-size: 1.05em; line-height: 1.7; color: #34495e; margin: 0; padding-left: 20px; list-style-type: none;">
+        <li style="margin-bottom: 12px;">
+          <a href="https://www.youtube.com/watch?v=YmW3RbSuM&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Views from a Fractional CISO</strong> - Complete Security Delivery
+          </a>
+        </li>
+        <li style="margin-bottom: 12px;">
+          <a href="https://www.youtube.com/watch?v=Er3M4nWZu&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Helen Fu Thomas Interview</strong> - Industry Leadership Discussion
+          </a>
+        </li>
+        <li style="margin-bottom: 12px;">
+          <a href="https://www.youtube.com/watch?v=DwRz-mjaSLA&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>The Future of Attack Surface Management</strong>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/watch?v=bOP_IgCqS&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Volunteering in Cybersecurity Non-profits</strong> - Secure & Simple Ep 20
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div style="background: #ffffff; padding: 25px; border-radius: 10px; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">🎯 Conference Presentations</h3>
+      <ul style="font-size: 1.05em; line-height: 1.7; color: #34495e; margin: 0; padding-left: 20px; list-style-type: none;">
+        <li style="margin-bottom: 12px;">
+          <a href="https://www.youtube.com/watch?v=bOP_IgCqS&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>OWASP AI Exchange - #RSAC 2024</strong> - OWASP LLM Apps Top 10 Generative AI Summit
+          </a>
+        </li>
+        <li style="margin-bottom: 12px;">
+          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>AI Code Generation - Benefits, Risks and Mitigation</strong> - AppSec San Francisco
+          </a>
+        </li>
+        <li style="margin-bottom: 12px;">
+          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Defending AI Models</strong> - Strategies for Securing AI Implementations Against Emerging Threats
+          </a>
+        </li>
+        <li>
+          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Right-sizing the Maturity Model</strong> - Journey to AppSec Maturity Dialogue at RSA
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div style="background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">📊 Industry Analysis & Research</h3>
+    <ul style="font-size: 1.05em; line-height: 1.7; color: #34495e; margin: 0; padding-left: 20px; list-style-type: none;">
+      <li style="margin-bottom: 12px;">
+        <a href="https://www.thepurplebook.club/blog-posts/what-parallels-can-we-draw-from-the-nfl-to-take-a-risk-based-approach-for-appsec" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <strong>NFL to AppSec: Risk-Based Approach</strong>
+        </a> - Comparing NFL threat mitigation strategies to AppSec risk management
+      </li>
+      <li style="margin-bottom: 8px;">
+        <strong>App Metrics that Matter</strong> - AppSec maturity measurement frameworks
+      </li>
+      <li style="margin-bottom: 8px;">
+        <strong>Right-sizing the Maturity Model for Organizations</strong> - Organizational security assessment
+      </li>
+      <li>
+        <strong>Cassie Crossley Journey to AppSec Maturity</strong> - Collaborative industry dialogue
+      </li>
+    </ul>
+  </div>
+
+  <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-top: 25px; text-align: center; font-style: italic;">
+    These platforms allow me to share insights, foster industry dialogue, and contribute to the collective advancement of cybersecurity knowledge.
+  </p>
+</div>
+
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Academic Bridge Builder
   </h2>
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
@@ -1501,5 +1591,43 @@ Summary: 90-Day Impact Dashboard
   
   <p style="font-size: 1.2em; line-height: 1.8; margin: 25px 0 0 0; font-weight: 600; color: #ffffff; font-style: italic;">
     Vote for leadership that doesn't just promise change—but delivers it.
+  </p>
+</div>
+
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 50px 0;">
+
+<div style="margin: 50px 0; text-align: center;">
+  <h2 style="color: #2c3e50; font-size: 2.2em; margin: 0 0 30px 0; font-weight: 700; text-align: center;">
+    📸 Professional Highlights & Conference Moments
+  </h2>
+  
+  <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin-bottom: 40px; text-align: center; font-style: italic;">
+    A visual journey through global conferences, speaking engagements, and professional milestones
+  </p>
+
+  <div style="display: grid; grid-template-columns: 1fr; gap: 40px; margin: 40px 0;">
+    
+    <div style="background: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); border: 2px solid #f8f9fa;">
+      <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
+        🌟 Professional Journey Highlights
+      </h3>
+      <img src="../assets/images/Aruneesh Salhotra Collage 2.jpg" 
+           alt="Aruneesh Salhotra Professional Highlights Collage" 
+           style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 0 auto; display: block;">
+    </div>
+
+    <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); border: 2px solid #667eea;">
+      <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
+        🎤 Conference Speaking & Industry Engagement
+      </h3>
+      <img src="../assets/images/Aruneesh Salhotra Collage for Conferences.jpg" 
+           alt="Aruneesh Salhotra Conference Speaking Engagements Collage" 
+           style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 0 auto; display: block;">
+    </div>
+
+  </div>
+
+  <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-top: 30px; text-align: center; font-style: italic;">
+    These moments capture the collaborative spirit, global reach, and industry impact that define my approach to cybersecurity leadership.
   </p>
 </div>
