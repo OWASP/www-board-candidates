@@ -192,7 +192,7 @@ layout: col-generic
       Davos – World Economic Forum
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      I attended a security conference in <strong>Davos held alongside the World Economic Forum</strong>—where technology leaders converge to address humanity's most pressing challenges.
+      I attended the <a href="https://www.kron4.com/business/press-releases/ein-presswire/611509916/global-cyber-security-leaders-convening-in-davos-at-the-cff-cyber-future-dialogue-2023/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>CFF Cyber Future Dialogue 2023 in Davos</strong></a> held alongside the World Economic Forum—where technology leaders converge to address humanity's most pressing challenges.
     </p>
   </div>
 
@@ -201,7 +201,7 @@ layout: col-generic
       "Machines Can See" – Dubai, Middle East's Largest AI Conference
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      I served as a <strong>panelist at "Machines Can See"—the Middle East's largest AI conference in Dubai</strong>—where I engaged with regional policymakers, technology leaders, and innovators driving AI adoption across the MENA region. This platform positioned me to build critical relationships with Middle Eastern regulators and establish advisory channels that will shape how AI security standards evolve in one of the world's fastest-growing technology markets.
+      I served as a panelist at <a href="https://machinescansee.com/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>"Machines Can See"—the Middle East's largest AI conference in Dubai</strong></a>—where I engaged with regional policymakers, technology leaders, and innovators driving AI adoption across the MENA region. This platform positioned me to build critical relationships with Middle Eastern regulators and establish advisory channels that will shape how AI security standards evolve in one of the world's fastest-growing technology markets.
     </p>
   </div>
 
@@ -210,7 +210,7 @@ layout: col-generic
       Open Source Congress – Belgium, September 2025
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-      I attended the <strong>Open Source Congress in Belgium</strong>, now in its third year and hosted by the Eclipse Foundation in collaboration with OSS foundations. This intimate, facilitated forum brings together leadership from code-producing open source software foundations to foster global dialogue, collaboration, and strategic development of the open source ecosystem. I also participated in the <strong>Open Source Stakeholder Day</strong>—a first-time OSC-adjacent event where foundation leadership joined with industry and public policy leaders to continue dialogue on the most pressing concerns and opportunities for our ecosystem.
+      I attended the <a href="https://www.opensourcecongress.org/event/fb27ccee-0093-45b2-b465-179e4d5dea1e/open-source-congress-2025" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;"><strong>Open Source Congress in Belgium</strong></a>, now in its third year and hosted by the Eclipse Foundation in collaboration with OSS foundations. This intimate, facilitated forum brings together leadership from code-producing open source software foundations to foster global dialogue, collaboration, and strategic development of the open source ecosystem. I also participated in the <strong>Open Source Stakeholder Day</strong>—a first-time OSC-adjacent event where foundation leadership joined with industry and public policy leaders to continue dialogue on the most pressing concerns and opportunities for our ecosystem.
     </p>
   </div>
 
@@ -1230,10 +1230,10 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px; margin: 30px 0; color: white; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffffff; font-size: 1.5em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #ffffff; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
     Verification
   </h3>
-  <p style="font-size: 1.1em; line-height: 1.8; margin: 0; text-align: center;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin: 0; text-align: center;">
     Progress will be tracked monthly on OWASP.org and discussed during quarterly community calls.
   </p>
 </div>
@@ -1245,7 +1245,7 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
-  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+  <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Revitalizing Critical Projects
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1254,10 +1254,10 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 35px; border-radius: 12px; margin: 30px 0; color: white; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #ffffff; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
     "Scrum of Scrums" Model for Project Collaboration
   </h3>
-  <p style="font-size: 1.1em; line-height: 1.8; margin-bottom: 20px; text-align: justify;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 20px; text-align: justify;">
     I will initiate a <strong>"Scrum of Scrums" model</strong> to bring project leads together, identify overlaps or duplications, and establish monthly cadences within domains such as:
   </p>
   <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
@@ -1267,7 +1267,7 @@ Summary: 90-Day Impact Dashboard
       <li><strong>AI Domain:</strong> AI Exchange, GenAI, Verification Standards, AIMA</li>
     </ul>
   </div>
-  <p style="font-size: 1.1em; line-height: 1.8; margin-top: 25px; text-align: center; font-weight: 600; font-style: italic;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin-top: 25px; text-align: center; font-weight: 600; font-style: italic;">
     This will drive stronger synergy, collaboration, and consistency across projects.
   </p>
 </div>
