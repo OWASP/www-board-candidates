@@ -119,35 +119,35 @@ layout: col-generic
   </table>
 </div>
 
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 40px 35px; border-radius: 12px; color: white; margin: 45px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h2 style="font-size: 2.3em; margin-bottom: 28px; text-align: center; color: #ffd700; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Global Engagement at the Highest Levels
   </h2>
   
-  <p style="font-size: 1.15em; line-height: 1.8; margin-bottom: 28px; text-align: center;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     My commitment to shaping international security dialogue extends to the world's most influential platforms:
   </p>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 28px; border-radius: 10px; margin: 25px 0; border-left: 6px solid #ffd700; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.5em; margin-bottom: 16px; color: #ffd700; font-weight: 600;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
       Davos – World Economic Forum
     </h3>
-    <p style="font-size: 1.08em; line-height: 1.75;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       I attended a security conference in <strong>Davos held alongside the World Economic Forum</strong>—where technology leaders converge to address humanity's most pressing challenges.
     </p>
   </div>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 28px; border-radius: 10px; margin: 25px 0; border-left: 6px solid #4ade80; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.5em; margin-bottom: 16px; color: #4ade80; font-weight: 600;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
       "Machines Can See" – Dubai, Middle East's Largest AI Conference
     </h3>
-    <p style="font-size: 1.08em; line-height: 1.75;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       I served as a <strong>panelist at "Machines Can See"—the Middle East's largest AI conference in Dubai</strong>—where I engaged with regional policymakers, technology leaders, and innovators driving AI adoption across the MENA region. This platform positioned me to build critical relationships with Middle Eastern regulators and establish advisory channels that will shape how AI security standards evolve in one of the world's fastest-growing technology markets.
     </p>
   </div>
 
-  <p style="font-size: 1.08em; line-height: 1.8; margin-top: 28px; font-style: italic; text-align: center; padding: 20px; background: rgba(0,0,0,0.2); border-radius: 8px;">
-    In these forums, I don't just observe—I contribute to conversations that influence international cybersecurity policy and the frameworks that will govern AI and digital infrastructure for decades. This experience taught me that our industry's future is shaped at the intersection of <strong>policy, technology, and capital</strong>—where I've deliberately positioned myself to ensure voices like OWASP's are heard at the tables where it matters most.
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: justify; font-style: italic;">
+    In these forums, I don't just observe—I contribute to conversations that influence international cybersecurity policy and the frameworks that will govern AI and digital infrastructure for decades. This experience taught me that our industry's future is shaped at the intersection of <strong style="color: #667eea;">policy, technology, and capital</strong>—where I've deliberately positioned myself to ensure voices like OWASP's are heard at the tables where it matters most.
   </p>
 </div>
 
@@ -261,45 +261,45 @@ layout: col-generic
   </p>
 </div>
 
-<div style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 45px 35px; border-radius: 12px; color: white; margin: 45px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h2 style="font-size: 2.5em; margin-bottom: 30px; text-align: center; color: #4ade80; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Why This Matters for OWASP
   </h2>
   
-  <p style="font-size: 1.15em; line-height: 1.8; margin-bottom: 22px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Everything I've built—the partnerships, the sponsorships, the academic collaborations, the companies I've launched, the startups I've funded, the policy conversations in Davos, the regulatory relationships forged in Dubai, my leadership as Co-Chair of GCLF connecting CISOs worldwide—has prepared me for this moment.
   </p>
   
-  <p style="font-size: 1.15em; line-height: 1.8; margin-bottom: 22px; text-align: justify;">
-    OWASP stands at a crossroads: we can remain a respected collection of excellent projects, or we can become the <strong>indispensable global foundation</strong> that defines how software security is practiced in the age of AI, open source, and converging technologies.
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
+    OWASP stands at a crossroads: we can remain a respected collection of excellent projects, or we can become the <strong style="color: #667eea;">indispensable global foundation</strong> that defines how software security is practiced in the age of AI, open source, and converging technologies.
   </p>
   
-  <p style="font-size: 1.25em; line-height: 1.8; font-weight: 600; text-align: center; margin-top: 35px; padding: 28px; background: rgba(255,255,255,0.12); border-radius: 10px; backdrop-filter: blur(10px);">
-    I'm running for the OWASP Global Board because I don't just see what OWASP is—I see what OWASP must become. And I have the track record, the relationships, the global reach, and the execution discipline to make it inevitable.
-  </p>
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; text-align: center; font-weight: 600; font-style: italic;">
+      I'm running for the OWASP Global Board because I don't just see what OWASP is—I see what OWASP must become. And I have the track record, the relationships, the global reach, and the execution discipline to make it inevitable.
+    </p>
+  </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 35px; border-radius: 12px; color: white; margin: 45px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25); text-align: center;">
-  <h2 style="font-size: 2.3em; margin-bottom: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     The Pattern
   </h2>
   
-  <p style="font-size: 1.25em; line-height: 1.8; margin-bottom: 28px; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
     I take initiative when I see opportunities to create value. Rather than waiting for perfect conditions or seeking recognition, I focus on building the right teams and partnerships. When a situation calls for it, I help mobilize resources and facilitate conversations across organizational levels to turn ideas into reality.
   </p>
   
-  <div style="margin: 35px 0; padding: 30px; background: rgba(0,0,0,0.3); border-radius: 10px; backdrop-filter: blur(10px);">
-    <p style="font-size: 1.45em; font-weight: 700; margin: 0; line-height: 1.9; letter-spacing: 0.5px;">
-      <ul>
-        <li>I invest in ideas.</li>
-        <li>I build communities.</li>
-        <li>I shape conversations that matter.</li>
-        <li>I deliver results.</li>
-      </ul>
-    </p>
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <ul style="font-size: 1.2em; line-height: 2; color: #2c3e50; margin: 0; padding-left: 25px; list-style-type: disc; font-weight: 600;">
+      <li style="margin-bottom: 12px;">I invest in ideas.</li>
+      <li style="margin-bottom: 12px;">I build communities.</li>
+      <li style="margin-bottom: 12px;">I shape conversations that matter.</li>
+      <li>I deliver results.</li>
+    </ul>
   </div>
   
-  <p style="font-size: 1.35em; line-height: 1.8; font-weight: 600; margin-top: 35px;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600;">
     And I'm ready to do all four for OWASP's next chapter.
   </p>
 </div>
@@ -312,67 +312,70 @@ layout: col-generic
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
-#### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    Q1. What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
+  </h2>
+</div>
 <br>
 <br>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 12px; color: white; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  
-  <h2 style="font-size: 2.5em; margin-bottom: 20px; text-align: center; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Most people chase titles. I chase impact.
   </h2>
   
-  <p style="font-size: 1.3em; line-height: 1.8; margin-bottom: 30px; text-align: center; font-style: italic;">
-    Since joining the OWASP AI Exchange in April 2024 alongside Rob van der Beer, I've been obsessed with one question: <strong>How do you turn a nascent open source project into a movement that shapes an entire industry?</strong>
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify; font-style: italic;">
+    Since joining the OWASP AI Exchange in April 2024 alongside Rob van der Beer, I've been obsessed with one question: <strong style="color: #667eea;">How do you turn a nascent open source project into a movement that shapes an entire industry?</strong>
   </p>
   
-  <h3 style="font-size: 2em; margin: 30px 0 20px 0; text-align: center; border-bottom: 3px solid rgba(255,255,255,0.5); padding-bottom: 15px;">
+  <h3 style="color: #667eea; font-size: 1.6em; margin: 35px 0 20px 0; font-weight: 600;">
     Here's what execution-driven leadership looks like:
   </h3>
   
-  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #ffd700;">
-    <h4 style="font-size: 1.5em; margin-bottom: 15px; color: #ffd700;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       ⚡ I turned budget constraints into strategic advantage.
     </h4>
-    <p style="font-size: 1.1em; line-height: 1.7;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       While others complained about the global economic downturn and shrinking budgets, I saw opportunity. I didn't ask for sponsorships—I built business cases. I identified what kept executives at target companies awake at night and showed them how investing in AI Exchange would deliver measurable ROI. The result? <strong>We're on track to exceed our $100k funding goal for 2025.</strong> In a recession. For an open source project.
     </p>
   </div>
   
-  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #4ade80;">
-    <h4 style="font-size: 1.5em; margin-bottom: 15px; color: #4ade80;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       🎤 I made my team famous.
     </h4>
-    <p style="font-size: 1.1em; line-height: 1.7;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Leadership isn't about hoarding the spotlight—it's about building stages for others. I engineered speaking opportunities that put our contributors on the world's most prestigious platforms: RSA, Black Hat, CactusCon. We didn't just participate; <strong>we orchestrated 80+ presentations and webinars globally.</strong> Each talk amplified individual contributors while elevating OWASP's voice in AI security. When your volunteers become thought leaders, everyone wins.
     </p>
   </div>
   
-  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #fb923c;">
-    <h4 style="font-size: 1.5em; margin-bottom: 15px; color: #fb923c;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       🤝 I built bridges, not walls.
     </h4>
-    <p style="font-size: 1.1em; line-height: 1.7;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       The most powerful partnerships aren't transactional—they're transformational. By aligning AI Exchange with SANS Institute and Cloud Security Alliance, I didn't just expand OWASP's reach; I positioned us as the connective tissue between the industry's most influential organizations. We showed up at the OWASP Project Summit not to compete, but to collaborate, <strong>turning potential rivals into force multipliers.</strong>
     </p>
   </div>
   
-  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #60a5fa;">
-    <h4 style="font-size: 1.5em; margin-bottom: 15px; color: #60a5fa;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
       🎯 I made the OWASP brand matter again.
     </h4>
-    <p style="font-size: 1.1em; line-height: 1.7;">
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       In every conversation, every partnership, every presentation—I asked: <strong>"How does this advance OWASP's mission globally?"</strong> Not my personal brand. Not my project's metrics. The foundation's impact.
     </p>
   </div>
   
-  <div style="margin: 40px 0 30px 0; padding: 30px; background: rgba(0,0,0,0.3); border-radius: 8px; border: 2px solid rgba(255,255,255,0.3);">
-    <p style="font-size: 1.3em; line-height: 1.8; margin-bottom: 15px; font-weight: bold;">
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
       The pattern? I don't wait for permission. I don't optimize for credit. I identify what needs to exist in the world, then I make it inevitable.
     </p>
   </div>
   
-  <p style="font-size: 1.4em; line-height: 1.8; text-align: center; font-weight: bold; font-style: italic; margin-top: 30px; padding: 20px; background: rgba(0,0,0,0.4); border-radius: 8px;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 25px; text-align: center; font-weight: 600; font-style: italic;">
     Because at the end of the day, leadership isn't measured by the position you hold—it's measured by the movement you leave behind.
   </p>
 </div>
@@ -381,9 +384,11 @@ layout: col-generic
 
 <br>
 <br>
-<h2 style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 25px; margin: 40px 0 10px 0; border-radius: 12px; text-align: center; font-size: 2.2em; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-🎯 90-Day Strategic Execution Plan: Transforming OWASP's Global Impact
-</h2>
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
+    🎯 90-Day Strategic Execution Plan: Transforming OWASP's Global Impact
+  </h2>
+</div>
 <p style="text-align: center; font-size: 1.2em; color: #2c3e50; margin-bottom: 40px; font-style: italic;">
 Three focused blocks. Measurable outcomes. Public accountability.
 </p>
@@ -391,20 +396,20 @@ Three focused blocks. Measurable outcomes. Public accountability.
 
 Days 1-30 - Foundation & Launch
 Theme: Establish Infrastructure, Activate Governance, Launch OWASP's Modern Era
-<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-<tr style="background-color: #2c3e50; color: white;">
-<th style="width:30%">Initiative</th>
-<th style="width:40%">Deliverables</th>
-<th style="width:30%">Success Metrics & Verification</th>
+<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
+<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Working Group Framework Activation</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Working Group Framework Activation</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Publish foundational Working Group charter & governance model<br>
 - Establish templates for WG formation, reporting, success metrics<br>
 - Socialize framework with Foundation and Board members
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - Framework approved and published<br>
 - Templates available for 3+ Working Group types<br><br>
@@ -413,14 +418,14 @@ Theme: Establish Infrastructure, Activate Governance, Launch OWASP's Modern Era
 - Template repository live
 </td>
 </tr>
-<tr>
-<td><strong>Flagship Project Convergence Series Launch</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence Series Launch</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Convene first monthly sync with 8+ flagship project leaders (ASVS, SAMM, Top 10, ZAP, Dependency-Track, AI Exchange, CycloneDX, ModSecurity, GenAI, AIBOM)<br>
 - Create integrated security pathway roadmap<br>
 - Publish meeting notes and collaboration commitments
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - First meeting held with 8+ leaders<br>
 - 3+ cross-project initiatives identified<br>
@@ -434,21 +439,21 @@ Theme: Establish Infrastructure, Activate Governance, Launch OWASP's Modern Era
 
 Days 31-60 - Revenue Generation & Operational Excellence
 Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
-<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-<tr style="background-color: #2c3e50; color: white;">
-<th style="width:30%">Initiative</th>
-<th style="width:40%">Deliverables</th>
-<th style="width:30%">Success Metrics & Verification</th>
+<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
+<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
-<tr>
-<td><strong>$200K Sponsorship Revenue Campaign</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>$200K Sponsorship Revenue Campaign</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Close sponsorships with 5+ enterprise brands<br>
 - Formalize ROI business case template (with Starr Brown)<br>
 - Launch monthly "Sponsor Showcase" series demonstrating value<br>
 - Create tiered sponsorship packages with clear deliverables
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - $200K confirmed revenue<br>
 - 5+ Fortune 1000 companies in pipeline<br>
@@ -459,15 +464,15 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 - Signed contracts (summary data)
 </td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Funding Working Group Activation</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Funding Working Group Activation</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Recruit 5-7 members with proven fundraising expertise<br>
 - Publish Funding WG charter and monthly meeting schedule<br>
 - Release standardized sponsorship proposal templates<br>
 - Create chapter/project fundraising playbook
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - WG formed with 5-7 active members<br>
 - Charter published<br>
@@ -478,15 +483,15 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 - Playbook published
 </td>
 </tr>
-<tr>
-<td><strong>Integrated Project Sponsorship Model</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Integrated Project Sponsorship Model</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Package flagship projects as unified solutions for sponsors<br>
 - Create "Complete AppSec Stack" sponsorship tier (ASVS + SAMM + ZAP + Dependency-Track)<br>
 - Develop co-marketing materials for integrated offerings<br>
 - Pilot with 1+ major sponsor
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - 1+ integrated package sold<br>
 - 3+ package options created<br>
@@ -496,15 +501,15 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 - Sponsor case study published
 </td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Flagship Project Convergence (Continued)</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence (Continued)</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Second monthly sync focused on technical integrations<br>
 - Document first cross-project integration (e.g., SAMM → ASVS mapping)<br>
 - Create unified project marketing messaging<br>
 - Establish shared metrics framework
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - 1+ technical integration documented<br>
 - Unified messaging framework created<br>
@@ -519,21 +524,21 @@ Theme: Build Sustainable Funding, Operationalize Marketing, Scale Sponsorships
 
 Days 61-90 - Global Positioning & Ecosystem Leadership
 Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project Health
-<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-<tr style="background-color: #2c3e50; color: white;">
-<th style="width:30%">Initiative</th>
-<th style="width:40%">Deliverables</th>
-<th style="width:30%">Success Metrics & Verification</th>
+<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Initiative</th>
+<th style="width:40%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Deliverables</th>
+<th style="width:30%; padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Success Metrics & Verification</th>
 </tr>
-<tr>
-<td><strong>Open Source Security Alliance (OSSA) Launch</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Open Source Security Alliance (OSSA) Launch</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Establish quarterly executive forum with Linux Foundation, Apache, CNCF, OpenSSF, Eclipse<br>
 - Define complementary positioning map across foundations<br>
 - Create joint sponsorship program pilot<br>
 - Publish OSSA charter and collaboration framework
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - 1+ formal MOUs signed<br>
 - Quarterly meeting schedule set<br><br>
@@ -543,15 +548,15 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 - Sponsor program metrics report
 </td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>EU CRA & Eclipse Foundation Partnership</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>EU CRA & Eclipse Foundation Partnership</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Formalize OWASP-Eclipse collaboration (with Steve Springett)<br>
 - Position OWASP projects as CRA implementation standards<br>
 - Co-host webinar on CRA compliance (target: 200+ attendees)<br>
 - Publish 2 policy briefs mapping OWASP projects to regulations
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - Formal MOU with Eclipse signed<br>
 - Webinar: 200+ attendees<br>
@@ -562,13 +567,13 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 - Policy briefs: owasp.org/policy
 </td>
 </tr>
-<tr>
-<td><strong>Middle East Regulatory Expansion</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Middle East Regulatory Expansion</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Leverage "Machines Can See" conference relationships<br>
 - Schedule 3+ meetings with MENA regulators (SDAIA, UAE TDRA, Bahrain eGA)<br>
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - 3+ regulatory meetings scheduled<br>
 - Advisory framework established<br>
@@ -579,16 +584,16 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 - Regional engagement report
 </td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Marketing Working Group Activation</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Marketing Working Group Activation</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Recruit 5-7 marketing professionals from member companies<br>
 - Publish Marketing WG charter<br>
 - Release Marketing Playbook v1.0 with 10+ templates<br>
 - Establish brand metrics framework<br>
 - Deploy coordinated campaigns for major initiatives
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - WG formed: 5-7 members<br>
 - Playbook with 10+ templates released<br>
@@ -599,16 +604,16 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 - Campaign performance data
 </td>
 </tr>
-<tr>
-<td><strong>Data-Driven Project Health System</strong></td>
-<td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Data-Driven Project Health System</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Implement automated project scoring (GitHub, downloads, engagement)<br>
 - Launch "Project Rescue Squad" with mentor matching<br>
 - Host quarterly "OWASP Innovation Spotlight" webinar (3-5 projects)<br>
 - Create conference speaking pipeline for project leaders<br>
 - Triage 15+ stagnant projects (revive or archive)
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - 15+ projects triaged<br>
 - 5+ projects in webinars (300+ attendees/session)<br>
@@ -621,15 +626,15 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 - Speaking engagement tracker
 </td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Flagship Project Convergence (Final Phase)</strong></td>
-<td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Project Convergence (Final Phase)</strong></td>
+<td style="padding: 18px; color: #34495e;">
 - Third monthly sync: finalize technical integrations<br>
 - Launch unified flagship project documentation<br>
 - Create cross-promotion strategy and shared roadmap<br>
 - Publish Q4 integration milestones
 </td>
-<td>
+<td style="padding: 18px; color: #34495e;">
 <strong>Metrics:</strong><br>
 - Unified docs published<br>
 - Shared roadmap for Q4 released<br><br>
@@ -642,31 +647,31 @@ Theme: Foundation Convergence, Policy Influence, Marketing Activation, Project H
 </table>
 
 Summary: 90-Day Impact Dashboard
-<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-<tr style="background-color: #34495e; color: white;">
-<th>Category</th>
-<th>Total Commitments</th>
-<th>Key Outcomes</th>
+<table border="0" cellpadding="18" cellspacing="0" style="width:100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+<th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Category</th>
+<th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Total Commitments</th>
+<th style="padding: 20px; text-align: left; font-size: 1.1em; font-weight: 600;">Key Outcomes</th>
 </tr>
-<tr>
-<td><strong>Revenue Generated</strong></td>
-<td>$200K+ in 90 days</td>
-<td>Sustainable sponsorship model, integrated packages, Funding WG operational</td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Revenue Generated</strong></td>
+<td style="padding: 18px; color: #34495e;">$200K+ in 90 days</td>
+<td style="padding: 18px; color: #34495e;">Sustainable sponsorship model, integrated packages, Funding WG operational</td>
 </tr>
-<tr>
-<td><strong>Working Groups Activated</strong></td>
-<td>2 WGs operational</td>
-<td>Funding WG + Marketing WG with charters, templates, active membership</td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Working Groups Activated</strong></td>
+<td style="padding: 18px; color: #34495e;">2 WGs operational</td>
+<td style="padding: 18px; color: #34495e;">Funding WG + Marketing WG with charters, templates, active membership</td>
 </tr>
-<tr style="background-color: #ecf0f1;">
-<td><strong>Project Health</strong></td>
-<td>10+ projects triaged</td>
-<td>Health dashboard live, 25+ speaking slots secured, rescue squad active</td>
+<tr style="background-color: #f8f9fa; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Project Health</strong></td>
+<td style="padding: 18px; color: #34495e;">10+ projects triaged</td>
+<td style="padding: 18px; color: #34495e;">Health dashboard live, 25+ speaking slots secured, rescue squad active</td>
 </tr>
-<tr>
-<td><strong>Flagship Convergence</strong></td>
-<td>1-2 monthly syncs</td>
-<td>3+ technical integrations, unified docs, shared roadmap, collaboration culture</td>
+<tr style="background-color: #ffffff; border-bottom: 1px solid #e8e8e8;">
+<td style="padding: 18px; font-weight: 600; color: #2c3e50;"><strong>Flagship Convergence</strong></td>
+<td style="padding: 18px; color: #34495e;">1-2 monthly syncs</td>
+<td style="padding: 18px; color: #34495e;">3+ technical integrations, unified docs, shared roadmap, collaboration culture</td>
 </tr>
 </table>
 <br>
@@ -674,14 +679,13 @@ Summary: 90-Day Impact Dashboard
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
-#### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
-<br>
-<br>
-<div style="background: linear-gradient(135deg, #065f46 0%, #064e3b 100%); padding: 25px 30px; border-radius: 10px; margin: 40px 0 30px 0; border-left: 6px solid #10b981; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffffff; font-size: 1.6em; line-height: 1.6; margin: 0; font-weight: 600; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
-    Q2. What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide an actionable plan which you can spearhead and lead if need be for the goals you plan to achieve.
-  </h3>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    Q2. What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve.
+  </h2>
 </div>
+<br>
+<br>
 
 <!-- Challenge 1: Data Security -->
 <div style="margin: 40px 0 30px 0;">
@@ -750,32 +754,32 @@ Summary: 90-Day Impact Dashboard
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 10px; margin: 25px 0; color: white;">
-  <h4 style="color: #ffd700; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Execution Timeline
   </h4>
   <table style="width: 100%; border-collapse: collapse;">
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600; width: 25%;">Months 1-3</td>
-      <td style="padding: 12px 0;">Convene working group with AI Exchange contributors, data security practitioners, ML engineers</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; width: 25%; color: #2c3e50;">Months 1-3</td>
+      <td style="padding: 12px 0; color: #34495e;">Convene working group with AI Exchange contributors, data security practitioners, ML engineers</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 4-6</td>
-      <td style="padding: 12px 0;">Draft updated Data Security Top 10 with AI focus, release for community review</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 4-6</td>
+      <td style="padding: 12px 0; color: #34495e;">Draft updated Data Security Top 10 with AI focus, release for community review</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 7-9</td>
-      <td style="padding: 12px 0;">Finalize guidance, create reference implementations, launch educational content</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 7-9</td>
+      <td style="padding: 12px 0; color: #34495e;">Finalize guidance, create reference implementations, launch educational content</td>
     </tr>
     <tr>
-      <td style="padding: 12px 0; font-weight: 600;">Month 12</td>
-      <td style="padding: 12px 0;">Host "AI Data Security Summit" showcasing adoption and collecting feedback</td>
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Month 12</td>
+      <td style="padding: 12px 0; color: #34495e;">Host "AI Data Security Summit" showcasing adoption and collecting feedback</td>
     </tr>
   </table>
 </div>
 
-<div style="background: #e8f5e9; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #4caf50;">
-  <h4 style="color: #2e7d32; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Measurable Outcomes
   </h4>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -793,8 +797,8 @@ Summary: 90-Day Impact Dashboard
   </h2>
 </div>
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #4ade80;">
-  <h3 style="color: #4ade80; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     The Problem
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-bottom: 15px;">
@@ -815,7 +819,7 @@ Summary: 90-Day Impact Dashboard
   </h3>
   
   <div style="margin: 20px 0;">
-    <h4 style="color: #4ade80; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       1. Create OWASP Guidance for AI-Assisted Development
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -827,7 +831,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #4ade80; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       2. Integrate OWASP Standards into AI Development Tools
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -839,7 +843,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #4ade80; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       3. Modernize Compliance for AI-Assisted Development
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -851,7 +855,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #4ade80; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       4. Developer Education at Scale
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -863,36 +867,36 @@ Summary: 90-Day Impact Dashboard
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%); padding: 25px; border-radius: 10px; margin: 25px 0; color: white;">
-  <h4 style="color: #ffffff; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Execution Timeline
   </h4>
   <table style="width: 100%; border-collapse: collapse;">
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600; width: 25%;">Months 1-2</td>
-      <td style="padding: 12px 0;">Survey developers on AI coding tool usage, pain points, and security concerns</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; width: 25%; color: #2c3e50;">Months 1-2</td>
+      <td style="padding: 12px 0; color: #34495e;">Survey developers on AI coding tool usage, pain points, and security concerns</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 3-4</td>
-      <td style="padding: 12px 0;">Draft secure vibe coding guidance, create initial prompt library</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 3-4</td>
+      <td style="padding: 12px 0; color: #34495e;">Draft secure vibe coding guidance, create initial prompt library</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 5-6</td>
-      <td style="padding: 12px 0;">Build partnerships with AI coding platform vendors</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 5-6</td>
+      <td style="padding: 12px 0; color: #34495e;">Build partnerships with AI coding platform vendors</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 7-9</td>
-      <td style="padding: 12px 0;">Develop tooling (plugins, linters), launch educational content</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 7-9</td>
+      <td style="padding: 12px 0; color: #34495e;">Develop tooling (plugins, linters), launch educational content</td>
     </tr>
     <tr>
-      <td style="padding: 12px 0; font-weight: 600;">Months 10-12</td>
-      <td style="padding: 12px 0;">Pilot program with 10+ organizations, collect metrics, refine guidance</td>
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 10-12</td>
+      <td style="padding: 12px 0; color: #34495e;">Pilot program with 10+ organizations, collect metrics, refine guidance</td>
     </tr>
   </table>
 </div>
 
-<div style="background: #e8f5e9; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #4caf50;">
-  <h4 style="color: #2e7d32; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Measurable Outcomes
   </h4>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -911,8 +915,8 @@ Summary: 90-Day Impact Dashboard
   </h2>
 </div>
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #fb923c;">
-  <h3 style="color: #fb923c; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     The Problem
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-bottom: 15px;">
@@ -936,7 +940,7 @@ Summary: 90-Day Impact Dashboard
   </h3>
   
   <div style="margin: 20px 0;">
-    <h4 style="color: #fb923c; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       1. Create Unified Compliance Mapping Framework
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -948,7 +952,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #fb923c; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       2. Address Drift Detection Systematically
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -960,7 +964,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #fb923c; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       3. Build Regional Compliance Guides
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -972,7 +976,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="margin: 20px 0;">
-    <h4 style="color: #fb923c; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
+    <h4 style="color: #667eea; font-size: 1.2em; margin: 0 0 12px 0; font-weight: 600;">
       4. Establish Regulatory Advisory Relationships
     </h4>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -984,32 +988,32 @@ Summary: 90-Day Impact Dashboard
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #fb923c 0%, #f97316 100%); padding: 25px; border-radius: 10px; margin: 25px 0; color: white;">
-  <h4 style="color: #ffffff; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Execution Timeline
   </h4>
   <table style="width: 100%; border-collapse: collapse;">
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600; width: 25%;">Months 1-3</td>
-      <td style="padding: 12px 0;">Launch EU CRA compliance mapping (building on existing work), publish initial framework</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; width: 25%; color: #2c3e50;">Months 1-3</td>
+      <td style="padding: 12px 0; color: #34495e;">Launch EU CRA compliance mapping (building on existing work), publish initial framework</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 4-6</td>
-      <td style="padding: 12px 0;">Expand to Middle East regulations, create drift detection guidance</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 4-6</td>
+      <td style="padding: 12px 0; color: #34495e;">Expand to Middle East regulations, create drift detection guidance</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(255,255,255,0.2);">
-      <td style="padding: 12px 0; font-weight: 600;">Months 7-9</td>
-      <td style="padding: 12px 0;">Complete APAC and Americas guides, develop automated tooling</td>
+    <tr style="border-bottom: 1px solid #e8e8e8;">
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 7-9</td>
+      <td style="padding: 12px 0; color: #34495e;">Complete APAC and Americas guides, develop automated tooling</td>
     </tr>
     <tr>
-      <td style="padding: 12px 0; font-weight: 600;">Months 10-12</td>
-      <td style="padding: 12px 0;">Establish formal advisory relationships with 5+ regulatory bodies, iterate based on feedback</td>
+      <td style="padding: 12px 0; font-weight: 600; color: #2c3e50;">Months 10-12</td>
+      <td style="padding: 12px 0; color: #34495e;">Establish formal advisory relationships with 5+ regulatory bodies, iterate based on feedback</td>
     </tr>
   </table>
 </div>
 
-<div style="background: #e8f5e9; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #4caf50;">
-  <h4 style="color: #2e7d32; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+  <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
     Measurable Outcomes
   </h4>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1023,39 +1027,39 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <!-- Cross-Cutting Strategy -->
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 40px 35px; border-radius: 12px; margin: 50px 0; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h2 style="font-size: 2.2em; margin-bottom: 30px; text-align: center; color: #ffd700; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Cross-Cutting Execution Strategy
   </h2>
   
-  <p style="font-size: 1.1em; line-height: 1.8; margin-bottom: 25px;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     All three challenges share common needs:
   </p>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; margin: 20px 0; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">1. Working Group Structure</h3>
-    <p style="font-size: 1.05em; line-height: 1.8; margin: 0;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">1. Working Group Structure</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Each initiative requires dedicated working groups with clear deliverables and timelines. I will personally chair or co-chair these groups to ensure accountability.
     </p>
   </div>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; margin: 20px 0; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">2. Industry Partnerships</h3>
-    <p style="font-size: 1.05em; line-height: 1.8; margin: 0;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">2. Industry Partnerships</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Success requires collaboration with AI platform vendors (data security, vibe coding), compliance tool providers (drift detection), regulatory bodies (global compliance), and academic institutions (research validation).
     </p>
   </div>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; margin: 20px 0; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">3. Developer-First Approach</h3>
-    <p style="font-size: 1.05em; line-height: 1.8; margin: 0;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">3. Developer-First Approach</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       All guidance must be practical, actionable, and integrated into developers' existing workflows—not academic documents that sit unread.
     </p>
   </div>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; margin: 20px 0; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">4. Transparency and Community Engagement</h3>
-    <ul style="font-size: 1.05em; line-height: 1.8; margin: 0; padding-left: 25px;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">4. Transparency and Community Engagement</h3>
+    <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
       <li style="margin-bottom: 10px;">Monthly progress updates on OWASP.org</li>
       <li style="margin-bottom: 10px;">Quarterly community calls for feedback</li>
       <li style="margin-bottom: 10px;">Public GitHub repositories for all frameworks and tooling</li>
@@ -1063,42 +1067,42 @@ Summary: 90-Day Impact Dashboard
     </ul>
   </div>
 
-  <div style="background: rgba(255,255,255,0.12); padding: 25px; border-radius: 10px; margin: 20px 0; backdrop-filter: blur(10px);">
-    <h3 style="font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">5. Measurement and Iteration</h3>
-    <p style="font-size: 1.05em; line-height: 1.8; margin: 0;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">5. Measurement and Iteration</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Every initiative includes clear success metrics, feedback loops, and willingness to pivot based on community needs.
     </p>
   </div>
 </div>
 
 <!-- Why I'm Positioned -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 35px; border-radius: 12px; margin: 40px 0; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h2 style="font-size: 2.2em; margin-bottom: 25px; text-align: center; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Why I'm Positioned to Lead This
   </h2>
   
-  <div style="margin: 25px 0;">
-    <h3 style="font-size: 1.4em; margin: 0 0 12px 0; color: #ffd700; font-weight: 600;">Data Security in AI</h3>
-    <p style="font-size: 1.1em; line-height: 1.8; margin: 0;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 12px 0; font-weight: 600;">Data Security in AI</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Founded OWASP AI Exchange, established relationships with AI vendors and research institutions
     </p>
   </div>
 
-  <div style="margin: 25px 0;">
-    <h3 style="font-size: 1.4em; margin: 0 0 12px 0; color: #ffd700; font-weight: 600;">Vibe Coding</h3>
-    <p style="font-size: 1.1em; line-height: 1.8; margin: 0;">
+  <div style="background: #ffffff; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 12px 0; font-weight: 600;">Vibe Coding</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Deep technical background in software development, DevSecOps, and developer education
     </p>
   </div>
 
-  <div style="margin: 25px 0;">
-    <h3 style="font-size: 1.4em; margin: 0 0 12px 0; color: #ffd700; font-weight: 600;">Regulatory Complexity</h3>
-    <p style="font-size: 1.1em; line-height: 1.8; margin: 0;">
+  <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
+    <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 12px 0; font-weight: 600;">Regulatory Complexity</h3>
+    <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       Existing relationships with EU regulators (CRA work), Middle East policymakers ("Machines Can See"), and multi-jurisdictional compliance experience
     </p>
   </div>
 
-  <p style="font-size: 1.2em; line-height: 1.8; margin-top: 30px; text-align: center; font-weight: 600; font-style: italic;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-top: 30px; text-align: center; font-weight: 600; font-style: italic;">
     I don't just see these as OWASP challenges—I see them as the defining security questions of the next decade. OWASP must lead, and I'm committed to making that happen.
   </p>
 </div>
@@ -1107,7 +1111,11 @@ Summary: 90-Day Impact Dashboard
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
-#### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    Q3. Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
+  </h2>
+</div>
 <br>
 <br>
 <div style="margin: 40px 0 30px 0;">
@@ -1123,7 +1131,7 @@ Summary: 90-Day Impact Dashboard
 <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 35px; border-radius: 12px; margin: 30px 0; border-left: 6px solid #667eea; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #4ade80; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #4ade80; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
       Within 30 Days
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1132,7 +1140,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #60a5fa; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #60a5fa; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
       Within 60 Days
     </h3>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1141,7 +1149,7 @@ Summary: 90-Day Impact Dashboard
   </div>
 
   <div style="background: white; padding: 25px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #fb923c; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h3 style="color: #fb923c; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+    <h3 style="color: #667eea; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
       Within 120 Days
     </h3>
     <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1154,7 +1162,7 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px; margin: 30px 0; color: white; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffd700; font-size: 1.5em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 15px 0; font-weight: 600; text-align: center;">
     Verification
   </h3>
   <p style="font-size: 1.1em; line-height: 1.8; margin: 0; text-align: center;">
@@ -1168,8 +1176,8 @@ Summary: 90-Day Impact Dashboard
   </h2>
 </div>
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #a78bfa;">
-  <h3 style="color: #a78bfa; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     Revitalizing Critical Projects
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
@@ -1178,7 +1186,7 @@ Summary: 90-Day Impact Dashboard
 </div>
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 35px; border-radius: 12px; margin: 30px 0; color: white; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffd700; font-size: 1.6em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
+  <h3 style="color: #667eea; font-size: 1.6em; margin: 0 0 20px 0; font-weight: 600; text-align: center;">
     "Scrum of Scrums" Model for Project Collaboration
   </h3>
   <p style="font-size: 1.1em; line-height: 1.8; margin-bottom: 20px; text-align: justify;">
@@ -1200,30 +1208,29 @@ Summary: 90-Day Impact Dashboard
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
-<div style="background: linear-gradient(135deg, #2c5364 0%, #0f2027 100%); padding: 25px 30px; border-radius: 10px; margin: 40px 0 30px 0; border-left: 6px solid #ffd700; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffffff; font-size: 1.6em; line-height: 1.6; margin: 0; font-weight: 600; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
-    What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
-  </h3>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+  <h2 style="color: #ffffff; font-size: 1.8em; line-height: 1.4; margin: 0; font-weight: 700; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    Q4. What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
+  </h2>
 </div>
 <br>
 <br>
 
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 45px 35px; border-radius: 12px; color: white; margin: 45px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  
-  <h2 style="font-size: 2.3em; margin-bottom: 30px; text-align: center; color: #ffd700; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Understanding the Middle East Technology Landscape
   </h2>
   
-  <p style="font-size: 1.15em; line-height: 1.8; margin-bottom: 22px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     The Arab region, particularly the Persian Gulf states, represents one of the most dynamic technology markets globally. The Kingdom of Saudi Arabia, the United Arab Emirates (UAE), and the State of Qatar are moving rapidly to establish themselves as global centers of investment and innovation in artificial intelligence (AI). These nations are making substantial outlays in technology and infrastructure as they seek to diversify their economies away from oil dependency.
   </p>
   
-  <p style="font-size: 1.15em; line-height: 1.8; margin-bottom: 22px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     Critically, their governments are implementing comprehensive digital regulations and AI strategies in a bid to attract foreign investment and develop technology companies that can compete with American and European counterparts. While Gulf countries face significant challenges in achieving their AI and digital development goals, they are making considerable progress, due in part to early public-private initiatives and clear, decisive policy leadership.
   </p>
   
-  <div style="background: rgba(255,215,0,0.15); padding: 25px; border-radius: 10px; margin: 30px 0; border-left: 6px solid #ffd700; backdrop-filter: blur(10px);">
-    <p style="font-size: 1.2em; line-height: 1.8; margin: 0; font-weight: 600; text-align: center;">
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+    <p style="font-size: 1.15em; line-height: 1.8; color: #2c3e50; margin: 0; font-weight: 600; text-align: center;">
       This creates a unique opportunity—and responsibility—for OWASP to provide world-class security guidance precisely when these nations are building the regulatory and technical foundations that will define their digital economies for decades.
     </p>
   </div>
@@ -1251,8 +1258,8 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #4ade80; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <h3 style="color: #4ade80; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     2. Arabic-Language Resources and Localization
   </h3>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1262,8 +1269,8 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #fb923c;">
-  <h3 style="color: #fb923c; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     3. Regional Chapter Activation and Partnership
   </h3>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1274,8 +1281,8 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #60a5fa; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <h3 style="color: #60a5fa; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     4. Talent Development Programs
   </h3>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1285,8 +1292,8 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #a78bfa;">
-  <h3 style="color: #a78bfa; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     5. Regional Flagship Event
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin-bottom: 15px;">
@@ -1300,8 +1307,8 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #ec4899; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <h3 style="color: #ec4899; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
+<div style="background: #ffffff; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <h3 style="color: #667eea; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">
     6. AI Exchange Leadership in the Region
   </h3>
   <ul style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0; padding-left: 25px;">
@@ -1311,16 +1318,16 @@ Summary: 90-Day Impact Dashboard
   </ul>
 </div>
 
-<div style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 40px 35px; border-radius: 12px; color: white; margin: 45px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h2 style="font-size: 2.2em; margin-bottom: 25px; text-align: center; color: #4ade80; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-weight: 700;">
+<div style="margin: 40px 0 30px 0;">
+  <h2 style="color: #2c3e50; font-size: 2em; margin: 0 0 25px 0; border-bottom: 4px solid #667eea; padding-bottom: 12px; font-weight: 700;">
     Why This Matters Now
   </h2>
   
-  <p style="font-size: 1.12em; line-height: 1.8; margin-bottom: 20px; text-align: justify;">
+  <p style="font-size: 1.1em; line-height: 1.85; color: #34495e; margin-bottom: 25px; text-align: justify;">
     The timing is critical. As Gulf states implement their digital regulations and AI strategies, they need trusted, vendor-neutral security guidance to ensure their infrastructure is built on solid foundations. OWASP's open-source, community-driven approach aligns perfectly with their goals of:
   </p>
   
-  <ul style="font-size: 1.08em; line-height: 1.8; margin: 20px 0; padding-left: 25px;">
+  <ul style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin: 20px 0; padding-left: 25px;">
     <li style="margin-bottom: 12px;">Building transparent, internationally recognized standards</li>
     <li style="margin-bottom: 12px;">Attracting foreign investment by demonstrating security maturity</li>
     <li style="margin-bottom: 12px;">Developing local talent capable of competing globally</li>
@@ -1340,10 +1347,10 @@ Summary: 90-Day Impact Dashboard
   <div style="margin: 25px 0;">
     <ul style="font-size: 1.1em; line-height: 2; color: #34495e; padding-left: 25px; list-style-type: disc;">
       <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Localized Content & Language Accessibility</strong></li>
-      <li style="margin-bottom: 12px;"><strong style="color: #4ade80;">Regional Partnership Development</strong></li>
-      <li style="margin-bottom: 12px;"><strong style="color: #fb923c;">Talent Pipeline Creation</strong></li>
-      <li style="margin-bottom: 12px;"><strong style="color: #60a5fa;">Regulatory Alignment</strong></li>
-      <li><strong style="color: #a78bfa;">Public-Private Collaboration</strong></li>
+      <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Regional Partnership Development</strong></li>
+      <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Talent Pipeline Creation</strong></li>
+      <li style="margin-bottom: 12px;"><strong style="color: #667eea;">Regulatory Alignment</strong></li>
+      <li><strong style="color: #667eea;">Public-Private Collaboration</strong></li>
     </ul>
   </div>
   
