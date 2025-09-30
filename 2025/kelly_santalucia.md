@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-[Kelly santalucia](https://github.com/OWASP/www-board-candidates/blob/master/assets/images/kelly_santalucia_photo.png)
+[Kelly santalucia(https://github.com/OWASP/www-board-candidates/blob/master/assets/images/kelly_santalucia_photo.png)
 <br>
 <br>
 Hi! I’m Kelly Santalucia.
