@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Image](#)
+<img src="../assets/images/marisa_fagan_profile_pic_small.jpg" alt="Marisa Fagan" style="float: left; margin-right: 1em; margin-bottom: 1em; border-radius: 50%;">
 <br>
 <br>
 I’m Marisa Fagan, and I’m currently Head of Product at Katilyst. I’ve worked in AppSec for 16 years as an SDL security culture expert at companies like Atlassian, Synopsys, Bugcrowd, Salesforce, and Facebook. I live in San Francisco, CA, USA.
