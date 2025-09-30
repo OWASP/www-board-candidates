@@ -46,6 +46,7 @@ layout: col-generic
       </h3>
       <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
         <li>Co-lead <strong>OWASP AI Exchange</strong></li>
+        <li>Co-lead <strong>OWASP Serverless Top Ten</strong></li>
         <li>Founded <strong>OWASP AIBOM</strong></li>
         <li>Co-authored <strong>LLM Top Ten</strong></li>
         <li>Created 3 Working Group proposals</li>
@@ -80,13 +81,13 @@ layout: col-generic
     
     <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
       <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
-        📈 90-Day Commitments
+        🚀 Immediate Impact
       </h3>
       <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
-        <li><strong>$200K</strong> sponsorship revenue</li>
-        <li><strong>3 Working Groups</strong> activated</li>
-        <li><strong>15+ projects</strong> triaged</li>
-        <li>Monthly progress tracking</li>
+        <li><strong>$100K+</strong> sponsorship for OWASP AI Exchange</li>
+        <li><strong>OWASP AIBOM project</strong> launched with first sponsor in 3 weeks</li>
+        <li><strong>AI Exchange elevation</strong> from Incubation to Flagship</li>
+        <li><strong>Strategic alignment</strong> with SANS, CSA, EU AI Act</li>
       </ul>
     </div>
   </div>
@@ -1246,10 +1247,10 @@ Summary: 90-Day Impact Dashboard
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0; border-left: 5px solid #667eea;">
   <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
-    Revitalizing Critical Projects
+    Nurturing Critical Projects - Active and Emerging
   </h3>
   <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
-    Projects like the <strong>Data Security Top 10</strong>, last updated in 2023, highlight the need to revisit areas of emerging importance such as data classification and protection.
+    Projects like the <strong>Data Security Top 10</strong>, last updated in 2023, highlight the need to revisit areas of emerging importance such as data classification and protection. However, our focus must extend beyond dormant projects to actively <strong>groom and accelerate both existing critical projects and emerging initiatives</strong> that address today's evolving threat landscape. This includes providing strategic guidance, resources, and community support to ensure these projects achieve maximum impact and adoption across the industry.
   </p>
 </div>
 
