@@ -31,6 +31,65 @@ layout: col-generic
   </h2>
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
     I'm a technologist, servant leader, community builder, entrepreneur, and investor who believes that the future of security lies at the intersection of open source innovation, artificial intelligence, and global collaboration. With deep expertise spanning <strong>software development, program management, agile methodologies, DevSecOps, AI, compliance, audit, sales, and infrastructure</strong>, I've spent my career contributing to movements that have helped shape how the industry approaches security.
+  </p>
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 35px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+  <h2 style="color: #ffffff; font-size: 2.2em; margin: 0 0 30px 0; font-weight: 700; text-align: center; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    🏆 Key Achievements & Leadership Impact
+  </h2>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px;">
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+        🚀 OWASP Leadership
+      </h3>
+      <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
+        <li>Co-lead <strong>OWASP AI Exchange</strong></li>
+        <li>Founded <strong>OWASP AIBOM</strong></li>
+        <li>Co-authored <strong>LLM Top Ten</strong></li>
+        <li>Created 3 Working Group proposals</li>
+      </ul>
+    </div>
+    
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+        🌍 Global Engagement
+      </h3>
+      <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
+        <li><strong>Davos</strong> - WEF Security Conference</li>
+        <li><strong>Dubai</strong> - "Machines Can See" Panelist</li>
+        <li><strong>Belgium</strong> - Open Source Congress</li>
+        <li>Policy influence & regulatory advisory</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px;">
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+        💼 Professional Impact
+      </h3>
+      <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
+        <li><strong>C-CISO, GCISO, CISSP</strong> certified</li>
+        <li>Entrepreneur & investor</li>
+        <li>Author, blogger, podcaster</li>
+        <li>DevSecOps & AI expertise</li>
+      </ul>
+    </div>
+    
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 10px; backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
+        📈 90-Day Commitments
+      </h3>
+      <ul style="color: #ffffff; font-size: 1.05em; line-height: 1.7; margin: 0; padding-left: 20px;">
+        <li><strong>$200K</strong> sponsorship revenue</li>
+        <li><strong>3 Working Groups</strong> activated</li>
+        <li><strong>15+ projects</strong> triaged</li>
+        <li>Monthly progress tracking</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div style="margin: 40px 0 30px 0;">
@@ -248,7 +307,7 @@ layout: col-generic
     Author, Blogger, Podcaster—Amplifying Security Voices
   </h2>
   <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; text-align: justify;">
-    I believe knowledge hoarded is knowledge wasted. As an <strong>author, blogger, and podcaster</strong>, I've created platforms that democratize expertise and make complex topics accessible. When speaking or conduting workshops, my goal is the same: translate technical depth into actionable wisdom that moves the industry forward.
+    I believe knowledge hoarded is knowledge wasted. As an <strong>author, blogger, and podcaster</strong>, I've created platforms that democratize expertise and make complex topics accessible. When speaking or conducting workshops, my goal is the same: translate technical depth into actionable wisdom that moves the industry forward.
   </p>
 </div>
 
@@ -1418,5 +1477,43 @@ Summary: 90-Day Impact Dashboard
     This comprehensive approach positions OWASP to play a pivotal role in shaping the next generation of security professionals in the Arab world while directly supporting the region's ambitious technology and economic diversification goals. It reinforces the foundation's global mission and demonstrates that OWASP can be a strategic partner in national digital transformation initiatives worldwide.
   </p>
 </div>
-<br>
-<br>
+
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 50px 0;">
+
+<div style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); padding: 45px 35px; border-radius: 12px; color: white; margin: 50px 0; box-shadow: 0 12px 35px rgba(0,0,0,0.3); text-align: center;">
+  <h2 style="color: #ffffff; font-size: 2.4em; margin: 0 0 25px 0; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">
+    Ready to Lead. Ready to Deliver.
+  </h2>
+  
+  <p style="font-size: 1.3em; line-height: 1.8; margin: 25px 0; font-weight: 500; color: #ecf0f1;">
+    This isn't just a campaign—it's a commitment backed by concrete plans, measurable outcomes, and transparent accountability.
+  </p>
+  
+  <div style="background: rgba(255,255,255,0.1); padding: 30px; border-radius: 10px; margin: 30px 0; backdrop-filter: blur(10px);">
+    <h3 style="color: #667eea; font-size: 1.6em; margin: 0 0 20px 0; font-weight: 600;">
+      What You Get With Your Vote:
+    </h3>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; text-align: left;">
+      <div>
+        <p style="font-size: 1.1em; line-height: 1.7; margin: 0; color: #ffffff;">
+          ✅ <strong>$200K sponsorship revenue</strong> in 90 days<br>
+          ✅ <strong>3 Working Groups</strong> activated<br>
+          ✅ <strong>15+ projects</strong> triaged and revitalized<br>
+          ✅ <strong>Global policy influence</strong> established
+        </p>
+      </div>
+      <div>
+        <p style="font-size: 1.1em; line-height: 1.7; margin: 0; color: #ffffff;">
+          ✅ <strong>Monthly progress reports</strong> on OWASP.org<br>
+          ✅ <strong>Quarterly community calls</strong> for accountability<br>
+          ✅ <strong>Transparent metrics</strong> and verification<br>
+          ✅ <strong>Proven execution</strong> track record
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <p style="font-size: 1.2em; line-height: 1.8; margin: 25px 0 0 0; font-weight: 600; color: #ffffff; font-style: italic;">
+    Vote for leadership that doesn't just promise change—but delivers it.
+  </p>
+</div>
