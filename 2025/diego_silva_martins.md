@@ -18,7 +18,7 @@ My LinkedIn is https://www.linkedin.com/in/dsmartins/, let's connect!!
 <br>
 
 #### Link to My Video
-https://youtu.be/BwwV5YEvKms
+[https://youtu.be/BwwV5YEvKms](https://youtu.be/BwwV5YEvKms)
 <br>
 <br>
 
