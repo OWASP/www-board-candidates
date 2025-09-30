@@ -24,7 +24,7 @@ Outside OWASP I lead Information Security (currently focusing on SOC 2 complianc
 
 #### Link to My Video
 
-[Arkadii Yakovets -- OWASP 2025 Global Board Elections](https://www.youtube.com/watch?v=P0861YwN9yo)
+[Arkadii Yakovets -- OWASP 2025 Global Board Elections](https://www.youtube.com/watch?v=OTNVu3sPrIc)
 
 ---
 
@@ -204,7 +204,7 @@ Thank you for helping strengthen the OWASP community!
 
 Some parts of this page were refined with the help of a GPT-based tool to improve clarity and readability. I used this tool to smooth out rough edges in the text while ensuring that **all plans and positions presented here are my own**.
 
---
+---
 Arkadii Yakovets
 OWASP Nest, OWASP Nettacker
 CCSP, CISSP, CSSLP
