@@ -106,7 +106,6 @@ By addressing these three challenges — clarifying project visibility, strength
 
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
-<br>
 Stale or inactive projects create confusion for members, weaken OWASP’s brand, and make it harder for organizations to trust which tools and resources are current and supported. While OWASP already has strong **Project Policies** that outline activity requirements and governance expectations ([policy.owasp.org](https://policy.owasp.org/operational/projects)), there is a gap between policy and practice. Many projects remain in limbo — neither fully active nor formally deprecated — because there is no consistent follow-through.
 
 If elected, I will focus on **closing this implementation gap** with a clear, time-bound plan to triage projects, re-engage inactive leads, and ensure our ecosystem reflects only actively supported tools and materials.
