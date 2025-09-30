@@ -327,12 +327,12 @@ layout: col-generic
       <h3 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">🎙️ Podcasts & Interviews</h3>
       <ul style="font-size: 1.05em; line-height: 1.7; color: #34495e; margin: 0; padding-left: 20px; list-style-type: none;">
         <li style="margin-bottom: 12px;">
-          <a href="https://www.youtube.com/watch?v=YmW3RbSuM&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
-            <strong>Views from a Fractional CISO</strong> - Complete Security Delivery
+          <a href="https://www.youtube.com/watch?v=aYrnW3RbSuM&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+            <strong>Views from a Fractional CISO</strong> - Delivering Complete Security
           </a>
         </li>
         <li style="margin-bottom: 12px;">
-          <a href="https://www.youtube.com/watch?v=Er3M4nWZu&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <a href="https://www.youtube.com/watch?v=Er3M4mWZu&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
             <strong>Helen Fu Thomas Interview</strong> - Industry Leadership Discussion
           </a>
         </li>
@@ -343,7 +343,7 @@ layout: col-generic
         </li>
         <li>
           <a href="https://www.youtube.com/watch?v=bOP_IgCqS&pp=ygURYXJ1bmVlc2ggc2FsaG90cmE%3D" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
-            <strong>Volunteering in Cybersecurity Non-profits</strong> - Secure & Simple Ep 20
+            <strong>Volunteering in Cybersecurity Non-profits</strong> - Interview with Aruneesh Salhotra | EP 20
           </a>
         </li>
       </ul>
@@ -358,17 +358,17 @@ layout: col-generic
           </a>
         </li>
         <li style="margin-bottom: 12px;">
-          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <a href="https://www.youtube.com/watch?v=AI Code Generation - Benefits, Risks and Mitigation Controls - Aruneesh Salhotra" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
             <strong>AI Code Generation - Benefits, Risks and Mitigation</strong> - AppSec San Francisco
           </a>
         </li>
         <li style="margin-bottom: 12px;">
-          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <a href="https://www.youtube.com/watch?v=Defending AI Models: Strategies for Securing AI Implementations Against Emerging Threats" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
             <strong>Defending AI Models</strong> - Strategies for Securing AI Implementations Against Emerging Threats
           </a>
         </li>
         <li>
-          <a href="#" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <a href="https://www.youtube.com/watch?v=Cassie Crossley | Journey to AppSec Maturity: Dialogue at RSA" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
             <strong>Right-sizing the Maturity Model</strong> - Journey to AppSec Maturity Dialogue at RSA
           </a>
         </li>
@@ -385,14 +385,25 @@ layout: col-generic
           <strong>NFL to AppSec: Risk-Based Approach</strong>
         </a> - Comparing NFL threat mitigation strategies to AppSec risk management
       </li>
-      <li style="margin-bottom: 8px;">
-        <strong>App Metrics that Matter</strong> - AppSec maturity measurement frameworks
+      <li style="margin-bottom: 12px;">
+        <a href="https://www.youtube.com/watch?v=Volunteer Work in Cybersecurity Nonprofits | Interview with Aruneesh Salhotra | EP 20" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <strong>Volunteer Work in Cybersecurity Nonprofits</strong>
+        </a> - Interview with Aruneesh Salhotra | EP 20
       </li>
-      <li style="margin-bottom: 8px;">
-        <strong>Right-sizing the Maturity Model for Organizations</strong> - Organizational security assessment
+      <li style="margin-bottom: 12px;">
+        <a href="https://www.youtube.com/watch?v=Cassie Crossley | Journey to AppSec Maturity: Dialogue at RSA" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <strong>Right-sizing the Maturity Model for Organizations</strong>
+        </a> - Cassie Crossley | Journey to AppSec Maturity: Dialogue at RSA
+      </li>
+      <li style="margin-bottom: 12px;">
+        <a href="https://www.youtube.com/watch?v=Aruneesh Salhotra & Maria Schwenger | Journey to AppSec Maturity: Dialogue at RSA" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <strong>App Metrics that Matter</strong>
+        </a> - Aruneesh Salhotra & Maria Schwenger | Journey to AppSec Maturity: Dialogue at RSA
       </li>
       <li>
-        <strong>Cassie Crossley Journey to AppSec Maturity</strong> - Collaborative industry dialogue
+        <a href="https://www.youtube.com/watch?v=Chitra Dharmarajan & Valmiki Mukherjee | Journey to AppSec Maturity: Dialogue at RSA" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 500;">
+          <strong>Right-sizing the Maturity Model for Organizations</strong>
+        </a> - Chitra Dharmarajan & Valmiki Mukherjee | Journey to AppSec Maturity: Dialogue at RSA
       </li>
     </ul>
   </div>
