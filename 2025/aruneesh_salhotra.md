@@ -422,7 +422,7 @@ layout: col-generic
   
   <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin: 25px 0; border-left: 5px solid #667eea;">
     <h4 style="color: #667eea; font-size: 1.3em; margin: 0 0 15px 0; font-weight: 600;">
-      🤝 I built bridges, not walls.
+      🤝 I fostered collaboration and broke barriers.
     </h4>
     <p style="font-size: 1.05em; line-height: 1.8; color: #34495e; margin: 0;">
       The most powerful partnerships aren't transactional—they're transformational. By aligning AI Exchange with SANS Institute and Cloud Security Alliance, I didn't just expand OWASP's reach; I positioned us as the connective tissue between the industry's most influential organizations. We showed up at the OWASP Project Summit not to compete, but to collaborate, <strong>turning potential rivals into force multipliers.</strong>
