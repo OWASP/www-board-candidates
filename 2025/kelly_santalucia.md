@@ -134,8 +134,10 @@ While OWASP does not provide certification or commercial training, we can suppor
 - Mentorship and Community: Support OWASP staff in empowering local practitioners to contribute to existing projects or launch new ones and engage with experts through local chapter meetings or encourage them to start a chapter themselves.
 <br>
 <br>
+
 Thank you for taking the time to learn more about me and my vision for taking OWASP to the next level. I would be honored to have your vote and the opportunity to represent our community. Even if you choose not to vote for me, I hope you will support another candidate who shares the same passion and commitment to OWASP’s mission.
 <br>
+
 <br>
 
 **Disclaimer:**
