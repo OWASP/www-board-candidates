@@ -8,7 +8,7 @@ layout: col-generic
 
 #### About Me
 
-<img style="float: right; margin-right: 1em; margin-bottom: 1em; " src="https://raw.githubusercontent.com/OWASP/www-board-candidates/master/assets/images/jerryhoff.png" alt="Jerry Hoff" width="200" alt="Jerry Hoff">
+<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="https://raw.githubusercontent.com/OWASP/www-board-candidates/master/assets/images/jerryhoff.png" alt="Jerry Hoff" width="200" alt="Jerry Hoff">
 I’m Jerry Hoff, and I’ve been an active member of the OWASP community since 2007 and a lifetime member since 2010. Over the years, OWASP has been more than an organization to me. It has been a family that has shaped my career, given me lifelong friendships, and inspired me to contribute back to the global security community.
 
 My professional journey has included leadership roles at Aspect Security, WhiteHat Security, Sony Electronics, and NTT. Today I run AppSec Training, a boutique company dedicated to helping development and security teams strengthen application security through education. Alongside my professional work, I’ve consistently given back to OWASP by leading and contributing to projects such as AntiSamy.NET, WebGoat.NET, and the OWASP AppSec Tutorial Series. I co-lead the OWASP Virtual Chapter, created OWASP Jeopardy for conferences, authored the OWASP Executive Advisory Report, and was honored as OWASP AppSec Person of the Year in 2015.
