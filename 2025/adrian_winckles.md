@@ -11,6 +11,7 @@ layout: col-generic
 <br>
 <br>
 My name is Adrian Winckles, a cyber security professional, academic, and community leader with more than three decades of experience advancing global cyber resilience. My career has spanned academia, industry, and international organisations, where I have consistently focused on bridging the gap between research, education, and practice to build stronger and more secure digital ecosystems.
+<br>
 
 My involvement with OWASP began in 2011 when I jointly founded and continue to lead the Cambridge UK Chapter, hosting monthly community events that bring together practitioners, researchers, and students. In 2014, I was joint chair of OWASP Europe AppSec conference in Cambridge, UK and involved in all decision making parts of the delivery.
 
@@ -21,6 +22,8 @@ Since 2019, I have served as Chair of the OWASP Education and Training Committee
 Beyond OWASP, I have held leadership roles in professional bodies such as the British Computer Society and the UK Cybercrime Forensics SIG, contributing expertise to national initiatives and skills frameworks. As a Senior Lecturer and later Director of the Cyber Security & Networking Research Group at Anglia Ruskin University, I designed multiple degree programmes, supervised nine PhDs and over 250 MSc/BSc projects, and secured more than £500,000 in external research funding. My academic work has generated over 25 publications and informed EU and UK government policy and training programmes. Following a period of illness, I am curently working at the Open University with a Lectureship in Cyber Security.
 
 I bring to OWASP Board candidacy, extensive board-level experience, including my role as Director of Cyber East, supporting cyber innovation and skills development across the region. My work as co-founder and Research Director of ZORB Security further reflects my commitment to translating research into practical solutions.
+
+#### My Manifesto
 
 I am standing for election to the OWASP Global Board of Directors in 2025 to continue advancing OWASP's mission of improving the security of software worldwide, with a strong focus on **education and lifelong learning**.
 
@@ -42,7 +45,7 @@ I ask for your support to continue this mission as a member of the OWASP Global 
 <br>
 
 #### Link to My Video
-[Candidate Name](#)
+[Adrian Winckles](https://youtu.be/fzDuoRY70Ps)
 <br>
 <br>
 
