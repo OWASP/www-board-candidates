@@ -34,6 +34,36 @@ layout: col-generic
   </p>
 </div>
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 10px; margin: 30px 0; text-align: center; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
+  <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 20px 0; font-weight: 600;">
+    🎥 Candidacy Pitch - Aruneesh Salhotra
+  </h3>
+  
+  <div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 8px; margin-bottom: 20px; backdrop-filter: blur(10px);">
+    <h4 style="color: #ffffff; font-size: 1.2em; margin: 0 0 10px 0; font-weight: 600;">
+      🚀 My Pitch for OWASP Global Board
+    </h4>
+    <p style="color: #ffffff; font-size: 1em; line-height: 1.5; margin: 0 0 15px 0;">
+      A concise overview of my vision and commitment to OWASP's future
+    </p>
+    <a href="https://www.youtube.com/watch?v=T4kVtLB11RY" target="_blank" style="display: inline-block; background: #ffffff; color: #667eea; padding: 10px 25px; border-radius: 20px; text-decoration: none; font-weight: 600; font-size: 1em; box-shadow: 0 3px 8px rgba(0,0,0,0.15); margin-bottom: 10px;">
+      ▶️ Watch Pitch Video
+    </a>
+  </div>
+
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 8px; backdrop-filter: blur(10px);">
+    <h4 style="color: #ffffff; font-size: 1.2em; margin: 0 0 10px 0; font-weight: 600;">
+      📋 Full Candidature Video
+    </h4>
+    <p style="color: #ffffff; font-size: 1em; line-height: 1.5; margin: 0 0 15px 0;">
+      Complete presentation of my qualifications and detailed plans
+    </p>
+    <a href="https://youtu.be/38iyR3hJrH4" target="_blank" style="display: inline-block; background: #ffffff; color: #667eea; padding: 10px 25px; border-radius: 20px; text-decoration: none; font-weight: 600; font-size: 1em; box-shadow: 0 3px 8px rgba(0,0,0,0.15);">
+      ▶️ Watch Full Video
+    </a>
+  </div>
+</div>
+
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 35px; border-radius: 12px; margin: 50px 0 40px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
   <h2 style="color: #ffffff; font-size: 2.2em; margin: 0 0 30px 0; font-weight: 700; text-align: center; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
     🏆 Key Achievements & Leadership Impact
@@ -372,19 +402,6 @@ layout: col-generic
     And I'm ready to do all four for OWASP's next chapter.
   </p>
 </div>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 10px; margin: 30px 0; text-align: center; box-shadow: 0 6px 15px rgba(0,0,0,0.2);">
-  <h3 style="color: #ffffff; font-size: 1.4em; margin: 0 0 15px 0; font-weight: 600;">
-    🎥 Featured Video Content
-  </h3>
-  <p style="color: #ffffff; font-size: 1.1em; line-height: 1.6; margin: 0 0 20px 0;">
-    Watch my candidature video for the OWASP Global Board of Directors
-  </p>
-  <a href="https://youtu.be/38iyR3hJrH4" target="_blank" style="display: inline-block; background: #ffffff; color: #667eea; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: 600; font-size: 1.1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: all 0.3s ease;">
-    ▶️ Watch Video - Aruneesh Salhotra
-  </a>
-</div>
-
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 30px 0;">
 
