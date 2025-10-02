@@ -9,12 +9,12 @@ layout: col-generic
 #### About Me
 
 <img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="https://raw.githubusercontent.com/OWASP/www-board-candidates/master/assets/images/jerryhoff2.png" alt="Jerry Hoff" width="350" alt="Jerry Hoff">
-I’m Jerry Hoff, and I’ve been an active member of the OWASP community since 2007 and a lifetime member since 2010. Over the years, OWASP has been more than an organization to me. It has been a family that has shaped my career, given me lifelong friendships, and inspired me to contribute back to the global security community.
+For over 15 years, I’ve dedicated myself to building, teaching, and advancing the global application security community through OWASP. Over the years, OWASP has been more than an organization to me. It has been a family that has shaped my career, given me lifelong friendships, and inspired me to contribute back to the global security community.
 
-My professional journey has included leadership roles at Aspect Security, WhiteHat Security, Sony Electronics, and NTT. Today I run AppSec Training, a boutique company dedicated to helping development and security teams strengthen application security through education. Alongside my professional work, I’ve consistently given back to OWASP by leading and contributing to projects such as AntiSamy.NET, WebGoat.NET, and the OWASP AppSec Tutorial Series. I co-lead the OWASP Virtual Chapter, created OWASP Jeopardy for conferences, authored the OWASP Executive Advisory Report, and was honored as OWASP AppSec Person of the Year in 2015.
+My professional journey has included leadership roles at Aspect Security, WhiteHat Security, Sony Electronics, and NTT. Today I run AppSec Training, a boutique company dedicated to helping development and security teams strengthen application security through education. 
 
-As a candidate for the OWASP Global Board, my focus is clear: empower our staff and volunteers, strengthen fundraising and corporate support, expand visibility so OWASP remains the global voice of application security, and ensure our projects and chapters thrive. I believe in the incredible potential of our community, and I would be honored to continue serving by helping OWASP grow and fulfill its mission worldwide.
-|
+I aim to empower volunteers, strengthen funding, expand OWASP’s global visibility, and ensure our projects and chapters flourish.  I’m committed to helping OWASP grow as the definitive global voice in application security.
+
 
 #### Video
 [Why I'm running for the OWASP Board | 2025 Jerry Hoff Video](https://www.youtube.com/watch?v=sxeZkvYRXG4)
