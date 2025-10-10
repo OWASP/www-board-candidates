@@ -44,8 +44,9 @@ Founder of the .AI Cybersecurity Channel at [Youtube](https://www.youtube.com/@A
 <br>
 
 #### Link to My Video
-[Watch my Candidate Video](https://youtu.be/Yp6LPC52Nl0)
+[Watch my Candidate Video Intro](https://youtu.be/Yp6LPC52Nl0)
 <br>
+[Watch my Candidate Video Real Solutions](https://youtu.be/jZ_jhg_Mym4)
 <br>
 
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
