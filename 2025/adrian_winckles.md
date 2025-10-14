@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-<img src="../assets/images/vcjq3s4ntnqti3oyxmnp.avif" alt="Arkadii Yakovets" style="float: left; margin-right: 1em; margin-bottom: 1em; border-radius: 50%;">
+<img src="../assets/images/vcjq3s4ntnqti3oyxmnp.avif" alt="Adrian Winckles" style="float: left; margin-right: 1em; margin-bottom: 1em; border-radius: 50%;">
 <br>
 <br>
 My name is Adrian Winckles, a cyber security professional, academic, and community leader with more than three decades of experience advancing global cyber resilience. My career has spanned academia, industry, and international organisations, where I have consistently focused on bridging the gap between research, education, and practice to build stronger and more secure digital ecosystems.
