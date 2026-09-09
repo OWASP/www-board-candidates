@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Kelly Santalucia 
 layout: col-generic
 

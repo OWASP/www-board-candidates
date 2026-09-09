@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Aruneesh Salhotra
 layout: col-generic
 

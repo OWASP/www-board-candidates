@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Arkadii Yakovets
 layout: col-generic
 

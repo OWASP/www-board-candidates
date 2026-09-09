@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Gustavo Arreaza
 layout: col-generic
 

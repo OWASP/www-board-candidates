@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Marisa Fagan 
 layout: col-generic
 

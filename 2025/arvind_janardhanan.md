@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Arvind Janardhanan
 layout: col-generic
 

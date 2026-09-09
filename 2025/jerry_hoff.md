@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Jerry Hoff
 layout: col-generic
 

@@ -1,6 +1,6 @@
 ---
 
-candidate: true
+candidate: false
 title: Chirag Shah
 layout: col-generic
 
